@@ -1,0 +1,141 @@
+{
+    "Sustained to 2050": {
+        "Demand Case: Mitigation": {
+            "Residential": {
+                "DemandFlexibleLoadMeasures": [
+                    1
+                ]
+            },
+            "Commercial": {
+                "DemandFlexibleLoadMeasures": [
+                    2
+                ]
+            },
+            "Passenger Transportation": {
+                "DemandFlexibleLoadMeasures": [
+                    3
+                ]
+            },
+            "Sensitivities": [
+                {
+                    "table": "DemandEnergyDemandsData",
+                    "parent_id": 1,
+                    "sensitivity": "Mitigation Energy Demand"
+                },
+                {
+                    "table": "DemandEnergyDemandsData",
+                    "parent_id": 2,
+                    "sensitivity": "Mitigation Energy Demand"
+                },
+                {
+                    "table": "DemandEnergyDemandsData",
+                    "parent_id": 3,
+                    "sensitivity": "Mitigation Energy Demand"
+                },
+                {
+                    "table": "DemandEnergyDemandsData",
+                    "parent_id": 4,
+                    "sensitivity": "Mitigation Energy Demand"
+                },
+                {
+                    "table": "DemandEnergyDemandsData",
+                    "parent_id": 5,
+                    "sensitivity": "Mitigation Energy Demand"
+                }
+            ]
+        },
+        "Supply Case: Mitigation High Renewables No Delay": {
+            "Diesel Blend": {
+                "BlendNodeBlendMeasures": [
+                    3
+                ]
+            },
+            "Gasoline Blend": {
+                "BlendNodeBlendMeasures": [
+                    1
+                ]
+            },
+            "Jet Fuel Blend": {
+                "BlendNodeBlendMeasures": [
+                    2
+                ]
+            },
+            "Bulk Electricity Blend": {
+                "BlendNodeBlendMeasures": [
+                    17,
+                    18,
+                    19,
+                    23,
+                    25
+                ]
+            },
+            "Onshore Wind": {
+                "SupplyStockMeasures": [
+                    1
+                ]
+            },
+            "Transmission-Sited Solar PV": {
+                "SupplyStockMeasures": [
+                    6
+                ]
+            },
+            "Nuclear Power Plants": {
+                "SupplyStockMeasures": [
+                    27
+                ]
+            },
+            "Coal Power Plants": {
+                "SupplyStockMeasures": [
+                    2
+                ]
+            },
+            "Combustion Turbines": {
+                "SupplySalesShareMeasures": [
+                    1
+                ]
+            },
+            "Geothermal Power Plants": {
+                "SupplyStockMeasures": [
+                    7
+                ]
+            },
+            "Dispatchable Hydroelectric Power Plants": {
+                "SupplyStockMeasures": [
+                    29
+                ]
+            },
+            "Bulk Electricity Storage": {
+                "SupplyStockMeasures": [
+                    18
+                ]
+            },
+            "Thermal Dispatch Blend": {
+                "CO2PriceMeasures": [
+                    1
+                ]
+            },
+            "Fossil Steam Turbines": {
+                "SupplyStockMeasures": [
+                    5,
+                    13,
+                    20,
+                    21,
+                    22,
+                    23
+                ]
+            },
+            "Biomass Power Plants": {
+                "SupplyStockMeasures": [
+                    12
+                ]
+            },
+            "Internal Combustion Engines": {
+                "SupplyStockMeasures": [
+                    16,
+                    24,
+                    25
+                ]
+            }
+        }
+    }
+}

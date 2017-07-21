@@ -1,0 +1,153 @@
+{
+    "PRODESEN with Cumulative Target": {
+        "Demand Case: Mitigation": {
+            "Residential": {
+                "DemandFlexibleLoadMeasures": [
+                    7
+                ]
+            },
+            "Commercial": {
+                "DemandFlexibleLoadMeasures": [
+                    8
+                ]
+            },
+            "Passenger Transportation": {
+                "DemandFlexibleLoadMeasures": [
+                    9
+                ]
+            },
+            "Sensitivities": [
+                {
+                    "table": "DemandEnergyDemandsData",
+                    "parent_id": 1,
+                    "sensitivity": "Mitigation Energy Demand"
+                },
+                {
+                    "table": "DemandEnergyDemandsData",
+                    "parent_id": 2,
+                    "sensitivity": "Mitigation Energy Demand"
+                },
+                {
+                    "table": "DemandEnergyDemandsData",
+                    "parent_id": 3,
+                    "sensitivity": "Mitigation Energy Demand"
+                },
+                {
+                    "table": "DemandEnergyDemandsData",
+                    "parent_id": 4,
+                    "sensitivity": "Mitigation Energy Demand"
+                },
+                {
+                    "table": "DemandEnergyDemandsData",
+                    "parent_id": 5,
+                    "sensitivity": "Mitigation Energy Demand"
+                }
+            ]
+        },
+        "Supply Case: Steep cumulative target in electricity": {
+            "Diesel Blend": {
+                "BlendNodeBlendMeasures": [
+                    40
+                ]
+            },
+            "Gasoline Blend": {
+                "BlendNodeBlendMeasures": [
+                    38
+                ]
+            },
+            "Jet Fuel Blend": {
+                "BlendNodeBlendMeasures": [
+                    39
+                ]
+            },
+            "Bulk Electricity Blend": {
+                "BlendNodeBlendMeasures": [
+                    30,
+                    31,
+                    32,
+                    33,
+                    34
+                ]
+            },
+            "Onshore Wind": {
+                "SupplyStockMeasures": [
+                    1
+                ]
+            },
+            "Transmission-Sited Solar PV": {
+                "SupplyStockMeasures": [
+                    6
+                ]
+            },
+            "Nuclear Power Plants": {
+                "SupplyStockMeasures": [
+                    27
+                ]
+            },
+            "Combined-Cycle Gas Turbines": {
+                "SupplyStockMeasures": [
+                    3
+                ]
+            },
+            "Coal Power Plants": {
+                "SupplyStockMeasures": [
+                    2
+                ]
+            },
+            "Combustion Turbines": {
+                "SupplySalesShareMeasures": [
+                    1
+                ],
+                "SupplyStockMeasures": [
+                    4,
+                    9
+                ]
+            },
+            "Geothermal Power Plants": {
+                "SupplyStockMeasures": [
+                    7
+                ]
+            },
+            "Dispatchable Hydroelectric Power Plants": {
+                "SupplyStockMeasures": [
+                    29
+                ]
+            },
+            "Bulk Electricity Storage": {
+                "SupplyStockMeasures": [
+                    30
+                ]
+            },
+            "Thermal Dispatch Blend": {
+                "BlendNodeBlendMeasures": [
+                    16
+                ],
+                "CO2PriceMeasures": [
+                    3
+                ]
+            },
+            "Fossil Steam Turbines": {
+                "SupplyStockMeasures": [
+                    5,
+                    13,
+                    20,
+                    21,
+                    22,
+                    23
+                ]
+            },
+            "Biomass Power Plants": {
+                "SupplyStockMeasures": [
+                    12
+                ]
+            },
+            "Internal Combustion Engines": {
+                "SupplyStockMeasures": [
+                    16,
+                    24,
+                    25
+                ]
+            }
+        }
+    }
+}
