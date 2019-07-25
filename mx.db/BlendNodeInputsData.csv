@@ -1,0 +1,47 @@
+blend_node,supply_node
+Bulk Electricity Blend,Onshore Wind
+Bulk Electricity Blend,Offshore Wind
+Bulk Electricity Blend,Transmission-Sited Solar PV
+Bulk Electricity Blend,Geothermal Power Plants
+Bulk Electricity Blend,Run of River Hydroelectric Power Plants
+Bulk Electricity Blend,Biomass Power Plants
+Thermal Dispatch Blend,Nuclear Power Plants
+Thermal Dispatch Blend,Combined-Cycle Gas Turbines
+Thermal Dispatch Blend,Coal Power Plants
+Thermal Dispatch Blend,Combustion Turbines
+Thermal Dispatch Blend,Fossil Steam Turbines
+Natural Gas Blend,Natural Gas Primary
+Bulk Electricity Blend,Thermal Dispatch Blend
+Bulk Electricity Blend,Dispatchable Hydroelectric Power Plants
+Bulk Electricity Blend,Bulk Electricity Storage
+Jet Fuel Blend,Renewable Jet-Fuel Production Facilities
+Jet Fuel Blend,Refined Fossil Jet Fuel Product
+Gasoline Blend,Refined Fossil Gasoline Product
+Diesel Blend,Refined Fossil Diesel Product
+Pipeline Gas Blend,Hydrogen Blend
+Pipeline Gas Blend,Natural Gas Blend
+Pipeline Gas Blend,Power-to-Gas Production Facilities
+Pipeline Gas Blend,Biomass Gasification Facilities
+Hydrogen Blend,Solar Thermal Hydrogen Production
+Hydrogen Blend,Hydrogen Electrolysis - Central Station
+Hydrogen Blend,Hydrogen Gas Reformation Central Station
+Distributed Electricity,Rooftop Solar PV
+Distributed Electricity,Distribution-Sited Solar PV
+Distributed Electricity,Electricity Distribution Grid
+Steam Blend,Combined Heat and Power
+Coal Blend,Coal Primary
+Distributed Electricity,Distributed Storage
+Steam Blend,Industrial Boilers
+Steam Blend,Biomass Boilers
+Thermal Dispatch Blend,Combined-Cycle Gas Turbines with CCS
+Thermal Dispatch Blend,Coal Power Plants with CCS
+Thermal Dispatch Blend,Demand Response
+Diesel Blend,Renewable Diesel Production Facilities w/CCS
+Pipeline Gas Blend,Biomass Gasification Facilities w/CCS
+Hydrogen Blend,Hydrogen Gas Reformation w/CCS
+Diesel Blend,Renewable Diesel Production Facilities
+Jet Fuel Blend,Renewable Diesel Production Facilities
+Bulk Electricity Blend,Wave Power Plants
+Gasoline Blend,Ethanol Production Facilities
+Thermal Dispatch Blend,Internal Combustion Engines
+Bulk Electricity Blend,Solar Thermal Power Plants

@@ -1,0 +1,6 @@
+supply_node,geography,unit,interpolation_method,extrapolation_method,extrapolation_growth,age_growth_or_decay_type,age_growth_or_decay,source,notes,gau,demand_sector,resource_bin,year,value
+Electricity Distribution Grid,us,4,nearest,nearest,,,,,,us,residential,,2015,0.5
+Electricity Distribution Grid,us,4,nearest,nearest,,,,,,us,commercial,,2015,0.55
+Electricity Distribution Grid,us,4,nearest,nearest,,,,,,us,transportation,,2015,0.5
+Electricity Distribution Grid,us,4,nearest,nearest,,,,,,us,productive,,2015,0.73
+Electricity Transmission Grid,us,4,nearest,nearest,,,,,,us,,,2015,0.58

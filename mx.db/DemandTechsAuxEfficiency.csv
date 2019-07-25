@@ -1,0 +1,73 @@
+demand_technology,definition,reference_tech_id,geography,other_index_1,other_index_2,final_energy,demand_tech_efficiency_types,is_numerator_service,numerator_unit,denominator_unit,interpolation_method,extrapolation_method,extrapolation_growth,age_growth_or_decay_type,age_growth_or_decay,shape,source,notes,gau,oth_1,oth_2,vintage,value,sensitivity
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2015,36.9795,
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2020,47.3247,
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2025,54.336000000000006,
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2030,61.0016,
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2035,67.4982,
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2050,77.2331,
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2015,36.1779,
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2020,45.215,
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2025,52.9785,
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2030,59.136,
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2035,65.4789,
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2050,73.163,
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2015,24.4552,
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2020,30.9706,
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2025,35.3381,
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2030,38.1757,
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2035,41.1429,
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2050,47.5783,
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2015,23.9914,
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2020,28.408,
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2025,33.7294,
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2030,35.4224,
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2035,37.4157,
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2050,40.6567,
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2015,36.9795,high efficiency
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2020,54.4766,high efficiency
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2025,63.1191,high efficiency
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2030,70.804,high efficiency
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2035,81.8248,high efficiency
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2050,98.5952,high efficiency
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2015,36.1779,high efficiency
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2020,54.7137,high efficiency
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2025,63.5721,high efficiency
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2030,70.8881,high efficiency
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2035,83.0048,high efficiency
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2050,99.8381,high efficiency
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2015,24.4552,high efficiency
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2020,35.4224,high efficiency
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2025,40.544000000000004,high efficiency
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2030,44.4156,high efficiency
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2035,48.5895,high efficiency
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2050,60.7296,high efficiency
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2015,23.9914,high efficiency
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2020,33.6818,high efficiency
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2025,38.7185,high efficiency
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2030,41.2481,high efficiency
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2035,43.6104,high efficiency
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2050,50.8116,high efficiency
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2015,36.9795,low efficiency
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2020,41.2891,low efficiency
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2025,44.9103,low efficiency
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2030,48.9734,low efficiency
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2035,55.1922,low efficiency
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2050,62.9165,low efficiency
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2015,36.1779,low efficiency
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2020,39.3736,low efficiency
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2025,41.0253,low efficiency
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2030,43.7679,low efficiency
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2035,48.1663,low efficiency
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2050,52.2515,low efficiency
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2015,24.4552,low efficiency
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2020,27.1226,low efficiency
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2025,30.0355,low efficiency
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2030,31.9666,low efficiency
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2035,34.5232,low efficiency
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2050,39.7288,low efficiency
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2015,23.9914,low efficiency
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2020,24.3621,low efficiency
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2025,26.6894,low efficiency
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2030,27.7978,low efficiency
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2035,29.2792,low efficiency
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,gasoline fuel,absolute,True,mile,US_gge,linear_interpolation,nearest,,,,,,,mx,,,2050,31.5569,low efficiency

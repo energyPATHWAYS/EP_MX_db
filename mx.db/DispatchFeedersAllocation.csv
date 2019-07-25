@@ -1,0 +1,7 @@
+name,geography,geography_map_key,input_type,interpolation_method,extrapolation_method,source,notes,gau,dispatch_feeder,demand_sector,year,value
+1,mexico,,intensity,nearest,nearest,,,mx,residential,residential,2010,1
+1,mexico,,intensity,nearest,nearest,,,mx,residential,transportation,2010,0.7
+1,mexico,,intensity,nearest,nearest,,,mx,commercial,commercial,2010,1
+1,mexico,,intensity,nearest,nearest,,,mx,commercial,transportation,2010,0.25
+1,mexico,,intensity,nearest,nearest,,,mx,industry,industry,2010,1
+1,mexico,,intensity,nearest,nearest,,,mx,industry,transportation,2010,0.05

@@ -1,0 +1,34 @@
+mexico,state,time zone,energy zone,zonas de reserva,e-control_area,sonora-baja-mx tx,sq km,sq mi,Households 2010 (complete count),wind potential (GW),2016 GWh
+mx,01-aguascalientes,us/central,centro-occidente,occidental (zdr),03-occidental,restofmx tx-area,5618,2170.049531,296719.4733,0,2756.5565
+mx,02-baja california,us/pacific,noroeste,baja california (zdr),08-baja california,baja tx-area,71450,27598.79655,884527.958,3.94389932,10461.605
+mx,04-campeche,us/central,sur-sureste,peninsular (zdr),07-peninsular,restofmx tx-area,57507,22213.07198,218119.7995,0,1380.6586
+mx,07-chiapas,us/central,sur-sureste,oriental (zdr),02-oriental,restofmx tx-area,73311,28317.63994,737542.1494,4.776789206,3266.4362
+mx,08-chihuahua,us/mountain,noreste,norte (zdr),05-norte,restofmx tx-area,247460,95585.699,182528.5477,7.071511912,12210.8525
+mx,05-coahuila,us/central,noreste,norte (zdr),06-noreste,restofmx tx-area,151595,58556.18702,1122278.581,4.162706456,10237.92
+mx,06-colima,us/central,centro-occidente,occidental (zdr),03-occidental,restofmx tx-area,5627,2173.525936,980888.7425,0,1820.3675
+mx,09-distrito federal,us/central,centro,central (zdr),01-central,restofmx tx-area,1485,573.6068981,2475644.088,0,14506.4775
+mx,10-durango,us/central,noreste,norte (zdr),05-norte,restofmx tx-area,123317,47633.32111,417269.9317,2.594181054,3305.995
+mx,11-guanajuato,us/central,centro-occidente,occidental (zdr),03-occidental,restofmx tx-area,30607,11822.48238,3891328.684,0,11962.415
+mx,12-guerrero,us/central,sur-sureste,oriental (zdr),02-oriental,restofmx tx-area,63596,24565.0534,1310670.279,0,3030.714
+mx,13-hidalgo,us/central,centro,oriental (zdr),01-central,restofmx tx-area,20813,8039.380721,830552.0233,0,3983.1345
+mx,14-jalisco,us/central,centro-occidente,occidental (zdr),03-occidental,restofmx tx-area,78588,30355.97233,684365.2998,0,13366.6985
+mx,15-mexico,us/central,centro,central (zdr),01-central,restofmx tx-area,22351,8633.459784,1855147.311,0,18440.4375
+mx,16-michoacan,us/central,centro-occidente,occidental (zdr),03-occidental,restofmx tx-area,58599,22634.87584,1110943.311,0,6813.3755
+mx,17-morelos,us/central,centro,central (zdr),01-central,restofmx tx-area,4879,1884.598017,479709.2876,0,2704.5975
+mx,18-nayarit,us/mountain,centro-occidente,occidental (zdr),03-occidental,restofmx tx-area,27857,10760.24738,296343.3904,0,1560.315
+mx,19-nuevo leon,us/central,noreste,noreste (zdr),06-noreste,restofmx tx-area,64156,24781.36307,1222020.885,2.006529039,18609.5525
+mx,20-oaxaca,us/central,sur-sureste,oriental (zdr),02-oriental,restofmx tx-area,93757,36215.26057,969039.5859,10.37658506,2693.968
+mx,21-puebla,us/central,centro,oriental (zdr),02-oriental,restofmx tx-area,34306,13251.28501,1427737.948,1.018660954,7622.0475
+mx,22-queretaro,us/central,centro-occidente,occidental (zdr),03-occidental,restofmx tx-area,11699,4518.940809,463216.3969,0,5149.0395
+mx,23-quintana roo,us/eastern,sur-sureste,peninsular (zdr),07-peninsular,restofmx tx-area,44705,17268.07837,370591.5609,0,4748.1186
+mx,24-san luis potosi,us/central,centro-occidente,occidental (zdr),03-occidental,restofmx tx-area,61137,23615.22218,651334.6598,0,6293.2705
+mx,25-sinaloa,us/mountain,noroeste,noroeste (zdr),04-noroeste,restofmx tx-area,57365,22158.22203,730712.8888,0,6844.8787
+mx,26-sonora,us/mountain,noroeste,noroeste (zdr),04-noroeste,sonora tx-area,179355,69278.96647,723883.0152,6.143702822,10252.3729
+mx,27-tabasco,us/central,sur-sureste,oriental (zdr),02-oriental,restofmx tx-area,24731,9552.77589,576933.2421,0,3704.206
+mx,28-tamaulipas,us/central,noreste,noreste (zdr),06-noreste,restofmx tx-area,80249,30997.56227,921399.8729,2.494910607,9011.5025
+mx,29-tlaxcala,us/central,centro,oriental (zdr),01-central,restofmx tx-area,3997,1543.910284,279915.0107,0,1917.8055
+mx,30-veracruz,us/central,sur-sureste,oriental (zdr),02-oriental,restofmx tx-area,71826,27744.03304,2051807.751,2.239728527,11146.2926
+mx,31-yucatan,us/central,sur-sureste,peninsular (zdr),07-peninsular,restofmx tx-area,39524,15266.82764,513145.4674,1.10002099,3704.206
+mx,32-zacatecas,us/central,centro-occidente,occidental (zdr),03-occidental,restofmx tx-area,75284,29079.74526,385617.3665,0,2236.4515
+mx,03-baja california sur_ec9,us/mountain,noroeste,baja california sur (zdr),09-baja california sur,baja tx-area,41909,16048.62777,162517.1837,1.174201652,2196.711746
+mx,03-baja california sur_ec10,us/mountain,noroeste,baja california sur (zdr),10-mulege,baja tx-area,32000,12500,15000,0.896572404,134.7316538

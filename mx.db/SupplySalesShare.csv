@@ -1,0 +1,14 @@
+supply_node,geography,interpolation_method,extrapolation_method,extrapolation_growth,source,notes,gau,demand_sector,supply_technology,vintage,value
+Anaerobic Digesters - Lignocellulosic ,mexico,linear_interpolation,nearest,,,,mx,,lignocellulosic anaerobic digester,2015,1.0
+Biomass Gasification Facilities,mexico,linear_interpolation,nearest,,,,mx,,thermal biomass gasifier,2015,1.0
+Biomass Gasification Facilities w/CCS,mexico,linear_interpolation,nearest,,,,mx,,thermal biomass gasifier w/ccs,2015,1.0
+Bulk Electricity Storage,mexico,linear_interpolation,nearest,,,,mx,,bulk battery storage,2015,1.0
+Coal Power Plants,mexico,linear_interpolation,nearest,,,,mx,,pulverized coal power plant,2015,1.0
+Coal Power Plants with CCS,mexico,linear_interpolation,nearest,,,,mx,,coal steam turbine power plant with CCS,2015,1.0
+Hydrogen Gas Reformation Central Station,mexico,linear_interpolation,nearest,,,,mx,,H2 Natural Gas Reformation ,2015,1.0
+Industrial Boilers,mexico,linear_interpolation,nearest,,,,mx,,Industrial Pipeline Gas Boiler,2015,1.0
+Nuclear Power Plants,mexico,linear_interpolation,nearest,,,,mx,,nuclear power plant,2015,1.0
+Renewable Diesel Production Facilities,mexico,linear_interpolation,nearest,,,,mx,,Fischer-Tropsch bio-diesel plant,2015,1.0
+Renewable Diesel Production Facilities w/CCS,mexico,linear_interpolation,nearest,,,,mx,,Fischer-Tropsch bio-diesel plant w/ccs,2015,1.0
+Renewable Jet-Fuel Production Facilities,mexico,linear_interpolation,nearest,,,,mx,,Hydroprocessed Renewable Oil  Plant,2015,1.0
+Solar Thermal Power Plants,mexico,linear_interpolation,nearest,,,,mx,,solar thermal with energy storage power plant,2015,1.0

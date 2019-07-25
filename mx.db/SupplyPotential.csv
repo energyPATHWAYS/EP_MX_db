@@ -1,0 +1,4 @@
+supply_node,geography,other_index_1,unit,time_unit,interpolation_method,extrapolation_growth,extrapolation_method,geography_map_key,source,notes,gau,demand_sector,oth_1,resource_bin,year,value,sensitivity
+Onshore Wind,mexico,,gigawatt_hour,,linear_interpolation,,nearest,,,,mx,,,1,2015,61320.0,
+Onshore Wind,mexico,,gigawatt_hour,,linear_interpolation,,nearest,,,,mx,,,2,2015,47304.0,
+Onshore Wind,mexico,,gigawatt_hour,,linear_interpolation,,nearest,,,,mx,,,3,2015,35040.0,

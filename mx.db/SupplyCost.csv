@@ -1,0 +1,16 @@
+name,source,additional_notes,supply_node,geography,supply_cost_type_id,currency,currency_year,energy_or_capacity_unit,time_unit,is_capital_cost,cost_of_capital,book_life,throughput_correlation,interpolation_method,extrapolation_method,extrapolation_growth,notes,gau,demand_sector,resource_bin,year,value
+3 || Gas Transmission Adder,,,Gas Transmission Pipeline,mexico,2,USD,2015,mmBtu,,True,0.07,40,1.0,linear_interpolation,decay_towards_linear_regression,,,mx,,,2016,1.0897848140000002
+3 || Gas Transmission Adder,,,Gas Transmission Pipeline,mexico,2,USD,2015,mmBtu,,True,0.07,40,1.0,linear_interpolation,decay_towards_linear_regression,,,mx,,,2017,0.931109408
+3 || Gas Transmission Adder,,,Gas Transmission Pipeline,mexico,2,USD,2015,mmBtu,,True,0.07,40,1.0,linear_interpolation,decay_towards_linear_regression,,,mx,,,2018,0.965010702
+3 || Gas Transmission Adder,,,Gas Transmission Pipeline,mexico,2,USD,2015,mmBtu,,True,0.07,40,1.0,linear_interpolation,decay_towards_linear_regression,,,mx,,,2019,1.164605029
+3 || Gas Transmission Adder,,,Gas Transmission Pipeline,mexico,2,USD,2015,mmBtu,,True,0.07,40,1.0,linear_interpolation,decay_towards_linear_regression,,,mx,,,2020,0.982838729
+3 || Gas Transmission Adder,,,Gas Transmission Pipeline,mexico,2,USD,2015,mmBtu,,True,0.07,40,1.0,linear_interpolation,decay_towards_linear_regression,,,mx,,,2021,0.998567042
+3 || Gas Transmission Adder,,,Gas Transmission Pipeline,mexico,2,USD,2015,mmBtu,,True,0.07,40,1.0,linear_interpolation,decay_towards_linear_regression,,,mx,,,2022,1.014295282
+3 || Gas Transmission Adder,,,Gas Transmission Pipeline,mexico,2,USD,2015,mmBtu,,True,0.07,40,1.0,linear_interpolation,decay_towards_linear_regression,,,mx,,,2023,1.022159401
+3 || Gas Transmission Adder,,,Gas Transmission Pipeline,mexico,2,USD,2015,mmBtu,,True,0.07,40,1.0,linear_interpolation,decay_towards_linear_regression,,,mx,,,2024,1.030023594
+3 || Gas Transmission Adder,,,Gas Transmission Pipeline,mexico,2,USD,2015,mmBtu,,True,0.07,40,1.0,linear_interpolation,decay_towards_linear_regression,,,mx,,,2025,1.037887714
+3 || Gas Transmission Adder,,,Gas Transmission Pipeline,mexico,2,USD,2015,mmBtu,,True,0.07,40,1.0,linear_interpolation,decay_towards_linear_regression,,,mx,,,2026,1.045751907
+3 || Gas Transmission Adder,,,Gas Transmission Pipeline,mexico,2,USD,2015,mmBtu,,True,0.07,40,1.0,linear_interpolation,decay_towards_linear_regression,,,mx,,,2027,1.053616099
+3 || Gas Transmission Adder,,,Gas Transmission Pipeline,mexico,2,USD,2015,mmBtu,,True,0.07,40,1.0,linear_interpolation,decay_towards_linear_regression,,,mx,,,2028,1.061480147
+3 || Gas Transmission Adder,,,Gas Transmission Pipeline,mexico,2,USD,2015,mmBtu,,True,0.07,40,1.0,linear_interpolation,decay_towards_linear_regression,,,mx,,,2029,1.0693443390000001
+3 || Gas Transmission Adder,,,Gas Transmission Pipeline,mexico,2,USD,2015,mmBtu,,True,0.07,40,1.0,linear_interpolation,decay_towards_linear_regression,,,mx,,,2030,1.0772084579999999

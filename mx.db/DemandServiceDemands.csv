@@ -1,0 +1,101 @@
+subsector,is_stock_dependent,input_type,unit,driver_denominator_1,driver_denominator_2,driver_1,driver_2,geography,final_energy_index,demand_technology_index,other_index_1,other_index_2,interpolation_method,extrapolation_method,extrapolation_growth,geography_map_key,source,notes,gau,final_energy,demand_technology,oth_1,oth_2,year,value,sensitivity
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Constrained,2015,5953310000.0,
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Constrained,2020,5204150000.0,
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Constrained,2030,4938020000.0,
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Constrained,2040,4700780000.0,
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Constrained,2050,4755380000.0,
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Non-constrained,2015,3669190000.0,
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Non-constrained,2020,3960460000.0,
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Non-constrained,2030,4396280000.0,
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Non-constrained,2040,4766020000.0,
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Non-constrained,2050,5062020000.0,
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Constrained,2015,3248570000.0,
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Constrained,2020,2874540000.0,
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Constrained,2030,2753430000.0,
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Constrained,2040,2637590000.0,
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Constrained,2050,2678980000.0,
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Non-constrained,2015,5736890000.0,
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Non-constrained,2020,6185890000.0,
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Non-constrained,2030,6855950000.0,
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Non-constrained,2040,7424880000.0,
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Non-constrained,2050,7880930000.0,
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Constrained,2015,5953310000.0,Mode switching
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Constrained,2020,5091250000.0,Mode switching
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Constrained,2030,4476920000.0,Mode switching
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Constrained,2040,4009530000.0,Mode switching
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Constrained,2050,3867330000.0,Mode switching
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Non-constrained,2015,3669190000.0,Mode switching
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Non-constrained,2020,3927840000.0,Mode switching
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Non-constrained,2030,4177580000.0,Mode switching
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Non-constrained,2040,4418400000.0,Mode switching
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Non-constrained,2050,4650300000.0,Mode switching
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Constrained,2015,3248570000.0,Mode switching
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Constrained,2020,3213920000.0,Mode switching
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Constrained,2030,3235820000.0,Mode switching
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Constrained,2040,3291290000.0,Mode switching
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Constrained,2050,3582150000.0,Mode switching
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Non-constrained,2015,5736890000.0,Mode switching
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Non-constrained,2020,6168300000.0,Mode switching
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Non-constrained,2030,6590030000.0,Mode switching
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Non-constrained,2040,7002090000.0,Mode switching
+Busses,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Non-constrained,2050,7404480000.0,Mode switching
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Constrained,2015,88174300000.0,
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Constrained,2020,95528400000.0,
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Constrained,2030,105863000000.0,
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Constrained,2040,114473000000.0,
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Constrained,2050,121152000000.0,
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Non-constrained,2015,41565200000.0,
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Non-constrained,2020,48679900000.0,
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Non-constrained,2030,54989800000.0,
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Non-constrained,2040,60600100000.0,
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Non-constrained,2050,65362900000.0,
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Constrained,2015,110962000000.0,
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Constrained,2020,122783000000.0,
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Constrained,2030,140179000000.0,
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Constrained,2040,155585000000.0,
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Constrained,2050,168551000000.0,
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Non-constrained,2015,64988400000.0,
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Non-constrained,2020,76033700000.0,
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Non-constrained,2030,85756000000.0,
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Non-constrained,2040,94407500000.0,
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Non-constrained,2050,101762000000.0,
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Constrained,2015,88174300000.0,Mode switching
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Constrained,2020,76703900000.0,Mode switching
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Constrained,2030,65953900000.0,Mode switching
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Constrained,2040,55924300000.0,Mode switching
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Constrained,2050,46615200000.0,Mode switching
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Non-constrained,2015,41565200000.0,Mode switching
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Non-constrained,2020,39573200000.0,Mode switching
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Non-constrained,2030,37266100000.0,Mode switching
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Non-constrained,2040,34643900000.0,Mode switching
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Metropolitan,Non-constrained,2050,31706600000.0,Mode switching
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Constrained,2015,110962000000.0,Mode switching
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Constrained,2020,96143800000.0,Mode switching
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Constrained,2030,82305900000.0,Mode switching
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Constrained,2040,69448000000.0,Mode switching
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Constrained,2050,57570200000.0,Mode switching
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Non-constrained,2015,64988400000.0,Mode switching
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Non-constrained,2020,61799800000.0,Mode switching
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Non-constrained,2030,58132700000.0,Mode switching
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Non-constrained,2040,53987200000.0,Mode switching
+Light-duty vehicle,False,total,kilometer,,,,,mexico,,,metropolitan type,passenger trip type,cubic,cubic,,,,,mx,,,Non-metropolitan,Non-constrained,2050,49363200000.0,Mode switching
+Two & three wheelers,False,total,kilometer,,,,,mexico,,,metropolitan type,,cubic,cubic,,,,,mx,,,Metropolitan,,2015,10695100000.0,
+Two & three wheelers,False,total,kilometer,,,,,mexico,,,metropolitan type,,cubic,cubic,,,,,mx,,,Metropolitan,,2020,11539700000.0,
+Two & three wheelers,False,total,kilometer,,,,,mexico,,,metropolitan type,,cubic,cubic,,,,,mx,,,Metropolitan,,2030,13126700000.0,
+Two & three wheelers,False,total,kilometer,,,,,mexico,,,metropolitan type,,cubic,cubic,,,,,mx,,,Metropolitan,,2040,14540700000.0,
+Two & three wheelers,False,total,kilometer,,,,,mexico,,,metropolitan type,,cubic,cubic,,,,,mx,,,Metropolitan,,2050,15740200000.0,
+Two & three wheelers,False,total,kilometer,,,,,mexico,,,metropolitan type,,cubic,cubic,,,,,mx,,,Non-metropolitan,,2015,8151570000.0,
+Two & three wheelers,False,total,kilometer,,,,,mexico,,,metropolitan type,,cubic,cubic,,,,,mx,,,Non-metropolitan,,2020,8977750000.0,
+Two & three wheelers,False,total,kilometer,,,,,mexico,,,metropolitan type,,cubic,cubic,,,,,mx,,,Non-metropolitan,,2030,10670300000.0,
+Two & three wheelers,False,total,kilometer,,,,,mexico,,,metropolitan type,,cubic,cubic,,,,,mx,,,Non-metropolitan,,2040,12372900000.0,
+Two & three wheelers,False,total,kilometer,,,,,mexico,,,metropolitan type,,cubic,cubic,,,,,mx,,,Non-metropolitan,,2050,14027500000.0,
+Two & three wheelers,False,total,kilometer,,,,,mexico,,,metropolitan type,,cubic,cubic,,,,,mx,,,Metropolitan,,2015,10695100000.0,Mode switching
+Two & three wheelers,False,total,kilometer,,,,,mexico,,,metropolitan type,,cubic,cubic,,,,,mx,,,Metropolitan,,2020,10989300000.0,Mode switching
+Two & three wheelers,False,total,kilometer,,,,,mexico,,,metropolitan type,,cubic,cubic,,,,,mx,,,Metropolitan,,2030,11263200000.0,Mode switching
+Two & three wheelers,False,total,kilometer,,,,,mexico,,,metropolitan type,,cubic,cubic,,,,,mx,,,Metropolitan,,2040,11516700000.0,Mode switching
+Two & three wheelers,False,total,kilometer,,,,,mexico,,,metropolitan type,,cubic,cubic,,,,,mx,,,Metropolitan,,2050,11750000000.0,Mode switching
+Two & three wheelers,False,total,kilometer,,,,,mexico,,,metropolitan type,,cubic,cubic,,,,,mx,,,Non-metropolitan,,2015,8151570000.0,Mode switching
+Two & three wheelers,False,total,kilometer,,,,,mexico,,,metropolitan type,,cubic,cubic,,,,,mx,,,Non-metropolitan,,2020,8764950000.0,Mode switching
+Two & three wheelers,False,total,kilometer,,,,,mexico,,,metropolitan type,,cubic,cubic,,,,,mx,,,Non-metropolitan,,2030,9398630000.0,Mode switching
+Two & three wheelers,False,total,kilometer,,,,,mexico,,,metropolitan type,,cubic,cubic,,,,,mx,,,Non-metropolitan,,2040,10052600000.0,Mode switching
+Two & three wheelers,False,total,kilometer,,,,,mexico,,,metropolitan type,,cubic,cubic,,,,,mx,,,Non-metropolitan,,2050,10726900000.0,Mode switching

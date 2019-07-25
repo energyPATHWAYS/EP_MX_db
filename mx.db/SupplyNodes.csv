@@ -1,0 +1,88 @@
+name,supply_type,tradable_geography,is_active,is_curtailable,is_exportable,is_flexible,residual_supply_node,mean_lifetime,lifetime_variance,max_lifetime,min_lifetime,stock_decay_function,cost_of_capital,book_life,geography_map_key,shape,max_lag_hours,max_lead_hours,enforce_potential_constraint
+Anaerobic Digesters - Lignocellulosic ,Conversion,,True,0.0,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Anaerobic Digesters - Manure,Conversion,,True,0.0,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Biomass Boilers,Conversion,,True,,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Biomass Gasification Facilities,Conversion,,True,1.0,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Biomass Gasification Facilities w/CCS,Conversion,,True,1.0,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Biomass Power Plants,Conversion,,True,0.0,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Biomass Primary - Domestic Corn,Primary,,True,,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Biomass Primary - Domestic Lipid,Primary,,True,,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Biomass Primary - Domestic Manure,Primary,,True,,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Biomass Primary - Domestic Non-Corn Cellulosic,Primary,,True,,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Biomass Primary - Domestic Pulping Liquors,Primary,,True,,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Biomass Primary - Domestic Wood,Primary,,False,,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Biomass Primary - International,Primary,,True,,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Bulk Electricity Blend,Blend,,True,1.0,1.0,,Thermal Dispatch Blend,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Bulk Electricity Storage,Storage,,True,1.0,,1.0,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Coal Blend,Blend,,True,,,,Coal Primary,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Coal Power Plants,Conversion,,True,0.0,,1.0,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Coal Power Plants with CCS,Conversion,,True,0.0,,1.0,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Coal Primary,Primary,,True,,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Coal Product,Import,,True,,1.0,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Coke Product,Import,,True,,1.0,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Combined Heat and Power,Conversion,,True,0.0,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Combined-Cycle Gas Turbines,Conversion,,True,0.0,,1.0,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Combined-Cycle Gas Turbines with CCS,Conversion,,True,0.0,,1.0,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Combustion Turbines,Conversion,,True,0.0,,1.0,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Demand Response,Conversion,,True,,,1.0,,,,25.0,25.0,,,,,,,,True
+Diesel Blend,Blend,,True,,1.0,,Refined Fossil Diesel Product,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Dispatchable Hydroelectric Power Plants,Conversion,,True,0.0,,1.0,,,,25.0,25.0,weibull,0.1,25.0,,dispatchable_hydro,,,True
+Distributed Electricity,Blend,,True,1.0,,,Electricity Distribution Grid,,,,,weibull,0.1,25.0,,,,,True
+Distributed Storage,Storage,,True,,,,,,,,,,0.07,,,,,,True
+Distribution-Sited Solar PV,Conversion,,True,0.0,,,,,,25.0,25.0,weibull,0.1,25.0,,utility_pv,,,True
+Electricity Distribution Grid,Delivery,,True,1.0,,,,,,40.0,40.0,weibull,0.1,40.0,,,,,True
+Electricity Transmission Grid,Delivery,,True,1.0,,,,,,40.0,40.0,weibull,0.1,40.0,,,,,True
+Ethanol Production Facilities,Conversion,,True,1.0,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Fossil Steam Turbines,Conversion,,True,0.0,,0.0,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Fuel Cell Power Plants,Conversion,,True,1.0,,1.0,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Gas Compression and Fueling Stations,Conversion,,True,1.0,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Gas Distribution Pipeline,Delivery,,True,1.0,,,,,,40.0,40.0,weibull,0.1,40.0,,,,,True
+Gas Transmission Pipeline,Delivery,,True,1.0,,,,,,40.0,40.0,weibull,0.1,40.0,,,,,True
+Gasoline Blend,Blend,,True,,1.0,,Refined Fossil Gasoline Product,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Geothermal Power Plants,Conversion,,True,0.0,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Geothermal Primary,Primary,,True,,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Hydro Primary,Primary,,True,,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Hydrogen Blend,Blend,,True,,1.0,,Hydrogen Gas Reformation Central Station,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Hydrogen Electrolysis - Central Station,Conversion,,True,1.0,,1.0,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Hydrogen Fueling Stations,Delivery,,True,1.0,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Hydrogen Gas Reformation Central Station,Conversion,,True,1.0,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Hydrogen Gas Reformation w/CCS,Conversion,,True,1.0,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Industrial Boilers,Conversion,,True,1.0,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Internal Combustion Engines,Conversion,,True,0.0,,0.0,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Jet Fuel Blend,Blend,,True,,1.0,,Refined Fossil Jet Fuel Product,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Liquefied Gas Fueling Station,Conversion,,True,1.0,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Liquid Hydrogen Truck Delivery,Delivery,,True,1.0,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Natural Gas Blend,Blend,,True,,1.0,,Natural Gas Primary,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Natural Gas Primary,Primary,,True,,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Nuclear Power Plants,Conversion,,True,0.0,,0.0,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Offshore Wind,Conversion,,True,,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Oil Primary,Primary,,True,,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Onshore Wind,Conversion,,True,,,,,,,25.0,25.0,weibull,0.1,25.0,,onshore_wind,,,True
+Other Petroleum Import,Import,,True,,1.0,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Petrochemical Feedstocks,Import,,True,,1.0,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Petroleum Coke Product,Import,,True,,1.0,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Petroleum Refineries,Conversion,,True,1.0,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Pipeline Gas Blend,Blend,,True,,1.0,,Natural Gas Blend,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Pipeline Gas Liquefaction Facilities,Conversion,,True,1.0,,,,,,25.0,25.0,weibull,0.07,25.0,,,,,True
+Power-to-Gas Production Facilities,Conversion,,True,1.0,,1.0,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Refined Fossil Diesel Product,Import,,True,,1.0,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Refined Fossil Gasoline Product,Import,,True,,1.0,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Refined Fossil Jet Fuel Product,Import,,True,,1.0,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Refined Fossil Kerosene Product,Import,,True,,1.0,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Refined Fossil LPG Product,Import,,True,,1.0,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Renewable Diesel Production Facilities,Conversion,,True,,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Renewable Diesel Production Facilities w/CCS,Conversion,,True,,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Renewable Jet-Fuel Production Facilities,Conversion,,True,1.0,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Residual Fossil Fuel Oil Product,Import,,True,,1.0,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Rooftop Solar PV,Conversion,,True,,,,,,,25.0,25.0,weibull,0.1,25.0,,rooftop_pv,,,True
+Run of River Hydroelectric Power Plants,Conversion,,True,0.0,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Solar Primary,Primary,,True,,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Solar Thermal Hydrogen Production,Conversion,,True,1.0,,,,,,25.0,25.0,weibull,0.1,25.0,,csp_no_storage,,,True
+Solar Thermal Power Plants,Conversion,,True,0.0,,,,,,25.0,25.0,weibull,0.1,25.0,,csp_no_storage,,,True
+Steam Blend,Blend,,True,,,,Industrial Boilers,,,40.0,40.0,weibull,0.1,40.0,,,,,True
+Thermal Dispatch Blend,Blend,,True,,,,Combined-Cycle Gas Turbines,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Transmission-Sited Solar PV,Conversion,,True,0.0,,,,,,25.0,25.0,weibull,0.1,25.0,,utility_pv,,,True
+Uranium - Primary,Primary,,True,,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Uranium Import,Import,,True,,1.0,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True
+Wave Power Plants,Conversion,,True,,,,,,,,,,,,,,,,True
+Wind Primary,Primary,,True,,,,,,,25.0,25.0,weibull,0.1,25.0,,,,,True

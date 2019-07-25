@@ -1,0 +1,35 @@
+supply_node,geography,other_index_1,energy_unit_numerator,resource_unit_denominator,interpolation_method,extrapolation_method,extrapolation_growth,source,notes,gau,oth_1,resource_bin,year,value
+Biomass Primary - Domestic Corn,mexico,biomass - domestic corn feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,Ethanol (corn),,2015.0,17.1
+Biomass Primary - Domestic Lipid,mexico,biomass - domestic lipid feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,Biodiesel (soybeans),,2015.0,37.8
+Biomass Primary - Domestic Lipid,mexico,biomass - domestic lipid feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,Biodiesel (waste),,2015.0,37.8
+Biomass Primary - Domestic Manure,mexico,biomass - domestic manure feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,M,,2015.0,17.0
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,Annlengycrp,,2015.0,17.6
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,Barley-strw,,2015.0,16.1
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,CGT,,2015.0,16.0
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,CR,,2015.0,16.0
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,Corn-stvr,,2015.0,17.1
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,Fuelwood,,2015.0,19.0
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,LOGI,,2015.0,19.0
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,LOGO,,2015.0,19.0
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,LOGP,,2015.0,19.0
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,LOGTOF,,2015.0,19.0
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,MRESUS,,2015.0,20.2
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,MRESUU_ST,,2015.0,20.2
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,MSW sources-Ag,,2015.0,14.0
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,MSW sources-Forest,,2015.0,18.4
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,Mill residue,,2015.0,20.2
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,OVP,,2015.0,17.8
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,Oats-strw,,2015.0,17.9
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,Perngrass,,2015.0,18.1
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,RH,,2015.0,16.8
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,RS,,2015.0,15.1
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,SCT,,2015.0,17.8
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,Sorghum-stbl,,2015.0,17.6
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,UWDWCD_ST,,2015.0,18.4
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,UWDWMS_ST,,2015.0,18.4
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,WD,,2015.0,16.8
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,Wheat-strw,,2015.0,17.9
+Biomass Primary - Domestic Non-Corn Cellulosic,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,mx,Woody,,2015.0,19.5
+Biomass Primary - Domestic Pulping Liquors,mexico,,gigajoule,ton,linear_interpolation,nearest,,,,mx,,,2015.0,15.0
+Biomass Primary - Domestic Wood,mexico,biomass - domestic cellulosic feedstocks,gigajoule,ton,linear_interpolation,nearest,,,,,,,,
+Coal Primary,mexico,,mmBtu,short_ton,linear_interpolation,nearest,,,,mx,,,2015.0,20.16

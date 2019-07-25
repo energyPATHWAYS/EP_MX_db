@@ -1,0 +1,43 @@
+demand_technology,definition,reference_tech,geography,other_index_1,other_index_2,currency,currency_year,is_levelized,interpolation_method,extrapolation_method,extrapolation_growth,source,notes,gau,oth_1,oth_2,vintage,value,sensitivity
+Autonomous Electric Light-Duty Auto,relative,Electric Light-Duty Auto - 200 mile range,,,,,,,linear_interpolation,nearest,,,,,,,,,
+Autonomous Electric Light-Duty Truck,relative,Electric Light-Duty Truck - 200 mile range,,,,,,,linear_interpolation,nearest,,,,,,,,,
+Battery Electric Medium-Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,7604.23,
+Electric Heavy Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,3803.63,
+Electric Light-Duty Auto - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,584.503,
+Electric Light-Duty Auto - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,584.503,
+Electric Light-Duty Auto - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,584.503,
+Electric Light-Duty Truck - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,584.503,
+Electric Light-Duty Truck - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,584.503,
+Electric Light-Duty Truck - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,584.503,
+Electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,3042.9,
+Hydrogen FCV Heavy-Duty Vehicle,absolute,,mexico,,,EUR,2010.0,False,linear_interpolation,nearest,,,,mx,,,2010.0,8000.0,
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,561.59,
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,561.59,
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,561.59,
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,561.59,
+Battery Electric Medium-Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,9505.28,high cost
+Electric Heavy Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,9128.7,high cost
+Electric Light-Duty Auto - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,696.44,high cost
+Electric Light-Duty Auto - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,696.44,high cost
+Electric Light-Duty Auto - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,696.44,high cost
+Electric Light-Duty Truck - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,696.44,high cost
+Electric Light-Duty Truck - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,696.44,high cost
+Electric Light-Duty Truck - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,696.44,high cost
+Electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,6520.5,high cost
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,669.067,high cost
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,669.067,high cost
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,669.067,high cost
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,669.067,high cost
+Battery Electric Medium-Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,2534.74,low cost
+Electric Heavy Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,1690.5,low cost
+Electric Light-Duty Auto - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,539.165,low cost
+Electric Light-Duty Auto - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,539.165,low cost
+Electric Light-Duty Auto - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,539.165,low cost
+Electric Light-Duty Truck - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,539.165,low cost
+Electric Light-Duty Truck - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,539.165,low cost
+Electric Light-Duty Truck - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,539.165,low cost
+Electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,829.882,low cost
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,519.36,low cost
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,519.36,low cost
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,519.36,low cost
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,mx,,,2016.0,519.36,low cost

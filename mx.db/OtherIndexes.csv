@@ -1,0 +1,168 @@
+name,other_index
+ALL,AEO paper industry throughput categories
+ALL,AEO glass industry throughput categories
+ALL,AEO cement industry throughput categories
+ALL,AEO Chemical Process Subset
+ALL,AEO steel  industry throughput categories
+ALL,AEO aluminum industry throughput categories
+AgriChem,AEO Chemical Process Subset
+Annlengycrp,biomass - domestic cellulosic feedstocks
+BAUXITE,AEO aluminum industry throughput categories
+BF/BOF,AEO steel  industry throughput categories
+BLEACH,AEO paper industry throughput categories
+B_RCYL,AEO glass industry throughput categories
+B_VRGN,AEO glass industry throughput categories
+Barley-strw,biomass - domestic cellulosic feedstocks
+Biodiesel (soybeans),biomass - domestic lipid feedstocks
+Biodiesel (waste),biomass - domestic lipid feedstocks
+CGT,biomass - domestic cellulosic feedstocks
+CHEM_P,AEO paper industry throughput categories
+COKE,AEO steel  industry throughput categories
+COLD_RL,AEO steel  industry throughput categories
+CONTIN,AEO steel  industry throughput categories
+CR,biomass - domestic cellulosic feedstocks
+Ceiling Fans,miscellaneous residential loads
+Coal 2nd Heat,residential secondary heat
+Coffee Machines,miscellaneous residential loads
+Constrained,passenger trip type
+Corn-stvr,biomass - domestic cellulosic feedstocks
+DRY,AEO cement industry throughput categories
+DRY-BAL,AEO cement industry throughput categories
+DVD Players,miscellaneous residential loads
+Dehumidifiers,miscellaneous residential loads
+Distillate 2nd Heat,residential secondary heat
+Distillate Appliances,other residential appliances
+EAF,AEO steel  industry throughput categories
+Electric 2nd Heat,residential secondary heat
+Electric Other Appliances,other residential appliances
+Ethanol (corn),biomass - domestic corn feedstocks
+FORM,AEO glass industry throughput categories
+Fuelwood,biomass - domestic cellulosic feedstocks
+GRIND,AEO cement industry throughput categories
+Gas 2nd Heat,residential secondary heat
+HOT_RL,AEO steel  industry throughput categories
+Home Theater Systems,miscellaneous residential loads
+INGOT,AEO steel  industry throughput categories
+Inorganic,AEO Chemical Process Subset
+KRAFT_P,AEO paper industry throughput categories
+Kerosene 2nd Heat,residential secondary heat
+LIME,AEO cement industry throughput categories
+LOGI,biomass - domestic cellulosic feedstocks
+LOGO,biomass - domestic cellulosic feedstocks
+LOGP,biomass - domestic cellulosic feedstocks
+LOGTOF,biomass - domestic cellulosic feedstocks
+LPG 2nd Heat,residential secondary heat
+LPG Appliances,other residential appliances
+M,biomass - domestic manure feedstocks
+MECH_P,AEO paper industry throughput categories
+MRESUS,biomass - domestic cellulosic feedstocks
+MRESUU_ST,biomass - domestic cellulosic feedstocks
+MSW sources-Ag,biomass - domestic cellulosic feedstocks
+MSW sources-Forest,biomass - domestic cellulosic feedstocks
+M_RCYL,AEO glass industry throughput categories
+M_VRGN,AEO glass industry throughput categories
+Metropolitan,metropolitan type
+Microwaves,miscellaneous residential loads
+Mill residue,biomass - domestic cellulosic feedstocks
+Natural Gas Appliances,other residential appliances
+Network Equipment,miscellaneous residential loads
+Non-constrained,passenger trip type
+Non-metropolitan,metropolitan type
+OVP,biomass - domestic cellulosic feedstocks
+Oats-strw,biomass - domestic cellulosic feedstocks
+Organic,AEO Chemical Process Subset
+PAPER_M,AEO paper industry throughput categories
+PC Desktops,miscellaneous residential loads
+PC Laptops,miscellaneous residential loads
+PC Monitors,miscellaneous residential loads
+PRIMARY,AEO aluminum industry throughput categories
+P_FORM,AEO glass industry throughput categories
+Perngrass,biomass - domestic cellulosic feedstocks
+Pool Heaters and Pumps,miscellaneous residential loads
+Pulping liquors,biomass - domestic cellulosic feedstocks
+RH,biomass - domestic cellulosic feedstocks
+RS,biomass - domestic cellulosic feedstocks
+Rechargeable Devices,miscellaneous residential loads
+ResinSynth,AEO Chemical Process Subset
+SCT,biomass - domestic cellulosic feedstocks
+SECONDARY,AEO aluminum industry throughput categories
+SEMI_OTHER,AEO aluminum industry throughput categories
+SEMI_SHEET,AEO aluminum industry throughput categories
+Security Systems,miscellaneous residential loads
+Set-top Boxes,miscellaneous residential loads
+Sorghum-stbl,biomass - domestic cellulosic feedstocks
+Spas,miscellaneous residential loads
+Televisions,miscellaneous residential loads
+UWDWCD_ST,biomass - domestic cellulosic feedstocks
+UWDWMS_ST,biomass - domestic cellulosic feedstocks
+Video Game Consoles,miscellaneous residential loads
+WASTE_P,AEO paper industry throughput categories
+WD,biomass - domestic cellulosic feedstocks
+WET,AEO cement industry throughput categories
+WOOD,AEO paper industry throughput categories
+Wheat-strw,biomass - domestic cellulosic feedstocks
+Wood 2nd Heat,residential secondary heat
+Woody,biomass - domestic cellulosic feedstocks
+assembly,building types
+buildings - hvac,end uses
+buildings - lighting,end uses
+buildings - other,end uses
+buildings - support,end uses
+central,air conditioning type
+class 3,medium duty truck class
+class 4-6,medium duty truck class
+commuter,commuter rail modes
+education,building types
+electro-chemical processes,Industry End-Uses
+exterior,residential lighting category
+feedstocks,Industry End-Uses
+food sales,building types
+food service,building types
+general service lamps,residential lighting category
+health,building types
+heat,Industry End-Uses
+hvac,Process-Specific Industry End-Uses
+hvac,Industry End-Uses
+intercity,bus types
+intercity,commuter rail modes
+irrigation,agricultural end-uses
+irrigation,end uses
+light commercial trucks,light duty truck class
+light trucks,light duty truck class
+lighting,Industry End-Uses
+lighting,Process-Specific Industry End-Uses
+linear fluorescents,residential lighting category
+lodging,building types
+machine drive,Industry End-Uses
+merc/service,building types
+mobile home,housing types
+multi-family,housing types
+office-large,building types
+office-small,building types
+other,building types
+other,agricultural end-uses
+other,Industry End-Uses
+proccess - heat,end uses
+proccess - refrig,end uses
+process,Process-Specific Industry End-Uses
+"process - aggregated, applies to paper, cement, fe & steel, glass and al ",end uses
+process - electro,end uses
+process - feedstock,end uses
+process - machdrv,end uses
+process - other,end uses
+reflectors,residential lighting category
+refrigeration,Industry End-Uses
+room,air conditioning type
+school,bus types
+single-family,housing types
+steam,end uses
+support,Industry End-Uses
+support,Process-Specific Industry End-Uses
+total,total
+transit,commuter rail modes
+transit,bus types
+transport,Process-Specific Industry End-Uses
+transport,Industry End-Uses
+transportation,agricultural end-uses
+"undifferentiated use, applies to all mining industries, construction and refining",end uses
+warehouse,building types

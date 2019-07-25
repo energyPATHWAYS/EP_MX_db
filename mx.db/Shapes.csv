@@ -1,0 +1,9 @@
+name,shape_type,shape_unit_type,time_zone,geography,other_index_1,other_index_2,geography_map_key,interpolation_method,extrapolation_method,input_type,supply_or_demand_side,is_active
+EV,time slice,power,,mexico,,,,linear_interpolation,linear_interpolation,intensity,d,TRUE
+csp_no_storage,weather date,power,,zonas de reserva,,,sq km,linear_interpolation,linear_interpolation,intensity,s,TRUE
+csp_w_storage,weather date,power,,zonas de reserva,,,sq km,linear_interpolation,linear_interpolation,intensity,s,TRUE
+dispatchable_hydro,time slice,power,,mexico,,,,linear_interpolation,linear_interpolation,intensity,s,TRUE
+onshore_wind,weather date,power,US/Central,zonas de reserva,,,wind potential (GW),linear_interpolation,linear_interpolation,intensity,s,TRUE
+rooftop_pv,weather date,power,,zonas de reserva,,,,linear_interpolation,linear_interpolation,intensity,s,TRUE
+system_load,weather date,power,,zonas de reserva,,,,linear_interpolation,linear_interpolation,total,d,TRUE
+utility_pv,weather date,power,,zonas de reserva,,,sq km,linear_interpolation,linear_interpolation,intensity,s,TRUE

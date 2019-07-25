@@ -1,0 +1,210 @@
+supply_tech,definition,reference_tech_id,geography,currency,currency_year,capacity_or_energy_unit,time_unit,interpolation_method,extrapolation_method,extrapolation_growth,age_growth_or_decay_type,age_growth_or_decay,source,notes,gau,demand_sector,resource_bin,vintage,value
+Advanced Nuclear Plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2014.0,94.72
+H2 Natural Gas Reformation ,absolute,,mexico,USD,2007.0,h2_kilogram,day,linear_interpolation,nearest,,,,,,mx,,,2010.0,20.3
+H2 Natural Gas Reformation ,absolute,,mexico,USD,2007.0,h2_kilogram,day,linear_interpolation,nearest,,,,,,mx,,,2025.0,16.9
+H2 Natural Gas Reformation w/ccs,absolute,,mexico,USD,2007.0,h2_kilogram,day,linear_interpolation,nearest,,,,,,mx,,,2010.0,32.44
+H2 Natural Gas Reformation w/ccs,absolute,,mexico,USD,2007.0,h2_kilogram,day,linear_interpolation,nearest,,,,,,mx,,,2025.0,28.52
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2014.0,51.27
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2015.0,51.14
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2016.0,51.0
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2017.0,50.87
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2018.0,50.73
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2019.0,50.59
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2020.0,50.46
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2021.0,50.32
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2022.0,50.19
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2023.0,50.05
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2024.0,49.92
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2025.0,49.78
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2026.0,49.64
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2027.0,49.51
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2028.0,49.37
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2029.0,49.24
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2030.0,49.1
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2031.0,48.97
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2032.0,48.83
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2033.0,48.7
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2034.0,48.56
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2035.0,48.42
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2036.0,48.29
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2037.0,48.15
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2038.0,48.02
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2039.0,47.88
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2040.0,47.75
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2041.0,47.61
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2042.0,47.47
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2043.0,47.34
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2044.0,47.2
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2045.0,47.07
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2046.0,46.93
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2047.0,46.8
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2048.0,46.66
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2049.0,46.52
+Onshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2050.0,46.39
+Relicensed Nuclear Power Plants,relative,25.0,,,,,,,,,,,,,,,,,
+Wave Power Plant,absolute,,mexico,USD,2008.0,kilowatt,,linear_interpolation,nearest,,,,http://bv.com/docs/reports-studies/nrel-cost-report.pdf,,mx,,,2015.0,474.0
+Wave Power Plant,absolute,,mexico,USD,2008.0,kilowatt,,linear_interpolation,nearest,,,,http://bv.com/docs/reports-studies/nrel-cost-report.pdf,,mx,,,2020.0,357.0
+Wave Power Plant,absolute,,mexico,USD,2008.0,kilowatt,,linear_interpolation,nearest,,,,http://bv.com/docs/reports-studies/nrel-cost-report.pdf,,mx,,,2025.0,292.0
+Wave Power Plant,absolute,,mexico,USD,2008.0,kilowatt,,linear_interpolation,nearest,,,,http://bv.com/docs/reports-studies/nrel-cost-report.pdf,,mx,,,2030.0,243.0
+Wave Power Plant,absolute,,mexico,USD,2008.0,kilowatt,,linear_interpolation,nearest,,,,http://bv.com/docs/reports-studies/nrel-cost-report.pdf,,mx,,,2035.0,203.0
+Wave Power Plant,absolute,,mexico,USD,2008.0,kilowatt,,linear_interpolation,nearest,,,,http://bv.com/docs/reports-studies/nrel-cost-report.pdf,,mx,,,2040.0,175.0
+biomass cogen IPP power plant,relative,37.0,,,,,,,,,,,,,,,,,
+biomass cogen IPP power plant w/ccs,relative,37.0,,,,,,,,,,,,,,,,,
+biomass cogen power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2014.0,18.24
+biomass cogen power plant w/ccs,relative,57.0,,,,,,,,,,,,,,,,,
+biomass power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2014.0,107.27
+bulk battery storage,absolute,,mexico,USD,2009.0,kilowatt,,linear_interpolation,nearest,,,,,,,,,,
+central hydrogen grid electrolysis,absolute,,mexico,USD,2007.0,h2_kilogram,day,linear_interpolation,nearest,,,,,,mx,,,2010.0,78.7
+central hydrogen grid electrolysis,absolute,,mexico,USD,2007.0,h2_kilogram,day,linear_interpolation,nearest,,,,,,mx,,,2025.0,56.1
+coal IGCC power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2014.0,52.19
+coal IGCC with CCS power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2014.0,73.96
+coal steam turbine IPP cogen power plant,relative,3.0,,,,,,,,,,,,,,,,,
+coal steam turbine IPP cogen power plant w/ccs,relative,3.0,,,,,,,,,,,,,,,,,
+coal steam turbine cogen power plant,absolute,,mexico,USD,1999.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,1995.0,3.02
+coal steam turbine cogen power plant w/ccs,relative,51.0,,,,,,,,,,,,,,,,,
+coal steam turbine power plant with CCS,absolute,,mexico,USD,2011.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2017.0,65.31
+distillate oil combustion turbine IPP cogen power plant,relative,42.0,,,,,,,,,,,,,,,,,
+distillate oil combustion turbine IPP cogen power plant w/ccs,relative,42.0,,,,,,,,,,,,,,,,,
+distillate oil combustion turbine cogen power plant,absolute,,mexico,USD,1999.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,1995.0,2.01
+distillate oil combustion turbine cogen power plant w/ccs,relative,62.0,,,,,,,,,,,,,,,,,
+distillate oil combustion turbine power plant,absolute,,mexico,USD,1999.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,1995.0,6.28
+distillate oil steam turbine power plant,absolute,,mexico,USD,1999.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,1995.0,30.38
+distllate oil steam turbine cogen power plant,absolute,,mexico,USD,1999.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,1995.0,3.34
+distributed battery storage,absolute,,mexico,USD,2009.0,kilowatt,,linear_interpolation,nearest,,,,,,,,,,
+distribution-sited solar PV power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2014.0,16.5
+distribution-sited solar PV power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2015.0,14.85
+distribution-sited solar PV power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2016.0,13.2
+distribution-sited solar PV power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2017.0,11.55
+distribution-sited solar PV power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2018.0,9.9
+distribution-sited solar PV power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2019.0,8.25
+distribution-sited solar PV power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2020.0,8.25
+fossil waste steam turbine cogen power plant,absolute,,mexico,USD,1999.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,1995.0,7.29
+fossil waste steam turbine cogen power plant w/ccs,relative,56.0,,,,,,,,,,,,,,,,,
+fossil waste steam turbine power plant,absolute,,mexico,USD,1999.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,1995.0,30.38
+fuel cell power plant,absolute,,mexico,USD,2013.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2015.0,0.0
+gas cogen composite power plant,absolute,,mexico,USD,2005.0,kilowatt,,linear_interpolation,nearest,,,,,,,,,,
+gas combined cycle IPP cogen power plant,relative,28.0,,,,,,,,,,,,,,,,,
+gas combined cycle IPP cogen power plant w/ccs,relative,28.0,,,,,,,,,,,,,,,,,
+gas combined cycle cogen power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2014.0,21.3
+gas combined cycle cogen power plant w/ccs,relative,53.0,,,,,,,,,,,,,,,,,
+gas combined cycle power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2014.0,14.49
+gas combined cycle power plant with CCS,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2014.0,32.28
+gas combustion turbine IPP cogen power plant,relative,29.0,,,,,,,,,,,,,,,,,
+gas combustion turbine IPP cogen power plant w/ccs,relative,29.0,,,,,,,,,,,,,,,,,
+gas combustion turbine cogen power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2014.0,5.41
+gas combustion turbine cogen power plant w/ccs,relative,61.0,,,,,,,,,,,,,,,,,
+gas combustion turbine power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,1995.0,6.28
+gas combustion turbine power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2014.0,7.31
+gas steam turbine IPP cogen power plant,relative,30.0,,,,,,,,,,,,,,,,,
+gas steam turbine IPP cogen power plant w/ccs,relative,30.0,,,,,,,,,,,,,,,,,
+gas steam turbine cogen power plant,absolute,,mexico,USD,1999.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,1995.0,7.6
+gas steam turbine cogen power plant w/ccs,relative,54.0,,,,,,,,,,,,,,,,,
+gas steam turbine power plant,absolute,,mexico,USD,1999.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,1995.0,30.38
+geothermal power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2014.0,153.07
+landfill gas cogen power plant,absolute,,mexico,USD,2013.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2015.0,588.9
+landfill gas cogen power plant w/ccs,relative,58.0,,,,,,,,,,,,,,,,,
+landfill gas to electricity power plant,absolute,,mexico,USD,2013.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2015.0,392.6
+large hydro power plant,absolute,,mexico,USD,2013.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2015.0,15.15
+municipal solid waste cogen power plant,absolute,,mexico,USD,2012.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2012.0,54.99
+municipal solid waste cogen power plant w/ccs,relative,59.0,,,,,,,,,,,,,,,,,
+municipal solid waste power plant,absolute,,mexico,USD,2012.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2012.0,392.82
+nuclear power plant,absolute,,mexico,USD,1999.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,1995.0,81.82
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2014.0,134.01
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2015.0,132.67
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2016.0,131.33
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2017.0,127.65
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2018.0,123.96
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2019.0,120.28
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2020.0,116.59
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2021.0,113.91
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2022.0,111.23
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2023.0,108.55
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2024.0,107.79
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2025.0,107.02
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2026.0,106.25
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2027.0,105.49
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2028.0,104.72
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2029.0,103.96
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2030.0,103.19
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2031.0,103.06
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2032.0,102.92
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2033.0,102.79
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2034.0,102.66
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2035.0,102.52
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2036.0,102.39
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2037.0,102.25
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2038.0,102.12
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2039.0,101.99
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2040.0,101.85
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2041.0,101.71
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2042.0,101.56
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2043.0,101.41
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2044.0,101.27
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2045.0,101.12
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2046.0,100.98
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2047.0,100.83
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2048.0,100.68
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2049.0,100.54
+offshore wind power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2050.0,100.39
+petroleum coke steam turbine cogen power plant,absolute,,mexico,USD,1999.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,1995.0,4.56
+petroleum coke steam turbine cogen power plant w/ccs,relative,52.0,,,,,,,,,,,,,,,,,
+petroleum coke steam turbine power plant,absolute,,mexico,USD,1999.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,1995.0,30.38
+pulverized coal power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,1995.0,20.49
+pulverized coal power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2014.0,31.66
+pumped hydro storage,absolute,,mexico,USD,2009.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2010.0,30.8
+residual oil combustion turbine IPP cogen power plant,relative,64.0,,,,,,,,,,,,,,,,,
+residual oil combustion turbine IPP cogen power plant w/ccs,relative,64.0,,,,,,,,,,,,,,,,,
+residual oil combustion turbine cogen power plant,absolute,,mexico,USD,1999.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,1995.0,6.28
+residual oil combustion turbine power plant,absolute,,mexico,USD,1999.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,1995.0,6.28
+residual oil steam turbine cogen power plant,absolute,,mexico,USD,1999.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,1995.0,10.94
+residual oil steam turbine cogen power plant w/ccs,relative,55.0,,,,,,,,,,,,,,,,,
+residual oil steam turbine power plant,absolute,,mexico,USD,1999.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,1995.0,30.38
+rooftop solar PV power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2014.0,22.0
+rooftop solar PV power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2015.0,19.8
+rooftop solar PV power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2016.0,17.6
+rooftop solar PV power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2017.0,15.4
+rooftop solar PV power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2018.0,13.2
+rooftop solar PV power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2019.0,11.0
+rooftop solar PV power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2020.0,11.0
+run of river hydro power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2014.0,84.06
+solar thermal with energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2014.0,66.0
+solar thermal with energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2015.0,64.33
+solar thermal with energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2016.0,62.67
+solar thermal with energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2017.0,61.0
+solar thermal with energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2018.0,59.33
+solar thermal with energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2019.0,57.67
+solar thermal with energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2020.0,56.0
+solar thermal with energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2021.0,54.4
+solar thermal with energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2022.0,52.8
+solar thermal with energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2023.0,51.2
+solar thermal with energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2024.0,49.6
+solar thermal with energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2025.0,48.0
+solar thermal with energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2026.0,46.4
+solar thermal with energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2027.0,44.8
+solar thermal with energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2028.0,43.2
+solar thermal with energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2029.0,41.6
+solar thermal with energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2030.0,40.0
+solar thermal without energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2014.0,66.0
+solar thermal without energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2015.0,64.33
+solar thermal without energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2016.0,62.67
+solar thermal without energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2017.0,61.0
+solar thermal without energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2018.0,59.33
+solar thermal without energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2019.0,57.67
+solar thermal without energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2020.0,56.0
+solar thermal without energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2021.0,54.4
+solar thermal without energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2022.0,52.8
+solar thermal without energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2023.0,51.2
+solar thermal without energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2024.0,49.6
+solar thermal without energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2025.0,48.0
+solar thermal without energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2026.0,46.4
+solar thermal without energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2027.0,44.8
+solar thermal without energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2028.0,43.2
+solar thermal without energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2029.0,41.6
+solar thermal without energy storage power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2030.0,40.0
+transmission-sited solar PV power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2014.0,22.1
+transmission-sited solar PV power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2015.0,20.8
+transmission-sited solar PV power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2016.0,19.5
+transmission-sited solar PV power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2017.0,16.9
+transmission-sited solar PV power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2018.0,14.3
+transmission-sited solar PV power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2019.0,11.7
+transmission-sited solar PV power plant,absolute,,mexico,USD,2014.0,kilowatt,,linear_interpolation,nearest,,,,,,mx,,,2020.0,10.4

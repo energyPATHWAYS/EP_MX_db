@@ -1,0 +1,314 @@
+supply_tech,geography,definition,reference_tech_id,input_unit,output_unit,interpolation_method,extrapolation_method,extrapolation_growth,age_growth_or_decay_type,age_growth_or_decay,source,notes,supply_node,efficiency_type,gau,demand_sector,resource_bin,vintage,value
+Advanced Nuclear Plant,mexico,absolute,,Btu,kilowatt_hour,linear_interpolation,nearest,,,,,,Uranium Import,consumed,mx,,,2010.0,10479.0
+Corn Ethanol Plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,AEO Liquid Fuels Module,,Biomass Primary - Domestic Corn,consumed,mx,,,2015.0,0.511
+Corn Ethanol Plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,AEO Liquid Fuels Module,,Gas Transmission Pipeline,consumed,mx,,,2015.0,0.4461
+Corn Ethanol Plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,AEO Liquid Fuels Module,,Biomass Primary - Domestic Corn,not consumed,mx,,,2015.0,0.725
+Corn Ethanol Plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,AEO Liquid Fuels Module,,Coal Product,consumed,mx,,,2015.0,0.16802
+Diesel ICE,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Diesel Blend,consumed,mx,,,2000.0,11.83580822
+Diesel ICE,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Diesel Blend,consumed,mx,,,2016.0,8.002
+Diesel ICE,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Diesel Blend,consumed,mx,,,2031.0,9.905333333
+Electrode Boiler,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Electricity Distribution Grid,consumed,mx,,,2015.0,1.01
+Fast-pyrolysis bio-diesel plant,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,ignores produced bio-char,Biomass Primary - Domestic Non-Corn Cellulosic,leaked,mx,,,2015.0,0.303
+Fast-pyrolysis bio-diesel plant,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,ignores produced bio-char,Biomass Primary - Domestic Non-Corn Cellulosic,not consumed,mx,,,2015.0,1.0
+Fast-pyrolysis bio-diesel plant,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,ignores produced bio-char,Biomass Primary - Domestic Non-Corn Cellulosic,consumed,mx,,,2015.0,0.212
+Fast-pyrolysis bio-diesel plant,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,ignores produced bio-char,Electricity Transmission Grid,consumed,mx,,,2015.0,0.01
+Fast-pyrolysis bio-diesel plant,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,ignores produced bio-char,Gas Transmission Pipeline,consumed,mx,,,2015.0,-0.06
+Fast-pyrolysis bio-diesel plant,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,ignores produced bio-char,Liquid Hydrogen Truck Delivery,consumed,mx,,,2015.0,0.2
+Fast-pyrolysis bio-diesel plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Electricity Transmission Grid,consumed,mx,,,2015.0,0.01
+Fast-pyrolysis bio-diesel plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,not consumed,mx,,,2015.0,1.0
+Fast-pyrolysis bio-diesel plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Liquid Hydrogen Truck Delivery,consumed,mx,,,2015.0,0.2
+Fast-pyrolysis bio-diesel plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,leaked,mx,,,2015.0,0.303
+Fast-pyrolysis bio-diesel plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2015.0,-0.024812842
+Fast-pyrolysis bio-diesel plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,consumed,mx,,,2015.0,0.28550760399999997
+Fischer-Tropsch bio-diesel plant,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,,Electricity Transmission Grid,consumed,mx,,,2015.0,-0.035
+Fischer-Tropsch bio-diesel plant,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,not consumed,mx,,,2015.0,0.788486377
+Fischer-Tropsch bio-diesel plant,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,consumed,mx,,,2015.0,1.22351386
+Fischer-Tropsch bio-diesel plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Electricity Transmission Grid,consumed,mx,,,2015.0,-0.035
+Fischer-Tropsch bio-diesel plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,not consumed,mx,,,2015.0,0.78848614
+Fischer-Tropsch bio-diesel plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,consumed,mx,,,2015.0,1.27151386
+Fuel Oil ICE,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,2000.0,12.21198254
+Fuel Oil ICE,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,2001.0,10.28571429
+Fuel Oil ICE,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,2016.0,9.131
+Fuel Oil ICE,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,2018.0,9.144
+Gas ICE,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2000.0,12.34502536
+Gas ICE,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2016.0,10.286
+Gas ICE,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2031.0,9.778444444
+Generic Demand Response,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,not consumed,mx,,,2015.0,0.0
+H2 Natural Gas Reformation ,mexico,absolute,,gigajoule,h2_kilogram,linear_interpolation,nearest,,,,,,Electricity Transmission Grid,consumed,mx,,,2010.0,0.002
+H2 Natural Gas Reformation ,mexico,absolute,,gigajoule,h2_kilogram,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2010.0,0.165
+H2 Natural Gas Reformation w/ccs,mexico,absolute,,gigajoule,h2_kilogram,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2010.0,0.16399999999999998
+H2 Natural Gas Reformation w/ccs,mexico,absolute,,gigajoule,h2_kilogram,linear_interpolation,nearest,,,,,,Electricity Transmission Grid,consumed,mx,,,2010.0,0.005
+Hydroprocessed Renewable Oil  Plant,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,ignores naptha byproduct,Liquid Hydrogen Truck Delivery,consumed,mx,,,2015.0,0.23954099999999998
+Hydroprocessed Renewable Oil  Plant,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,ignores naptha byproduct,Refined Fossil LPG Product,consumed,mx,,,2015.0,-0.19858
+Hydroprocessed Renewable Oil  Plant,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,ignores naptha byproduct,Diesel Blend,consumed,mx,,,2015.0,-0.43628999999999996
+Hydroprocessed Renewable Oil  Plant,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,ignores naptha byproduct,Biomass Primary - Domestic Lipid,not consumed,mx,,,2015.0,1.0
+Hydroprocessed Renewable Oil  Plant,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,ignores naptha byproduct,Biomass Primary - Domestic Lipid,consumed,mx,,,2015.0,0.5609
+Hydroprocessed Renewable Oil  Plant,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,ignores naptha byproduct,Petrochemical Feedstocks,consumed,mx,,,2015.0,-0.12989
+Hydroprocessed Renewable Oil  Plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Diesel Blend,consumed,mx,,,2015.0,-0.38778
+Hydroprocessed Renewable Oil  Plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Lipid,not consumed,mx,,,2015.0,1.0
+Hydroprocessed Renewable Oil  Plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Liquid Hydrogen Truck Delivery,consumed,mx,,,2015.0,0.23954099999999998
+Hydroprocessed Renewable Oil  Plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Refined Fossil LPG Product,consumed,mx,,,2015.0,-0.15157536800000002
+Hydroprocessed Renewable Oil  Plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Lipid,consumed,mx,,,2015.0,0.652476291
+Hydroprocessed Renewable Oil  Plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Petrochemical Feedstocks,consumed,mx,,,2015.0,-0.12989
+Hydrothermal liquefaction and hydrotreating,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,http://www.etsap.org/E-techDS/PDF/I01-ind_boilers-GS-AD-gct1.pdf,Gasoline Blend,consumed,mx,,,2015.0,-1.246
+Hydrothermal liquefaction and hydrotreating,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,http://www.etsap.org/E-techDS/PDF/I01-ind_boilers-GS-AD-gct1.pdf,Residual Fossil Fuel Oil Product,consumed,mx,,,2015.0,-0.377
+Hydrothermal liquefaction and hydrotreating,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,http://www.etsap.org/E-techDS/PDF/I01-ind_boilers-GS-AD-gct1.pdf,Electricity Transmission Grid,consumed,mx,,,2015.0,0.243
+Hydrothermal liquefaction and hydrotreating,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,http://www.etsap.org/E-techDS/PDF/I01-ind_boilers-GS-AD-gct1.pdf,Biomass Primary - Domestic Non-Corn Cellulosic,consumed,mx,,,2015.0,2.97
+Hydrothermal liquefaction and hydrotreating,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,http://www.etsap.org/E-techDS/PDF/I01-ind_boilers-GS-AD-gct1.pdf,Biomass Primary - Domestic Non-Corn Cellulosic,not consumed,mx,,,2015.0,1.0
+Hydrothermal liquefaction and hydrotreating w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,not consumed,mx,,,2015.0,1.0
+Hydrothermal liquefaction and hydrotreating w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,2015.0,-0.33442526300000003
+Hydrothermal liquefaction and hydrotreating w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Gasoline Blend,consumed,mx,,,2015.0,-1.199433053
+Hydrothermal liquefaction and hydrotreating w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,consumed,mx,,,2015.0,3.190558358
+Hydrothermal liquefaction and hydrotreating w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Electricity Transmission Grid,consumed,mx,,,2015.0,0.243
+Industrial Coal Boiler,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,http://www.etsap.org/E-techDS/PDF/I01-ind_boilers-GS-AD-gct1.pdf,Coal Product,consumed,mx,,,2015.0,1.111111111
+Industrial Distillate Fuel Oil Boiler,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,http://www.etsap.org/E-techDS/PDF/I01-ind_boilers-GS-AD-gct1.pdf,Diesel Blend,consumed,mx,,,2015.0,1.111111111
+Industrial LPG Boiler,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,http://www.etsap.org/E-techDS/PDF/I01-ind_boilers-GS-AD-gct1.pdf,Refined Fossil LPG Product,consumed,mx,,,2015.0,1.111111111
+Industrial Other Petroleum Boiler,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,http://www.etsap.org/E-techDS/PDF/I01-ind_boilers-GS-AD-gct1.pdf,Other Petroleum Import,consumed,mx,,,2015.0,1.111111111
+Industrial Petroleum Coke Boiler,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,http://www.etsap.org/E-techDS/PDF/I01-ind_boilers-GS-AD-gct1.pdf,Petroleum Coke Product,consumed,mx,,,2015.0,1.111111111
+Industrial Pipeline Gas Boiler,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,http://www.etsap.org/E-techDS/PDF/I01-ind_boilers-GS-AD-gct1.pdf,Gas Transmission Pipeline,consumed,mx,,,2015.0,1.162790698
+Industrial Pulping Liquors Oil Boiler,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,http://www.etsap.org/E-techDS/PDF/I01-ind_boilers-GS-AD-gct1.pdf,Biomass Primary - Domestic Pulping Liquors,consumed,mx,,,2015.0,1.428571429
+Industrial Residual Fuel Oil Oil Boiler,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,http://www.etsap.org/E-techDS/PDF/I01-ind_boilers-GS-AD-gct1.pdf,Residual Fossil Fuel Oil Product,consumed,mx,,,2015.0,1.111
+Industrial Woody Biomass Boiler,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,http://www.etsap.org/E-techDS/PDF/I01-ind_boilers-GS-AD-gct1.pdf,Biomass Primary - Domestic Non-Corn Cellulosic,consumed,mx,,,2015.0,1.25
+Onshore wind power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Wind Primary,consumed,mx,,,1994.0,1.0
+Onshore wind power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Wind Primary,consumed,mx,,,2000.0,1.0
+Onshore wind power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Wind Primary,consumed,mx,,,2009.0,1.0
+Onshore wind power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Wind Primary,consumed,mx,,,2010.0,1.0
+Onshore wind power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Wind Primary,consumed,mx,,,2012.0,1.0
+Onshore wind power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Wind Primary,consumed,mx,,,2013.0,1.0
+Onshore wind power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Wind Primary,consumed,mx,,,2014.0,1.0
+Onshore wind power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Wind Primary,consumed,mx,,,2016.0,1.0
+Relicensed Nuclear Power Plants,mexico,relative,25.0,,,,,,,,,,,,,,,,
+Wave Power Plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Wind Primary,consumed,mx,,,2015.0,1.0
+biomass cogen IPP power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Steam Blend,consumed,mx,,,2015.0,-1.34
+biomass cogen IPP power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,consumed,mx,,,2015.0,6.22
+biomass cogen IPP power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Steam Blend,consumed,mx,,,2015.0,-1.34
+biomass cogen IPP power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,consumed,mx,,,2015.0,6.613841516
+biomass cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,consumed,mx,,,2015.0,1.97
+biomass cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Distributed Electricity,consumed,mx,,,2015.0,-0.17
+biomass cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,consumed,mx,,,2015.0,2.137240463
+biomass cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Distributed Electricity,consumed,mx,,,2015.0,-0.17
+biomass power plant,mexico,absolute,,Btu,kilowatt_hour,linear_interpolation,nearest,,,,,,,,,,,,
+bulk battery storage,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Bulk Electricity Blend,consumed,mx,,,2010.0,1.25
+central hydrogen grid electrolysis,mexico,absolute,,kilowatt_hour,h2_kilogram,linear_interpolation,nearest,,,,,,Electricity Transmission Grid,consumed,mx,,,2010.0,50.0
+central hydrogen grid electrolysis,mexico,absolute,,kilowatt_hour,h2_kilogram,linear_interpolation,nearest,,,,,,Electricity Transmission Grid,consumed,mx,,,2025.0,46.0
+central solar thermo hydrogen production,mexico,absolute,,kilowatt_hour,h2_kilogram,linear_interpolation,nearest,,,,,,Electricity Transmission Grid,consumed,mx,,,2030.0,0.16
+central solar thermo hydrogen production,mexico,absolute,,kilowatt_hour,h2_kilogram,linear_interpolation,nearest,,,,,,Solar Primary,consumed,mx,,,2030.0,39.5
+coal IGCC power plant,mexico,absolute,,Btu,kilowatt_hour,linear_interpolation,nearest,,,,,,,,,,,,
+coal IGCC with CCS power plant,mexico,absolute,,Btu,kilowatt_hour,linear_interpolation,nearest,,,,,,Coal Product,consumed,mx,,,2009.0,10700.0
+coal IGCC with CCS power plant,mexico,absolute,,Btu,kilowatt_hour,linear_interpolation,nearest,,,,,,Coal Product,consumed,mx,,,2024.0,8307.0
+coal steam turbine IPP cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Steam Blend,consumed,mx,,,2015.0,-0.31
+coal steam turbine IPP cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Coal Product,consumed,mx,,,2015.0,3.89
+coal steam turbine IPP cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Steam Blend,consumed,mx,,,2015.0,-0.31
+coal steam turbine IPP cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Coal Product,consumed,mx,,,2015.0,4.164554644
+coal steam turbine cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Distributed Electricity,consumed,mx,,,2015.0,-0.2
+coal steam turbine cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Coal Product,consumed,mx,,,2015.0,2.0
+coal steam turbine cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Distributed Electricity,consumed,mx,,,2015.0,-0.2
+coal steam turbine cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Coal Product,consumed,mx,,,2015.0,2.171936
+coal steam turbine power plant with CCS,mexico,absolute,,Btu,kilowatt_hour,linear_interpolation,nearest,,,,,,Coal Product,consumed,mx,,,2009.0,12000.0
+coal steam turbine power plant with CCS,mexico,absolute,,Btu,kilowatt_hour,linear_interpolation,nearest,,,,,,Coal Product,consumed,mx,,,2024.0,9316.0
+distillate oil combustion turbine IPP cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Diesel Blend,consumed,mx,,,2015.0,2.7
+distillate oil combustion turbine IPP cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Steam Blend,consumed,mx,,,2015.0,-0.08
+distillate oil combustion turbine IPP cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Steam Blend,consumed,mx,,,2015.0,-0.08
+distillate oil combustion turbine IPP cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Diesel Blend,consumed,mx,,,2015.0,2.860776
+distillate oil combustion turbine cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Distributed Electricity,consumed,mx,,,2015.0,-0.32
+distillate oil combustion turbine cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Diesel Blend,consumed,mx,,,2015.0,2.23
+distillate oil combustion turbine cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Distributed Electricity,consumed,mx,,,2015.0,-0.32
+distillate oil combustion turbine cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Diesel Blend,consumed,mx,,,2015.0,2.3712334
+distillate oil combustion turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Diesel Blend,consumed,mx,,,1969.0,19.4830788
+distillate oil combustion turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Diesel Blend,consumed,mx,,,2000.0,19.39358288
+distillate oil combustion turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Diesel Blend,consumed,mx,,,2003.0,22.34636872
+distillate oil steam turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Diesel Blend,consumed,mx,,,2000.0,11.79622839
+distllate oil steam turbine cogen power plant,mexico,relative,55.0,Btu,Btu,linear_interpolation,nearest,,,,,,,,,,,,
+distributed battery storage,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Distributed Electricity,consumed,mx,,,2010.0,1.25
+distribution-sited solar PV power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Solar Primary,consumed,mx,,,2010.0,1.0
+fossil waste steam turbine cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Distributed Electricity,consumed,mx,,,2015.0,-0.24
+fossil waste steam turbine cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Other Petroleum Import,consumed,mx,,,2015.0,1.96
+fossil waste steam turbine cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Distributed Electricity,consumed,mx,,,2015.0,-0.24
+fossil waste steam turbine cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Other Petroleum Import,consumed,mx,,,2015.0,2.070687949
+fuel cell power plant,mexico,absolute,,Btu,kilowatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2015.0,9500.0
+gas cogen composite power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2015.0,2.75
+gas cogen composite power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Distributed Electricity,consumed,mx,,,2015.0,-1.02
+gas combined cycle IPP cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Steam Blend,consumed,mx,,,2015.0,-0.39
+gas combined cycle IPP cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2015.0,2.75
+gas combined cycle IPP cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Steam Blend,consumed,mx,,,2015.0,-0.39
+gas combined cycle IPP cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2015.0,2.8681283160000004
+gas combined cycle cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Distributed Electricity,consumed,mx,,,2015.0,-1.47
+gas combined cycle cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2015.0,4.75
+gas combined cycle cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Distributed Electricity,consumed,mx,,,2015.0,-1.47
+gas combined cycle cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2015.0,4.928449158
+gas combined cycle power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,1974.0,10.98901099
+gas combined cycle power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,1981.0,8.006387393999999
+gas combined cycle power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,1989.0,6.870229008
+gas combined cycle power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,1998.0,7.926023777999999
+gas combined cycle power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2000.0,10.06488816
+gas combined cycle power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2001.0,7.359208517000001
+gas combined cycle power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2002.0,7.411450263
+gas combined cycle power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2003.0,7.835271178999999
+gas combined cycle power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2004.0,8.94680891
+gas combined cycle power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2005.0,8.402531106
+gas combined cycle power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2006.0,8.083243476
+gas combined cycle power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2007.0,7.321537523
+gas combined cycle power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2010.0,7.183793442000001
+gas combined cycle power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2014.0,7.525472972999999
+gas combined cycle power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2015.0,10.7535
+gas combined cycle power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2016.0,8.518783984
+gas combined cycle power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2017.0,6.762571428999999
+gas combined cycle power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2018.0,6.55375
+gas combined cycle power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2019.0,6.69675
+gas combined cycle power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2020.0,6.6645
+gas combined cycle power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2031.0,6.834896552000001
+gas combined cycle power plant with CCS,mexico,absolute,,Btu,kilowatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2009.0,7525.0
+gas combined cycle power plant with CCS,mexico,absolute,,Btu,kilowatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2024.0,7493.0
+gas combustion turbine IPP cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Steam Blend,consumed,mx,,,2015.0,-0.99
+gas combustion turbine IPP cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2015.0,3.46
+gas combustion turbine IPP cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Steam Blend,consumed,mx,,,2015.0,-0.99
+gas combustion turbine IPP cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2015.0,3.599542215
+gas combustion turbine cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2015.0,3.16
+gas combustion turbine cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Distributed Electricity,consumed,mx,,,2015.0,-0.74
+gas combustion turbine cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Distributed Electricity,consumed,mx,,,2015.0,-0.74
+gas combustion turbine cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2015.0,3.290494088
+gas combustion turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,1970.0,19.84564498
+gas combustion turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,1971.0,11.81102362
+gas combustion turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,1972.0,22.19482121
+gas combustion turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,1975.0,18.66251944
+gas combustion turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,1998.0,10.4150919
+gas combustion turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,1999.0,11.34930643
+gas combustion turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2000.0,16.50705363
+gas combustion turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2005.0,19.48051948
+gas combustion turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2014.0,16.66196141
+gas combustion turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2016.0,12.58680296
+gas combustion turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2031.0,9.845333333
+gas steam turbine IPP cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Steam Blend,consumed,mx,,,2015.0,-2.34
+gas steam turbine IPP cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2015.0,6.25
+gas steam turbine IPP cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Steam Blend,consumed,mx,,,2015.0,-2.34
+gas steam turbine IPP cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2015.0,6.473689789
+gas steam turbine cogen power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2000.0,11.2892571
+gas steam turbine cogen power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2014.0,10.80079283
+gas steam turbine cogen power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2016.0,8.55075
+gas steam turbine cogen power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2017.0,6.8925
+gas steam turbine cogen power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2020.0,6.829
+gas steam turbine cogen power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2031.0,8.730641791
+gas steam turbine cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2015.0,2.260333667
+gas steam turbine cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Distributed Electricity,consumed,mx,,,2015.0,-0.25
+gas steam turbine power plant,mexico,absolute,,Btu,kilowatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2000.0,14.51835673
+gas steam turbine power plant,mexico,absolute,,Btu,kilowatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2004.0,10.73665374
+gas steam turbine power plant,mexico,absolute,,Btu,kilowatt_hour,linear_interpolation,nearest,,,,,,Gas Transmission Pipeline,consumed,mx,,,2016.0,18.36746145
+geothermal power plant,mexico,absolute,,Btu,kilowatt_hour,linear_interpolation,nearest,,,,,,Geothermal Primary,consumed,mx,,,1973.0,1.0
+geothermal power plant,mexico,absolute,,Btu,kilowatt_hour,linear_interpolation,nearest,,,,,,Geothermal Primary,consumed,mx,,,1982.0,1.0
+geothermal power plant,mexico,absolute,,Btu,kilowatt_hour,linear_interpolation,nearest,,,,,,Geothermal Primary,consumed,mx,,,2000.0,1.0
+hydrogen fueling station,mexico,absolute,,kWh,h2_kilogram,linear_interpolation,nearest,,,,,,Liquid Hydrogen Truck Delivery,not consumed,mx,,,2015.0,39.5
+hydrogen fueling station,mexico,absolute,,kWh,h2_kilogram,linear_interpolation,nearest,,,,,,Electricity Distribution Grid,consumed,mx,,,2016.0,0.25519000000000003
+landfill gas cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,consumed,mx,,,2015.0,6.23
+landfill gas cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Distributed Electricity,consumed,mx,,,2015.0,-1.5
+landfill gas cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Distributed Electricity,consumed,mx,,,2015.0,-1.5
+landfill gas cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,consumed,mx,,,2015.0,6.624374695
+landfill gas to electricity power plant,mexico,absolute,,Btu,kilowatt_hour,linear_interpolation,nearest,,,,,,,,,,,,
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1905.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1910.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1911.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1912.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1919.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1951.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1953.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1954.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1955.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1957.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1959.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1960.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1962.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1963.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1964.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1965.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1966.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1969.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1973.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1976.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1977.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1980.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1986.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1987.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1991.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1993.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1994.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1995.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,1996.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,2000.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,2007.0,1.0
+large hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,2012.0,1.0
+lignocellulosic anaerobic digester,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,assumes remaining lignin converted to electricity at 33% efficiency,Steam Blend,consumed,mx,,,2015.0,0.07988980700000001
+lignocellulosic anaerobic digester,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,assumes remaining lignin converted to electricity at 33% efficiency,Anaerobic Digesters - Manure,leaked,mx,,,2015.0,0.01
+lignocellulosic anaerobic digester,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,assumes remaining lignin converted to electricity at 33% efficiency,Biomass Primary - Domestic Non-Corn Cellulosic,consumed,mx,,,2015.0,0.872
+lignocellulosic anaerobic digester,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,assumes remaining lignin converted to electricity at 33% efficiency,Electricity Transmission Grid,consumed,mx,,,2015.0,-0.147768595
+lignocellulosic anaerobic digester,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,assumes remaining lignin converted to electricity at 33% efficiency,Biomass Primary - Domestic Non-Corn Cellulosic,not consumed,mx,,,2015.0,1.0
+lignocellulosic anaerobic digester w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Anaerobic Digesters - Manure,leaked,mx,,,2015.0,0.01
+lignocellulosic anaerobic digester w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,not consumed,mx,,,2015.0,1.0
+lignocellulosic anaerobic digester w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Electricity Transmission Grid,consumed,mx,,,2015.0,-0.09336133099999999
+lignocellulosic anaerobic digester w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,consumed,mx,,,2015.0,0.922
+lignocellulosic anaerobic digester w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Steam Blend,consumed,mx,,,2015.0,0.07988980700000001
+municipal solid waste cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Distributed Electricity,consumed,mx,,,2015.0,-0.14
+municipal solid waste cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,consumed,mx,,,2015.0,2.06
+municipal solid waste cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Distributed Electricity,consumed,mx,,,2015.0,-0.14
+municipal solid waste cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,consumed,mx,,,2015.0,2.2320390740000002
+municipal solid waste power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,consumed,mx,,,2000.0,17.94759191
+municipal solid waste power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,consumed,mx,,,2016.0,9.646
+municipal solid waste power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,consumed,mx,,,2031.0,9.952
+nuclear power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Uranium Import,consumed,mx,,,1990.0,10.3926097
+nuclear power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Uranium Import,consumed,mx,,,2016.0,10.286
+nuclear power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Uranium Import,consumed,mx,,,2031.0,10.286
+offshore wind power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Wind Primary,consumed,mx,,,2010.0,1.0
+petroleum coke steam turbine cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Petroleum Coke Product,consumed,mx,,,2015.0,1.73
+petroleum coke steam turbine cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Distributed Electricity,consumed,mx,,,2015.0,-0.15
+petroleum coke steam turbine cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Petroleum Coke Product,consumed,mx,,,2015.0,1.8981432669999998
+petroleum coke steam turbine cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Distributed Electricity,consumed,mx,,,2015.0,-0.15
+petroleum coke steam turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Coke Product,consumed,mx,,,2004.0,9.887652937999999
+pipeline gas LNG fueling station,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,GREET,,Pipeline Gas Liquefaction Facilities,not consumed,mx,,,2015.0,1.0
+pipeline gas compression and fueling station,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,GREET,,Gas Distribution Pipeline,not consumed,mx,,,2015.0,1.0
+pipeline gas compression and fueling station,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,GREET,,Electricity Distribution Grid,consumed,mx,,,2015.0,0.027999999999999997
+power-to-gas methanation,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Electricity Transmission Grid,consumed,mx,,,2015.0,1.9082512790000001
+power-to-gas methanation,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Electricity Transmission Grid,consumed,mx,,,2030.0,1.8252838319999998
+power-to-gas methanation,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Electricity Transmission Grid,consumed,mx,,,2050.0,1.8252838319999998
+pulverized coal power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Coal Product,consumed,mx,,,1982.0,10.2915952
+pulverized coal power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Coal Product,consumed,mx,,,1993.0,10.13895979
+pulverized coal power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Coal Product,consumed,mx,,,2019.0,8.627
+pulverized coal power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Coal Product,consumed,mx,,,2031.0,8.627
+pumped hydro storage,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Bulk Electricity Blend,consumed,mx,,,2010.0,1.33
+purpose-built liquefiers,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,GREET,,Gas Distribution Pipeline,consumed,mx,,,2015.0,0.098
+purpose-built liquefiers,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,GREET,,Gas Distribution Pipeline,not consumed,mx,,,2015.0,1.0
+purpose-built liquefiers,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,GREET,,Electricity Transmission Grid,consumed,mx,,,2015.0,0.0198
+residual oil combustion turbine IPP cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,2015.0,2.48
+residual oil combustion turbine IPP cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Steam Blend,consumed,mx,,,2015.0,-0.87
+residual oil combustion turbine IPP cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Steam Blend,consumed,mx,,,2015.0,-0.87
+residual oil combustion turbine IPP cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,2015.0,2.613076463
+residual oil combustion turbine cogen power plant,mexico,relative,55.0,Btu,Btu,linear_interpolation,nearest,,,,,,,,,,,,
+residual oil combustion turbine power plant,mexico,absolute,,Btu,kilowatt_hour,linear_interpolation,nearest,,,,,,,,,,,,
+residual oil steam turbine cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Distributed Electricity,consumed,mx,,,2015.0,-0.36
+residual oil steam turbine cogen power plant,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,2015.0,2.34
+residual oil steam turbine cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,2015.0,2.467967495
+residual oil steam turbine cogen power plant w/ccs,mexico,absolute,,Btu,Btu,linear_interpolation,nearest,,,,,,Distributed Electricity,consumed,mx,,,2015.0,-0.36
+residual oil steam turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,1963.0,9.476177942
+residual oil steam turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,1964.0,10.95890411
+residual oil steam turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,1971.0,11.09057301
+residual oil steam turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,1976.0,10.54790507
+residual oil steam turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,1981.0,9.980593291
+residual oil steam turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,1982.0,10.52323882
+residual oil steam turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,1985.0,10.39561074
+residual oil steam turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,1986.0,10.61007958
+residual oil steam turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,1991.0,10.62260254
+residual oil steam turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,1998.0,11.52
+residual oil steam turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,2000.0,12.7591689
+residual oil steam turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,2001.0,10.25056948
+residual oil steam turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,2003.0,11.07554022
+residual oil steam turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,2006.0,13.47809809
+residual oil steam turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,2016.0,25.16438585
+residual oil steam turbine power plant,mexico,absolute,,gigajoule,megawatt_hour,linear_interpolation,nearest,,,,,,Residual Fossil Fuel Oil Product,consumed,mx,,,2017.0,10.315
+rooftop solar PV power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Solar Primary,consumed,mx,,,2010.0,1.0
+run of river hydro power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Hydro Primary,consumed,mx,,,2010.0,1.0
+solar thermal with energy storage power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Solar Primary,consumed,mx,,,2010.0,1.0
+solar thermal without energy storage power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Solar Primary,consumed,mx,,,2010.0,1.0
+thermal biomass gasifier,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,consumed,mx,,,2015.0,0.780057386
+thermal biomass gasifier,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,,Electricity Transmission Grid,consumed,mx,,,2015.0,0.021328457999999998
+thermal biomass gasifier,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,not consumed,mx,,,2015.0,0.572142612
+thermal biomass gasifier w/ccs,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,not consumed,mx,,,2015.0,0.55511727
+thermal biomass gasifier w/ccs,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,,Electricity Transmission Grid,consumed,mx,,,2015.0,0.043360432000000004
+thermal biomass gasifier w/ccs,mexico,absolute,,mmBtu,mmBtu,linear_interpolation,nearest,,,,,,Biomass Primary - Domestic Non-Corn Cellulosic,consumed,mx,,,2015.0,0.81618273
+transmission-sited solar PV power plant,mexico,absolute,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,Solar Primary,consumed,mx,,,2000.0,1.0

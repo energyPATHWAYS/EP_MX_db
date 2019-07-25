@@ -1,0 +1,7 @@
+name,geography,interpolation_method,extrapolation_method,extrapolation_growth,geography_map_key,supply_node,source,notes,gau,year,value,sensitivity
+Mitigation CO2,mexico,linear_interpolation,nearest,,,Thermal Dispatch Blend,,,mx,2020,0,
+Mitigation CO2,mexico,linear_interpolation,nearest,,,Thermal Dispatch Blend,,,mx,2050,200,
+Mitigation CO2 with 2030 delay,mexico,linear_interpolation,nearest,,,Thermal Dispatch Blend,,,mx,2030,0,
+Mitigation CO2 with 2030 delay,mexico,linear_interpolation,nearest,,,Thermal Dispatch Blend,,,mx,2050,200,
+Mitigation CO2 with 2030 delay and cumulative target,mexico,linear_interpolation,nearest,,,Thermal Dispatch Blend,,,mx,2030,0,
+Mitigation CO2 with 2030 delay and cumulative target,mexico,linear_interpolation,nearest,,,Thermal Dispatch Blend,,,mx,2031,200,

@@ -1,0 +1,10 @@
+subsector,geography,other_index_1,interpolation_method,extrapolation_method,extrapolation_growth,name,source,notes,gau,oth_1,year,value,demand_technology
+Commercial,mexico,,linear_interpolation,nearest,,Commercial Delayed Flexible Load,,,,,,,
+Commercial,mexico,,linear_interpolation,nearest,,Commercial Delayed w Steep Cumulative Target Flexible Load,,,,,,,
+Commercial,mexico,,linear_interpolation,nearest,,Commercial Flexible Load,,,,,,,
+Light-duty vehicle,mexico,,linear_interpolation,nearest,,EV Delayed Flexible Load,,,,,,,
+Light-duty vehicle,mexico,,linear_interpolation,nearest,,EV Delayed w Steep Cumulative Target Flexible Load,,,,,,,
+Light-duty vehicle,mexico,,linear_interpolation,nearest,,EV Flexible Load,,,,,,,
+Residential,mexico,,linear_interpolation,nearest,,Residential Delayed Flexible Load,,,,,,,
+Residential,mexico,,linear_interpolation,nearest,,Residential Delayed w Steep Cumulative Target Flexible Load,,,,,,,
+Residential,mexico,,linear_interpolation,nearest,,Residential Flexible Load,,,,,,,

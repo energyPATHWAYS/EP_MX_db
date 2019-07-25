@@ -1,0 +1,70 @@
+geography,gau
+sonora-baja-mx tx,sonora tx-area
+sonora-baja-mx tx,restofmx tx-area
+sonora-baja-mx tx,baja tx-area
+e-control_area,01-central
+e-control_area,02-oriental
+e-control_area,03-occidental
+e-control_area,04-noroeste
+e-control_area,05-norte
+e-control_area,06-noreste
+e-control_area,07-peninsular
+e-control_area,08-baja california
+e-control_area,09-baja california sur
+e-control_area,10-mulege
+energy zone,centro
+energy zone,centro-occidente
+energy zone,noreste
+energy zone,noroeste
+energy zone,sur-sureste
+mexico,mx
+state,01-aguascalientes
+state,02-baja california
+state,03-baja california sur_ec9
+state,03-baja california sur_ec10
+state,04-campeche
+state,07-chiapas
+state,08-chihuahua
+state,05-coahuila
+state,06-colima
+state,09-distrito federal
+state,10-durango
+state,11-guanajuato
+state,12-guerrero
+state,13-hidalgo
+state,14-jalisco
+state,15-mexico
+state,16-michoacan
+state,17-morelos
+state,18-nayarit
+state,19-nuevo leon
+state,20-oaxaca
+state,21-puebla
+state,22-queretaro
+state,23-quintana roo
+state,24-san luis potosi
+state,25-sinaloa
+state,26-sonora
+state,27-tabasco
+state,28-tamaulipas
+state,29-tlaxcala
+state,30-veracruz
+state,31-yucatan
+state,32-zacatecas
+time zone,america/puerto_rico
+time zone,us/alaska
+time zone,us/arizona
+time zone,us/hawaii
+time zone,us/central
+time zone,us/pacific
+time zone,us/mountain
+time zone,us/eastern
+zonas de reserva,occidental (zdr)
+zonas de reserva,baja california (zdr)
+zonas de reserva,baja california sur (zdr)
+zonas de reserva,peninsular (zdr)
+zonas de reserva,oriental (zdr)
+zonas de reserva,norte (zdr)
+zonas de reserva,central (zdr)
+zonas de reserva,noreste (zdr)
+zonas de reserva,noroeste (zdr)

@@ -1,0 +1,4 @@
+supply_node,dispatch_order,dispatch_window,geography
+Dispatchable Hydroelectric Power Plants,1,month,mexico
+Hydrogen Electrolysis - Central Station,4,week,mexico
+Power-to-Gas Production Facilities,3,year,mexico

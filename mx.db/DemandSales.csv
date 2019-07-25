@@ -1,0 +1,31 @@
+subsector,geography,other_index_1,other_index_2,input_type,interpolation_method,extrapolation_method,extrapolation_growth,source,notes,gau,oth_1,oth_2,demand_technology,vintage,value
+Busses,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Diesel Transit bus,2015,1.0
+Busses,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Diesel Transit bus,2020,0.99
+Busses,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Diesel Transit bus,2030,0.99
+Busses,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Diesel Transit bus,2040,0.99
+Busses,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Diesel Transit bus,2050,0.99
+Busses,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric Transit bus,2015,0.0
+Busses,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric Transit bus,2020,0.01
+Busses,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric Transit bus,2030,0.01
+Busses,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric Transit bus,2040,0.01
+Busses,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric Transit bus,2050,0.01
+Light-duty vehicle,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric Light-Duty Auto - 200 mile range,2015,0.0
+Light-duty vehicle,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric Light-Duty Auto - 200 mile range,2020,0.0217199
+Light-duty vehicle,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric Light-Duty Auto - 200 mile range,2030,0.05346
+Light-duty vehicle,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric Light-Duty Auto - 200 mile range,2040,0.12771500000000002
+Light-duty vehicle,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric Light-Duty Auto - 200 mile range,2050,0.248824
+Light-duty vehicle,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Reference Gasoline Light-Duty Auto,2015,1.0
+Light-duty vehicle,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Reference Gasoline Light-Duty Auto,2020,0.9782799999999999
+Light-duty vehicle,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Reference Gasoline Light-Duty Auto,2030,0.9465399999999999
+Light-duty vehicle,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Reference Gasoline Light-Duty Auto,2040,0.8722850000000001
+Light-duty vehicle,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Reference Gasoline Light-Duty Auto,2050,0.7511760000000001
+Two & three wheelers,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric 2 or 3 Wheeler,2015,0.01
+Two & three wheelers,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric 2 or 3 Wheeler,2020,0.109088
+Two & three wheelers,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric 2 or 3 Wheeler,2030,0.130435
+Two & three wheelers,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric 2 or 3 Wheeler,2040,0.146348
+Two & three wheelers,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric 2 or 3 Wheeler,2050,0.146348
+Two & three wheelers,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Gasoline 2 or 3 Wheeler,2015,0.99
+Two & three wheelers,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Gasoline 2 or 3 Wheeler,2020,0.890912
+Two & three wheelers,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Gasoline 2 or 3 Wheeler,2030,0.8695649999999999
+Two & three wheelers,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Gasoline 2 or 3 Wheeler,2040,0.8536520000000001
+Two & three wheelers,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Gasoline 2 or 3 Wheeler,2050,0.8536520000000001

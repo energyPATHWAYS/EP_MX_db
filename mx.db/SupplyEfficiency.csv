@@ -1,0 +1,8 @@
+name,geography,source,notes,input_unit,output_unit,interpolation_method,extrapolation_method,extrapolation_growth,parent_id,gau,efficiency_type,demand_sector,resource_bin,year,value
+Coal Product,mexico,,,gigajoule,gigajoule,linear_interpolation,nearest,,,,,,,,
+Electricity Distribution Grid,mexico,,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,,,,,,,
+Electricity Transmission Grid,mexico,,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,32.0,mx,consumed,,,2015.0,0.153
+Electricity Transmission Grid,mexico,,,kilowatt_hour,kilowatt_hour,linear_interpolation,nearest,,32.0,mx,not consumed,,,2015.0,1.0
+Gas Distribution Pipeline,mexico,,,gigajoule,gigajoule,linear_interpolation,nearest,,,,,,,,
+Gas Transmission Pipeline,mexico,,,gigajoule,gigajoule,linear_interpolation,nearest,,35.0,mx,consumed,,,2015.0,0.01
+Gas Transmission Pipeline,mexico,,,gigajoule,gigajoule,linear_interpolation,nearest,,35.0,mx,not consumed,,,2015.0,1.0

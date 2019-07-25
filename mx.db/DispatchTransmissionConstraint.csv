@@ -1,0 +1,4 @@
+name,description,geography_description,time_zone_id,interpolation_method_id,extrapolation_method_id,hurdle_currency_id,hurdle_currency_year,energy_unit
+aggregated egrid,,,126,1,4,41,2016,megawatt_hour
+test HQ,Test data for HQ,"36, 56, 65",126,1,4,41,2016,megawatt_hour
+test egrid,,,126,1,4,41,2016,megawatt_hour

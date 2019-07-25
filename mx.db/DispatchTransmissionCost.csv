@@ -1,0 +1,2 @@
+name,currency,currency_year_id,capacity_or_energy_unit,time_unit,geography_map_key,is_levelized,lifetime,cost_incremental,cost_of_capital,source,notes,gau_from,gau_to,year,value,sensitivity
+nw ddp,USD,2016,kilowatt,,,False,40,True,0.1,,,oregon,california,2018,1392.0,

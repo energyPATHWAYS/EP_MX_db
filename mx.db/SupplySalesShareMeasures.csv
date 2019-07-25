@@ -1,0 +1,2 @@
+name,supply_node,supply_technology,replaced_supply_technology,geography,capacity_or_energy_unit,time_unit,interpolation_method,extrapolation_method,extrapolation_growth,other_index_1,source,notes,gau,demand_sector,vintage,value,resource_bin,oth_1
+All Gas Combustion Turbines,Combustion Turbines,gas combustion turbine power plant,,mexico,,,linear_interpolation,nearest,,,,,mx,,2015,1.0,,

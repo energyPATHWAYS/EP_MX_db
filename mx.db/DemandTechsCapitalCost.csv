@@ -1,0 +1,695 @@
+demand_technology,definition,reference_tech,geography,other_index_1,other_index_2,currency,currency_year,is_levelized,interpolation_method,extrapolation_method,extrapolation_growth,reference_tech_operation,source,notes,new_or_replacement,gau,oth_1,oth_2,vintage,value,sensitivity
+Diesel - Electric Hybrid Light-Duty Auto,relative,Gasoline-Electric Hybrid Light-Duty Auto,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,,,,,,
+Electric - Diesel Hybrid Light-Duty Truck,relative,Electric - Gasoline Hybrid Light-Duty Truck,mexico,,,,,False,linear_interpolation,nearest,,,,,new,,,,,,
+Gasoline Transit Bus,relative,Diesel Transit bus,,,,,,False,linear_interpolation,nearest,,,,,new,,,,,,
+Propane ICE Light-Duty Auto,relative,CNG Light-Duty Auto,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,,,,,,
+Propane ICE Light-Duty Truck,relative,CNG Light-Duty Truck,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,,,,,,
+Reference Flex Fuel Light-Duty Auto,relative,Reference Gasoline Light-Duty Auto,,,,,,False,linear_interpolation,nearest,,,,,new,,,,,,
+Reference Flex-Fuel Light-Duty Truck,relative,Reference Gasoline Light-Duty Truck,,,,,,False,linear_interpolation,nearest,,,,,new,,,,,,
+Reference Gasoline Heavy-Duty Vehicle,relative,Reference Diesel Heavy-Duty Vehicle,,,,,,False,linear_interpolation,nearest,,,,,new,,,,,,
+Reference LPG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,,,,,,
+Reference Propane Heavy-Duty Vehicle,relative,Reference Diesel Heavy-Duty Vehicle,,,,,,False,linear_interpolation,nearest,,,,,new,,,,,,
+Reference TDI Light-Duty Auto,relative,Reference Gasoline Light-Duty Auto,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,,,,,,
+Reference TDI Light-Duty Truck,relative,Reference Gasoline Light-Duty Truck,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,,,,,,
+Autonomous Electric Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,44679.6,
+Autonomous Electric Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,42091.0,
+Autonomous Electric Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,38211.6,
+Autonomous Electric Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,35321.4,
+Autonomous Electric Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,54945.9,
+Autonomous Electric Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,51747.3,
+Autonomous Electric Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,46753.1,
+Autonomous Electric Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,38183.4,
+Battery Electric Medium-Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,165000.0,
+Battery Electric Medium-Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,144726.0,
+Battery Electric Medium-Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,123054.0,
+Battery Electric Medium-Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,113810.0,
+Battery Electric Medium-Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,108372.0,
+CNG Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2010.0,28280.4,
+CNG Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2016.0,28834.4,
+CNG Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,29203.7,
+CNG Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,29894.1,
+CNG Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,30584.4,
+CNG Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,31070.3,
+CNG Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,31792.8,
+CNG Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2010.0,33862.7,
+CNG Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2016.0,34557.1,
+CNG Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,35020.0,
+CNG Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,35899.4,
+CNG Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,36778.7,
+CNG Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,37472.1,
+CNG Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,38439.9,
+CNG Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,485000.0,
+CNG Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,485000.0,
+CNG Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,485000.0,
+CNG Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,485000.0,
+CNG Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,485000.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2007.0,212400.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2008.0,212400.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2009.0,212400.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2010.0,212400.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2011.0,212752.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2012.0,213103.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2013.0,213455.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2014.0,213806.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,214158.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2016.0,214598.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,215039.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2018.0,215480.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2019.0,215921.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,216362.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2021.0,216841.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2022.0,217320.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2023.0,217799.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2024.0,218278.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,218757.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2026.0,219007.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2027.0,219257.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2028.0,219506.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2029.0,219756.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,220006.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2031.0,220038.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2032.0,220070.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2033.0,220102.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2034.0,220134.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,220166.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2036.0,220249.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2037.0,220332.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2038.0,220416.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2039.0,220499.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,220582.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2041.0,220608.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2042.0,220633.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2043.0,220659.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2044.0,220685.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2045.0,220710.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2046.0,220733.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2047.0,220756.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2048.0,220780.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2049.0,220803.0,
+Diesel Hybrid Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,220826.0,
+Diesel Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,435000.0,
+Diesel Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,435000.0,
+Diesel Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,435000.0,
+Diesel Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,435000.0,
+Diesel Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,435000.0,
+Electric - Gasoline Hybrid Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2010.0,38581.7,
+Electric - Gasoline Hybrid Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2016.0,37517.7,
+Electric - Gasoline Hybrid Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,36808.4,
+Electric - Gasoline Hybrid Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,36720.7,
+Electric - Gasoline Hybrid Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,37051.5,
+Electric - Gasoline Hybrid Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,37626.5,
+Electric - Gasoline Hybrid Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,38690.8,
+Electric Heavy Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,453226.0,
+Electric Heavy Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,396081.0,
+Electric Heavy Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,334996.0,
+Electric Heavy Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,308942.0,
+Electric Heavy Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,293616.0,
+Electric Light-Duty Auto - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,35882.7,
+Electric Light-Duty Auto - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,30660.0,
+Electric Light-Duty Auto - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,28728.0,
+Electric Light-Duty Auto - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,27513.8,
+Electric Light-Duty Auto - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,26887.9,
+Electric Light-Duty Auto - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,26317.7,
+Electric Light-Duty Auto - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,51750.6,
+Electric Light-Duty Auto - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,39849.4,
+Electric Light-Duty Auto - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,35938.5,
+Electric Light-Duty Auto - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,32944.6,
+Electric Light-Duty Auto - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,31315.7,
+Electric Light-Duty Auto - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,29798.4,
+Electric Light-Duty Auto - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,71103.8,
+Electric Light-Duty Auto - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,50288.2,
+Electric Light-Duty Auto - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,43938.6,
+Electric Light-Duty Auto - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,38740.6,
+Electric Light-Duty Auto - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,36031.8,
+Electric Light-Duty Auto - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,33501.6,
+Electric Light-Duty Truck - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,48830.2,
+Electric Light-Duty Truck - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,39922.8,
+Electric Light-Duty Truck - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,36468.4,
+Electric Light-Duty Truck - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,34613.1,
+Electric Light-Duty Truck - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,33698.6,
+Electric Light-Duty Truck - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,32658.2,
+Electric Light-Duty Truck - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,74559.5,
+Electric Light-Duty Truck - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,54910.4,
+Electric Light-Duty Truck - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,47953.1,
+Electric Light-Duty Truck - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,43448.4,
+Electric Light-Duty Truck - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,41176.2,
+Electric Light-Duty Truck - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,38596.0,
+Electric Light-Duty Truck - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,107248.0,
+Electric Light-Duty Truck - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,72293.9,
+Electric Light-Duty Truck - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,60900.0,
+Electric Light-Duty Truck - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,53082.9,
+Electric Light-Duty Truck - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,49261.7,
+Electric Light-Duty Truck - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,45005.5,
+Electric Semi-Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2016.0,180000.0,
+Electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,750000.0,
+Electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,703859.0,
+Electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,654536.0,
+Electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,633498.0,
+Electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,621123.0,
+Gasoline-Electric Hybrid Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2010.0,31366.1,
+Gasoline-Electric Hybrid Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2016.0,30592.5,
+Gasoline-Electric Hybrid Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,30076.8,
+Gasoline-Electric Hybrid Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,30111.8,
+Gasoline-Electric Hybrid Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,30441.0,
+Gasoline-Electric Hybrid Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,30888.3,
+Gasoline-Electric Hybrid Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,31774.3,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2007.0,1.24678,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2008.0,1.24678,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2009.0,1.24678,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2010.0,1.24678,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2011.0,1.24371,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2012.0,1.24068,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2013.0,1.23769,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2014.0,1.23475,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,1.23184,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2016.0,1.22879,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,1.2257799999999999,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2018.0,1.22281,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2019.0,1.2198799999999999,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,1.21699,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2021.0,1.2121899999999999,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2022.0,1.20743,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2023.0,1.2027299999999999,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2024.0,1.19807,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,1.19345,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2026.0,1.19383,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2027.0,1.19421,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2028.0,1.19459,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2029.0,1.19497,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,1.19535,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2031.0,1.1944,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2032.0,1.19346,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2033.0,1.19252,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2034.0,1.1915799999999999,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,1.19064,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2036.0,1.19058,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2037.0,1.1905299999999999,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2038.0,1.1904700000000001,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2039.0,1.19041,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,1.19035,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2041.0,1.1903,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2042.0,1.19025,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2043.0,1.1902,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2044.0,1.19015,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2045.0,1.1901,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2046.0,1.18923,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2047.0,1.18836,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2048.0,1.18749,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2049.0,1.18662,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium-Duty CNG Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,1.1857600000000001,
+Hybrid Diesel Medium-Duty Vehicle,relative,Reference Medium - Duty Diesel Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,1.23,
+Hybrid Diesel Medium-Duty Vehicle,relative,Reference Medium - Duty Diesel Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,1.19,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2007.0,1.24678,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2008.0,1.24678,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2009.0,1.24678,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2010.0,1.24678,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2011.0,1.24371,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2012.0,1.24068,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2013.0,1.23769,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2014.0,1.23475,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,1.23184,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2016.0,1.22879,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,1.2257799999999999,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2018.0,1.22281,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2019.0,1.2198799999999999,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,1.21699,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2021.0,1.2121899999999999,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2022.0,1.20743,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2023.0,1.2027299999999999,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2024.0,1.19807,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,1.19345,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2026.0,1.19383,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2027.0,1.19421,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2028.0,1.19459,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2029.0,1.19497,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,1.19535,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2031.0,1.1944,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2032.0,1.19346,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2033.0,1.19252,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2034.0,1.1915799999999999,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,1.19064,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2036.0,1.19058,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2037.0,1.1905299999999999,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2038.0,1.1904700000000001,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2039.0,1.19041,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,1.19035,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2041.0,1.1903,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2042.0,1.19025,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2043.0,1.1902,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2044.0,1.19015,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2045.0,1.1901,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2046.0,1.18923,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2047.0,1.18836,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2048.0,1.18749,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2049.0,1.18662,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium-Duty Gasoline Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,1.1857600000000001,
+Hybrid electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,640000.0,
+Hybrid electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,640000.0,
+Hybrid electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,640000.0,
+Hybrid electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,640000.0,
+Hybrid electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,640000.0,
+Hydrogen FCV Heavy-Duty Vehicle,relative,Reference Diesel Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2014.0,1.59,
+Hydrogen FCV Heavy-Duty Vehicle,relative,Reference Diesel Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,1.35,
+Hydrogen Fuel Cell Medium-Duty Vehicle,relative,Reference Medium - Duty Diesel Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2012.0,4.16996,
+Hydrogen Fuel Cell Medium-Duty Vehicle,relative,Reference Medium - Duty Diesel Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,1.6019,
+Hydrogen Fuel Cell Medium-Duty Vehicle,relative,Reference Medium - Duty Diesel Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,1.1770100000000001,
+Hydrogen Fuel-Cell Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2010.0,37034.0,
+Hydrogen Fuel-Cell Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2016.0,34634.2,
+Hydrogen Fuel-Cell Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,33034.4,
+Hydrogen Fuel-Cell Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,32029.3,
+Hydrogen Fuel-Cell Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,31024.3,
+Hydrogen Fuel-Cell Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,30525.3,
+Hydrogen Fuel-Cell Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,30442.0,
+Hydrogen Fuel-Cell Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2010.0,47249.1,
+Hydrogen Fuel-Cell Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2016.0,44078.2,
+Hydrogen Fuel-Cell Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,41964.3,
+Hydrogen Fuel-Cell Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,40615.7,
+Hydrogen Fuel-Cell Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,39267.1,
+Hydrogen Fuel-Cell Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,38471.4,
+Hydrogen Fuel-Cell Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,38214.5,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2007.0,218710.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2008.0,218710.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2009.0,218710.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2010.0,218710.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2011.0,217373.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2012.0,216037.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2013.0,214700.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2014.0,213364.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,212027.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2016.0,211529.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,211030.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2018.0,210532.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2019.0,210033.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,209535.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2021.0,209458.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2022.0,209382.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2023.0,209305.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2024.0,209229.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,209152.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2026.0,209034.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2027.0,208915.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2028.0,208797.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2029.0,208679.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,208560.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2031.0,208410.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2032.0,208260.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2033.0,208109.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2034.0,207959.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,207809.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2036.0,207708.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2037.0,207608.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2038.0,207507.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2039.0,207407.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,207306.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2041.0,207171.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2042.0,207035.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2043.0,206900.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2044.0,206765.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2045.0,206629.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2046.0,206620.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2047.0,206612.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2048.0,206603.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2049.0,206594.0,
+LNG Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,206585.0,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2007.0,1.14811,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2008.0,1.14811,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2009.0,1.14811,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2010.0,1.14811,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2011.0,1.14783,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2012.0,1.14755,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2013.0,1.14727,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2014.0,1.14699,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,1.1467100000000001,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2016.0,1.1463700000000001,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,1.14602,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2018.0,1.14568,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2019.0,1.14534,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,1.145,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2021.0,1.1446399999999999,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2022.0,1.1442700000000001,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2023.0,1.14391,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2024.0,1.14355,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,1.14319,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2026.0,1.14018,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2027.0,1.13719,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2028.0,1.13422,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2029.0,1.1312799999999998,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,1.12836,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2031.0,1.12763,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2032.0,1.1269,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2033.0,1.1261700000000001,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2034.0,1.12545,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,1.1247200000000002,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2036.0,1.1250200000000001,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2037.0,1.12532,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2038.0,1.12562,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2039.0,1.1259299999999999,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,1.1262299999999998,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2041.0,1.12588,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2042.0,1.12553,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2043.0,1.1251799999999998,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2044.0,1.12484,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2045.0,1.12449,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2046.0,1.12452,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2047.0,1.12455,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2048.0,1.12457,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2049.0,1.1246,
+LNG Hybrid Heavy-Duty Vehicle,relative,LNG Heavy-Duty Vehicle,mexico,,,,,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,1.12463,
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,38857.8,
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,34176.1,
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,29750.8,
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,29371.2,
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,29371.2,
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,28652.1,
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,45189.0,
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,37863.9,
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,33601.5,
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,32736.2,
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,32688.7,
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,31110.6,
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,51063.4,
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,43181.8,
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,36023.5,
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,35204.4,
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,35204.4,
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,34076.9,
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,59414.3,
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,48097.7,
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,41260.0,
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,39575.1,
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,39260.2,
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,37192.8,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2007.0,185000.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2008.0,185000.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2009.0,185000.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2010.0,185000.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2011.0,185352.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2012.0,185703.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2013.0,186055.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2014.0,186406.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,186758.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2016.0,187198.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,187639.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2018.0,188080.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2019.0,188521.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,188962.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2021.0,189441.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2022.0,189920.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2023.0,190399.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2024.0,190878.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,191357.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2026.0,192082.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2027.0,192806.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2028.0,193530.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2029.0,194255.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,194979.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2031.0,195134.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2032.0,195288.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2033.0,195443.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2034.0,195597.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,195752.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2036.0,195773.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2037.0,195795.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2038.0,195816.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2039.0,195838.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,195860.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2041.0,195943.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2042.0,196026.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2043.0,196109.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2044.0,196193.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2045.0,196276.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2046.0,196292.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2047.0,196307.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2048.0,196323.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2049.0,196338.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,196354.0,
+Reference Gasoline Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2010.0,26341.0,
+Reference Gasoline Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2016.0,27080.6,
+Reference Gasoline Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,27573.7,
+Reference Gasoline Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,28406.2,
+Reference Gasoline Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,29382.9,
+Reference Gasoline Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,30040.5,
+Reference Gasoline Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,30914.3,
+Reference Gasoline Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2010.0,32413.0,
+Reference Gasoline Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2016.0,33207.2,
+Reference Gasoline Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,33736.6,
+Reference Gasoline Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,34660.2,
+Reference Gasoline Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,35758.4,
+Reference Gasoline Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,36578.0,
+Reference Gasoline Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,37658.2,
+Reference Medium - Duty Diesel Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2010.0,66861.0,
+Reference Medium - Duty Diesel Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,68924.4,
+Reference Medium - Duty Diesel Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,71328.0,
+Reference Medium - Duty Diesel Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,72260.9,
+Reference Medium - Duty Diesel Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,72681.3,
+Reference Medium - Duty Diesel Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,73072.4,
+Reference Medium - Duty Diesel Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,73435.8,
+Reference Medium - Duty Diesel Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2045.0,74112.0,
+Reference Medium - Duty Diesel Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,74419.9,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2007.0,87886.0,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2008.0,87886.0,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2009.0,87886.0,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2010.0,87886.0,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2011.0,87174.8,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2012.0,86463.6,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2013.0,85752.5,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2014.0,85041.3,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,84330.1,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2016.0,83924.8,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,83519.5,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2018.0,83114.2,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2019.0,82708.9,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,82303.5,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2021.0,82136.7,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2022.0,81970.0,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2023.0,81803.2,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2024.0,81636.4,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,81469.6,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2026.0,81370.3,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2027.0,81270.9,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2028.0,81171.5,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2029.0,81072.2,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,80972.9,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2031.0,80921.8,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2032.0,80870.7,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2033.0,80819.6,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2034.0,80768.5,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,80717.4,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2036.0,80715.2,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2037.0,80713.1,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2038.0,80711.0,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2039.0,80708.9,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,80706.8,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2041.0,80661.9,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2042.0,80616.9,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2043.0,80572.0,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2044.0,80527.1,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2045.0,80482.1,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2046.0,80465.5,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2047.0,80448.8,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2048.0,80432.1,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2049.0,80415.4,
+Reference Medium-Duty CNG Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,80398.7,
+Reference Medium-Duty Gasoline Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2010.0,58211.0,
+Reference Medium-Duty Gasoline Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,59334.7,
+Reference Medium-Duty Gasoline Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,60909.9,
+Reference Medium-Duty Gasoline Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,61664.1,
+Reference Medium-Duty Gasoline Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,62168.1,
+Reference Medium-Duty Gasoline Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,62638.9,
+Reference Medium-Duty Gasoline Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,63078.3,
+Reference Medium-Duty Gasoline Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2045.0,63487.7,
+Reference Medium-Duty Gasoline Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,63868.9,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,120000.0,NREL EFS
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,120908.0,NREL EFS
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,122271.0,NREL EFS
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,128470.0,NREL EFS
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,129377.0,NREL EFS
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2013.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,129886.0,NREL EFS
+Reference Gasoline Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,23389.1,NREL EFS
+Reference Gasoline Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,24075.0,NREL EFS
+Reference Gasoline Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,25103.9,NREL EFS
+Reference Gasoline Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,26791.6,NREL EFS
+Reference Gasoline Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,26917.5,NREL EFS
+Reference Gasoline Light-Duty Auto,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,26917.5,NREL EFS
+Reference Gasoline Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,28061.3,NREL EFS
+Reference Gasoline Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,28679.2,NREL EFS
+Reference Gasoline Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,29606.0,NREL EFS
+Reference Gasoline Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,31275.2,NREL EFS
+Reference Gasoline Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,31421.2,NREL EFS
+Reference Gasoline Light-Duty Truck,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,31421.2,NREL EFS
+Reference Medium - Duty Diesel Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,55000.0,NREL EFS
+Reference Medium - Duty Diesel Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,56071.8,NREL EFS
+Reference Medium - Duty Diesel Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,57679.4,NREL EFS
+Reference Medium - Duty Diesel Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,59188.0,NREL EFS
+Reference Medium - Duty Diesel Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,60029.0,NREL EFS
+Reference Medium - Duty Diesel Vehicle,absolute,,mexico,,,USD,2008.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,61126.1,NREL EFS
+Battery Electric Medium-Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,194227.0,high cost
+Battery Electric Medium-Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,168067.0,high cost
+Battery Electric Medium-Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,140103.0,high cost
+Battery Electric Medium-Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,128175.0,high cost
+Battery Electric Medium-Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,121159.0,high cost
+CNG Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,485000.0,high cost
+CNG Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,485000.0,high cost
+CNG Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,485000.0,high cost
+CNG Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,485000.0,high cost
+CNG Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,485000.0,high cost
+Electric Heavy Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,878853.0,high cost
+Electric Heavy Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,735992.0,high cost
+Electric Heavy Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,583279.0,high cost
+Electric Heavy Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,518143.0,high cost
+Electric Heavy Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,479828.0,high cost
+Electric Light-Duty Auto - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,35898.4,high cost
+Electric Light-Duty Auto - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,31251.4,high cost
+Electric Light-Duty Auto - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,29396.8,high cost
+Electric Light-Duty Auto - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,28635.5,high cost
+Electric Light-Duty Auto - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,28079.6,high cost
+Electric Light-Duty Auto - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,27655.8,high cost
+Electric Light-Duty Auto - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,51766.3,high cost
+Electric Light-Duty Auto - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,41950.7,high cost
+Electric Light-Duty Auto - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,38864.0,high cost
+Electric Light-Duty Auto - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,36071.3,high cost
+Electric Light-Duty Auto - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,34035.3,high cost
+Electric Light-Duty Auto - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,31881.0,high cost
+Electric Light-Duty Auto - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,71119.6,high cost
+Electric Light-Duty Auto - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,54430.1,high cost
+Electric Light-Duty Auto - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,49589.0,high cost
+Electric Light-Duty Auto - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,44570.8,high cost
+Electric Light-Duty Auto - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,41185.5,high cost
+Electric Light-Duty Auto - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,37621.3,high cost
+Electric Light-Duty Truck - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,48845.9,high cost
+Electric Light-Duty Truck - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,41187.4,high cost
+Electric Light-Duty Truck - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,37475.8,high cost
+Electric Light-Duty Truck - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,36444.3,high cost
+Electric Light-Duty Truck - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,35798.9,high cost
+Electric Light-Duty Truck - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,34888.1,high cost
+Electric Light-Duty Truck - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,74575.2,high cost
+Electric Light-Duty Truck - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,58618.5,high cost
+Electric Light-Duty Truck - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,52706.0,high cost
+Electric Light-Duty Truck - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,48528.0,high cost
+Electric Light-Duty Truck - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,45733.9,high cost
+Electric Light-Duty Truck - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,42291.6,high cost
+Electric Light-Duty Truck - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,107264.0,high cost
+Electric Light-Duty Truck - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,79700.0,high cost
+Electric Light-Duty Truck - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,69829.9,high cost
+Electric Light-Duty Truck - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,62370.2,high cost
+Electric Light-Duty Truck - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,57632.3,high cost
+Electric Light-Duty Truck - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,51845.1,high cost
+Electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,979114.0,high cost
+Electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,886832.0,high cost
+Electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,788186.0,high cost
+Electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,746111.0,high cost
+Electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,721361.0,high cost
+Hybrid electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,640000.0,high cost
+Hybrid electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,640000.0,high cost
+Hybrid electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,640000.0,high cost
+Hybrid electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,640000.0,high cost
+Hybrid electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,640000.0,high cost
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,39730.7,high cost
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,35208.1,high cost
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,31299.2,high cost
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,30719.4,high cost
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,30719.4,high cost
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,29659.8,high cost
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,46144.9,high cost
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,39093.9,high cost
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,36025.1,high cost
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,34731.8,high cost
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,34457.5,high cost
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,32692.4,high cost
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,52091.3,high cost
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,44402.9,high cost
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,38073.6,high cost
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,36891.6,high cost
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,36740.1,high cost
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,35219.9,high cost
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,60451.6,high cost
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,49574.5,high cost
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,44547.4,high cost
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,42462.7,high cost
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,41463.7,high cost
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,39173.1,high cost
+Battery Electric Medium-Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,96803.2,low cost
+Battery Electric Medium-Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,90263.2,low cost
+Battery Electric Medium-Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,83272.1,low cost
+Battery Electric Medium-Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,80290.3,low cost
+Battery Electric Medium-Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,78536.2,low cost
+CNG Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,485000.0,low cost
+CNG Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,485000.0,low cost
+CNG Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,485000.0,low cost
+CNG Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,485000.0,low cost
+CNG Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,485000.0,low cost
+Electric Heavy Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,300000.0,low cost
+Electric Heavy Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,273714.0,low cost
+Electric Heavy Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,245614.0,low cost
+Electric Heavy Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,233629.0,low cost
+Electric Heavy Duty Vehicle,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,226579.0,low cost
+Electric Light-Duty Auto - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,35860.7,low cost
+Electric Light-Duty Auto - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,29912.6,low cost
+Electric Light-Duty Auto - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,27135.4,low cost
+Electric Light-Duty Auto - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,25017.5,low cost
+Electric Light-Duty Auto - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,23769.0,low cost
+Electric Light-Duty Auto - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,23493.1,low cost
+Electric Light-Duty Auto - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,51728.6,low cost
+Electric Light-Duty Auto - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,37447.4,low cost
+Electric Light-Duty Auto - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,32906.3,low cost
+Electric Light-Duty Auto - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,29725.7,low cost
+Electric Light-Duty Auto - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,26773.1,low cost
+Electric Light-Duty Auto - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,25956.1,low cost
+Electric Light-Duty Auto - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,71081.8,low cost
+Electric Light-Duty Auto - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,46218.1,low cost
+Electric Light-Duty Auto - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,38787.4,low cost
+Electric Light-Duty Auto - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,34824.7,low cost
+Electric Light-Duty Auto - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,30016.6,low cost
+Electric Light-Duty Auto - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,28597.3,low cost
+Electric Light-Duty Truck - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,48808.2,low cost
+Electric Light-Duty Truck - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,39051.7,low cost
+Electric Light-Duty Truck - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,34261.5,low cost
+Electric Light-Duty Truck - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,30988.7,low cost
+Electric Light-Duty Truck - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,28970.6,low cost
+Electric Light-Duty Truck - 100 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,28469.5,low cost
+Electric Light-Duty Truck - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,74537.6,low cost
+Electric Light-Duty Truck - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,51031.0,low cost
+Electric Light-Duty Truck - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,43175.0,low cost
+Electric Light-Duty Truck - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,38436.8,low cost
+Electric Light-Duty Truck - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,33864.1,low cost
+Electric Light-Duty Truck - 200 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,32533.4,low cost
+Electric Light-Duty Truck - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,107226.0,low cost
+Electric Light-Duty Truck - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,65721.9,low cost
+Electric Light-Duty Truck - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,52789.3,low cost
+Electric Light-Duty Truck - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,44447.0,low cost
+Electric Light-Duty Truck - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,38897.4,low cost
+Electric Light-Duty Truck - 300 mile range,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,37502.0,low cost
+Electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,586149.0,low cost
+Electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,573005.0,low cost
+Electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,558956.0,low cost
+Electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,552963.0,low cost
+Electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,549438.0,low cost
+Hybrid electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2017.0,640000.0,low cost
+Hybrid electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,640000.0,low cost
+Hybrid electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,640000.0,low cost
+Hybrid electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2040.0,640000.0,low cost
+Hybrid electric Transit bus,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,640000.0,low cost
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,38256.3,low cost
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,33395.9,low cost
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,29009.7,low cost
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,28604.4,low cost
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,28604.4,low cost
+PHEV - 25 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,27555.2,low cost
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,44500.7,low cost
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,36883.3,low cost
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,32057.2,low cost
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,31298.6,low cost
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,31264.5,low cost
+PHEV - 50 mile range - Light Duty Auto,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,30250.0,low cost
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,50384.2,low cost
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,42253.1,low cost
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,35148.0,low cost
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,34310.0,low cost
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,34282.2,low cost
+PHEV - Gasoline - 25 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,32605.3,low cost
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2015.0,58685.3,low cost
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2020.0,46907.3,low cost
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2025.0,39215.3,low cost
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2030.0,37715.3,low cost
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2035.0,37430.4,low cost
+PHEV - Gasoline - 50 mile range - Light Duty Truck,absolute,,mexico,,,USD,2016.0,False,linear_interpolation,nearest,,,,,new,mx,,,2050.0,36179.1,low cost

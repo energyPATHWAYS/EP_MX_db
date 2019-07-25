@@ -1,0 +1,85 @@
+demand_technology,definition,reference_tech,geography,other_index_1,other_index_2,currency,currency_year,interpolation_method,extrapolation_method,extrapolation_growth,age_growth_or_decay_type,age_growth_or_decay,additional_description,source,notes,gau,oth_1,oth_2,vintage,value,sensitivity
+Gasoline Transit Bus,relative,Diesel Transit bus,,,,,,linear_interpolation,nearest,,,,,,,,,,,,
+Autonomous Electric Light-Duty Auto,relative,Electric Light-Duty Auto - 200 mile range,mexico,,,USD,2016.0,linear_interpolation,nearest,,,,,,,mx,,,2016.0,5.0,
+Autonomous Electric Light-Duty Truck,relative,Electric Light-Duty Truck - 200 mile range,mexico,,,USD,2016.0,linear_interpolation,nearest,,,,,,,mx,,,2016.0,5.0,
+Battery Electric Medium-Duty Vehicle,relative,Reference Medium - Duty Diesel Vehicle,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,0.7,
+CNG Light-Duty Auto,absolute,,mexico,,,USD,2008.0,linear_interpolation,nearest,,,,,,,mx,,,2010.0,374.0,
+CNG Light-Duty Truck,absolute,,mexico,,,USD,2008.0,linear_interpolation,nearest,,,,,,,mx,,,2010.0,533.0,
+CNG Transit bus,relative,Diesel Transit bus,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,
+Diesel - Electric Hybrid Light-Duty Auto,absolute,,mexico,,,USD,2008.0,linear_interpolation,nearest,,,,,,,mx,,,2010.0,374.0,
+Diesel Hybrid Heavy-Duty Vehicle,relative,Reference Diesel Heavy-Duty Vehicle,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,
+Diesel Transit bus,absolute,,mexico,,,USD,2016.0,linear_interpolation,nearest,,,,,,,mx,,,2016.0,26901.9,
+Electric - Diesel Hybrid Light-Duty Truck,absolute,,mexico,,,USD,2008.0,linear_interpolation,nearest,,,,,,,mx,,,2010.0,533.0,
+Electric - Gasoline Hybrid Light-Duty Truck,absolute,,mexico,,,USD,2008.0,linear_interpolation,nearest,,,,,,,mx,,,2010.0,533.0,
+Electric Heavy Duty Vehicle,absolute,,mexico,,,USD,2016.0,linear_interpolation,nearest,,,,Reference vehicle O&M Plus $4070 contributed for catenary charging infrastructure,,,mx,,,2016.0,6436.87,
+Electric Light-Duty Auto - 100 mile range,relative,Reference Gasoline Light-Duty Auto,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,0.8,
+Electric Light-Duty Auto - 200 mile range,relative,Reference Gasoline Light-Duty Auto,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,0.8,
+Electric Light-Duty Auto - 300 mile range,relative,Reference Gasoline Light-Duty Auto,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,0.8,
+Electric Light-Duty Truck - 100 mile range,relative,Reference Gasoline Light-Duty Truck,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,0.8,
+Electric Light-Duty Truck - 200 mile range,relative,Reference Gasoline Light-Duty Truck,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,0.8,
+Electric Light-Duty Truck - 300 mile range,relative,Reference Gasoline Light-Duty Truck,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,0.8,
+Electric Semi-Truck,absolute,,mexico,,,USD,2016.0,linear_interpolation,nearest,,,,based on NREL HDV Electric Truck + Cost of Megacharger Network,,,mx,,,2016.0,13172.6,
+Electric Transit bus,relative,Diesel Transit bus,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,0.76,
+Gasoline-Electric Hybrid Light-Duty Auto,absolute,,mexico,,,USD,2008.0,linear_interpolation,nearest,,,,,,,mx,,,2010.0,374.0,
+Hybrid CNG Medium-Duty Vehicle,relative,Reference Medium - Duty Diesel Vehicle,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,
+Hybrid Diesel Medium-Duty Vehicle,relative,Reference Medium - Duty Diesel Vehicle,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,
+Hybrid Gasoline Medium-Duty Vehicle,relative,Reference Medium - Duty Diesel Vehicle,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,
+Hybrid electric Transit bus,relative,Diesel Transit bus,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,
+Hydrogen FCV Heavy-Duty Vehicle,relative,Reference Diesel Heavy-Duty Vehicle,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,
+Hydrogen Fuel Cell Medium-Duty Vehicle,relative,Reference Medium - Duty Diesel Vehicle,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,
+Hydrogen Fuel-Cell Light-Duty Auto,absolute,,mexico,,,USD,2008.0,linear_interpolation,nearest,,,,,,,mx,,,2010.0,374.0,
+Hydrogen Fuel-Cell Light-Duty Truck,absolute,,mexico,,,USD,2008.0,linear_interpolation,nearest,,,,,,,mx,,,2010.0,533.0,
+LNG Heavy-Duty Vehicle,relative,Reference Diesel Heavy-Duty Vehicle,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,
+LNG Hybrid Heavy-Duty Vehicle,relative,Reference Diesel Heavy-Duty Vehicle,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,
+PHEV - 25 mile range - Light Duty Auto,relative,Reference Gasoline Light-Duty Auto,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,0.94,
+PHEV - 50 mile range - Light Duty Auto,relative,Reference Gasoline Light-Duty Auto,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,0.87,
+PHEV - Gasoline - 25 mile range - Light Duty Truck,relative,Reference Gasoline Light-Duty Truck,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,0.89,
+PHEV - Gasoline - 50 mile range - Light Duty Truck,relative,Reference Gasoline Light-Duty Truck,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,0.83,
+Propane ICE Light-Duty Auto,absolute,,mexico,,,USD,2008.0,linear_interpolation,nearest,,,,,,,mx,,,2010.0,374.0,
+Propane ICE Light-Duty Truck,absolute,,mexico,,,USD,2008.0,linear_interpolation,nearest,,,,,,,mx,,,2010.0,533.0,
+Reference Diesel Heavy-Duty Vehicle,absolute,,mexico,,,USD,2016.0,linear_interpolation,nearest,,,,based on http://atri-online.org/wp-content/uploads/2016/10/ATRI-Operational-Costs-of-Trucking-2016-09-2016.pdf,,,mx,,,2016.0,9195.53,
+Reference Gasoline Heavy-Duty Vehicle,relative,Reference Diesel Heavy-Duty Vehicle,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,
+Reference Gasoline Light-Duty Auto,absolute,,mexico,,,USD,2008.0,linear_interpolation,nearest,,,,,,,mx,,,2016.0,374.0,
+Reference Gasoline Light-Duty Truck,absolute,,mexico,,,USD,2008.0,linear_interpolation,nearest,,,,,,,mx,,,2016.0,533.0,
+Reference LPG Medium-Duty Vehicle,relative,Reference Medium - Duty Diesel Vehicle,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,
+Reference Medium - Duty Diesel Vehicle,absolute,,mexico,,,USD,2016.0,linear_interpolation,nearest,,,,based on http://atri-online.org/wp-content/uploads/2016/10/ATRI-Operational-Costs-of-Trucking-2016-09-2016.pdf,,,mx,,,2016.0,1770.66,
+Reference Medium-Duty CNG Vehicle,relative,Reference Medium - Duty Diesel Vehicle,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,
+Reference Medium-Duty Gasoline Vehicle,relative,Reference Medium - Duty Diesel Vehicle,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,
+Reference Propane Heavy-Duty Vehicle,relative,Reference Diesel Heavy-Duty Vehicle,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,
+Reference TDI Light-Duty Auto,absolute,,mexico,,,USD,2008.0,linear_interpolation,nearest,,,,,,,mx,,,2010.0,374.0,
+Reference TDI Light-Duty Truck,absolute,,mexico,,,USD,2008.0,linear_interpolation,nearest,,,,,,,mx,,,2010.0,533.0,
+Autonomous Electric Light-Duty Auto,relative,Electric Light-Duty Auto - 200 mile range,mexico,,,USD,2016.0,linear_interpolation,nearest,,,,,,,mx,,,2016.0,5.0,equal to reference tech
+Autonomous Electric Light-Duty Truck,relative,Electric Light-Duty Truck - 200 mile range,mexico,,,USD,2016.0,linear_interpolation,nearest,,,,,,,mx,,,2016.0,5.0,equal to reference tech
+Battery Electric Medium-Duty Vehicle,relative,Reference Medium - Duty Diesel Vehicle,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,high cost (equal to reference tech)
+CNG Transit bus,relative,Diesel Transit bus,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,high cost (equal to reference tech)
+Electric Light-Duty Auto - 100 mile range,relative,Reference Gasoline Light-Duty Auto,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,high cost (equal to reference tech)
+Electric Light-Duty Auto - 200 mile range,relative,Reference Gasoline Light-Duty Auto,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,high cost (equal to reference tech)
+Electric Light-Duty Auto - 300 mile range,relative,Reference Gasoline Light-Duty Auto,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,high cost (equal to reference tech)
+Electric Light-Duty Truck - 100 mile range,relative,Reference Gasoline Light-Duty Truck,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,high cost (equal to reference tech)
+Electric Light-Duty Truck - 200 mile range,relative,Reference Gasoline Light-Duty Truck,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,high cost (equal to reference tech)
+Electric Light-Duty Truck - 300 mile range,relative,Reference Gasoline Light-Duty Truck,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,high cost (equal to reference tech)
+Electric Transit bus,relative,Diesel Transit bus,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,high cost (equal to reference tech)
+Hybrid electric Transit bus,relative,Diesel Transit bus,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,high cost (equal to reference tech)
+PHEV - 25 mile range - Light Duty Auto,relative,Reference Gasoline Light-Duty Auto,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,high cost (equal to reference tech)
+PHEV - 50 mile range - Light Duty Auto,relative,Reference Gasoline Light-Duty Auto,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,high cost (equal to reference tech)
+PHEV - Gasoline - 25 mile range - Light Duty Truck,relative,Reference Gasoline Light-Duty Truck,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,high cost (equal to reference tech)
+PHEV - Gasoline - 50 mile range - Light Duty Truck,relative,Reference Gasoline Light-Duty Truck,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,high cost (equal to reference tech)
+Electric Heavy Duty Vehicle,absolute,,mexico,,,USD,2016.0,linear_interpolation,nearest,,,,Reference vehicle O&M Plus $4070 contributed for catenary charging infrastructure,,,mx,,,2016.0,9195.53,high cost no catenary (equal to reference tech)
+Electric Heavy Duty Vehicle,absolute,,mexico,,,USD,2016.0,linear_interpolation,nearest,,,,Reference vehicle O&M Plus $4070 contributed for catenary charging infrastructure,,,mx,,,2016.0,13265.5,high cost with catenary
+Battery Electric Medium-Duty Vehicle,relative,Reference Medium - Duty Diesel Vehicle,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,0.5,low cost
+CNG Transit bus,relative,Diesel Transit bus,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,low cost
+Electric Light-Duty Auto - 100 mile range,relative,Reference Gasoline Light-Duty Auto,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,0.5,low cost
+Electric Light-Duty Auto - 200 mile range,relative,Reference Gasoline Light-Duty Auto,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,0.5,low cost
+Electric Light-Duty Auto - 300 mile range,relative,Reference Gasoline Light-Duty Auto,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,0.5,low cost
+Electric Light-Duty Truck - 100 mile range,relative,Reference Gasoline Light-Duty Truck,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,0.5,low cost
+Electric Light-Duty Truck - 200 mile range,relative,Reference Gasoline Light-Duty Truck,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,0.5,low cost
+Electric Light-Duty Truck - 300 mile range,relative,Reference Gasoline Light-Duty Truck,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,0.5,low cost
+Electric Transit bus,relative,Diesel Transit bus,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,0.5,low cost
+Hybrid electric Transit bus,relative,Diesel Transit bus,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,1.0,low cost
+PHEV - 25 mile range - Light Duty Auto,relative,Reference Gasoline Light-Duty Auto,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,0.75,low cost
+PHEV - 50 mile range - Light Duty Auto,relative,Reference Gasoline Light-Duty Auto,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,0.75,low cost
+PHEV - Gasoline - 25 mile range - Light Duty Truck,relative,Reference Gasoline Light-Duty Truck,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,0.75,low cost
+PHEV - Gasoline - 50 mile range - Light Duty Truck,relative,Reference Gasoline Light-Duty Truck,mexico,,,,,linear_interpolation,nearest,,,,,,,mx,,,2016.0,0.75,low cost
+Electric Heavy Duty Vehicle,absolute,,mexico,,,USD,2016.0,linear_interpolation,nearest,,,,Reference vehicle O&M Plus $4070 contributed for catenary charging infrastructure,,,mx,,,2016.0,4597.76,low cost no catenary
+Electric Heavy Duty Vehicle,absolute,,mexico,,,USD,2016.0,linear_interpolation,nearest,,,,Reference vehicle O&M Plus $4070 contributed for catenary charging infrastructure,,,mx,,,2016.0,8667.76,low cost with catenary
+Electric Heavy Duty Vehicle,absolute,,mexico,,,USD,2016.0,linear_interpolation,nearest,,,,Reference vehicle O&M Plus $4070 contributed for catenary charging infrastructure,,,mx,,,2016.0,10506.9,medium cost with catenary
