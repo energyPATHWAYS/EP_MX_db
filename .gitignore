@@ -100,15 +100,7 @@ ENV/
 # mypy
 .mypy_cache/
 
-# scenario builder
-scenario_builder_config.txt
-~$scenario_builder.xlsm
+.idea/
 
 # python pickles
 *.p
-*.log
-/scenarios/supply_outputs/
-/scenarios/combined_outputs/
-/scenarios/dispatch_outputs/
-/scenarios/demand_outputs/
-

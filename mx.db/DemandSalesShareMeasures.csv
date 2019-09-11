@@ -1,7 +1,13 @@
 name,subsector,geography,other_index_1,demand_technology,replaced_demand_tech,input_type,interpolation_method,extrapolation_method,extrapolation_growth,source,notes,gau,oth_1,vintage,value
-2&3W: EV Replaces ICE,Two & three wheelers,mexico,,Electric 2 or 3 Wheeler,Gasoline 2 or 3 Wheeler,intensity,linear_interpolation,nearest,,,,mx,,2020,0.0
+2&3W: EV Replaces ICE,Two & three wheelers,mexico,,Electric 2 or 3 Wheeler,Gasoline 2 or 3 Wheeler,intensity,linear_interpolation,nearest,,,,mx,,2020,0
 2&3W: EV Replaces ICE,Two & three wheelers,mexico,,Electric 2 or 3 Wheeler,Gasoline 2 or 3 Wheeler,intensity,linear_interpolation,nearest,,,,mx,,2035,0.95
-Bus: EV Replaces ICE,Busses,mexico,,Electric Transit bus,Diesel Transit bus,intensity,logistic,nearest,,,,mx,,2020,0.0
+Bus: EV Replaces ICE,Busses,mexico,,Electric Transit bus,Diesel Transit bus,intensity,logistic,nearest,,,,mx,,2020,0
 Bus: EV Replaces ICE,Busses,mexico,,Electric Transit bus,Diesel Transit bus,intensity,logistic,nearest,,,,mx,,2045,0.95
-LDV: EV Replaces ICE,Light-duty vehicle,mexico,,Electric Light-Duty Auto - 200 mile range,Reference Gasoline Light-Duty Auto,intensity,logistic,nearest,,,,mx,,2020,0.0
+LDV: EV Replaces ICE,Light-duty vehicle,mexico,,Electric Light-Duty Auto - 200 mile range,Reference Gasoline Light-Duty Auto,intensity,logistic,nearest,,,,mx,,2020,0
 LDV: EV Replaces ICE,Light-duty vehicle,mexico,,Electric Light-Duty Auto - 200 mile range,Reference Gasoline Light-Duty Auto,intensity,logistic,nearest,,,,mx,,2045,0.95
+2&3W: EV Replaces ICE (30 year delay),Two & three wheelers,mexico,,Electric 2 or 3 Wheeler,Gasoline 2 or 3 Wheeler,intensity,linear_interpolation,nearest,,,,mx,,2020,0
+2&3W: EV Replaces ICE (30 year delay),Two & three wheelers,mexico,,Electric 2 or 3 Wheeler,Gasoline 2 or 3 Wheeler,intensity,linear_interpolation,nearest,,,,mx,,2055,0.95
+Bus: EV Replaces ICE (30 year delay),Busses,mexico,,Electric Transit bus,Diesel Transit bus,intensity,logistic,nearest,,,,mx,,2020,0
+Bus: EV Replaces ICE (30 year delay),Busses,mexico,,Electric Transit bus,Diesel Transit bus,intensity,logistic,nearest,,,,mx,,2065,0.95
+LDV: EV Replaces ICE (30 year delay),Light-duty vehicle,mexico,,Electric Light-Duty Auto - 200 mile range,Reference Gasoline Light-Duty Auto,intensity,logistic,nearest,,,,mx,,2020,0
+LDV: EV Replaces ICE (30 year delay),Light-duty vehicle,mexico,,Electric Light-Duty Auto - 200 mile range,Reference Gasoline Light-Duty Auto,intensity,logistic,nearest,,,,mx,,2065,0.95

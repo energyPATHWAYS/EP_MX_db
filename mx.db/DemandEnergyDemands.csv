@@ -1,333 +1,527 @@
 subsector,is_stock_dependent,input_type,unit,driver_denominator_1,driver_denominator_2,driver_1,driver_2,geography,final_energy_index,demand_technology_index,other_index_1,other_index_2,interpolation_method,extrapolation_method,extrapolation_growth,geography_map_key,source,notes,gau,oth_1,oth_2,final_energy,demand_technology,year,value,sensitivity
-Aviation Domestic,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2015,0.0655559,
-Aviation Domestic,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2020,0.0664735,
-Aviation Domestic,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2030,0.0733031,
-Aviation Domestic,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2040,0.0822652,
-Aviation Domestic,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2050,0.0935932,
-Aviation Domestic,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2015,0.0655559,DDP Service - DDP Tech
-Aviation Domestic,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2020,0.0613662,DDP Service - DDP Tech
-Aviation Domestic,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2030,0.0573113,DDP Service - DDP Tech
-Aviation Domestic,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2040,0.0533914,DDP Service - DDP Tech
-Aviation Domestic,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2050,0.0496064,DDP Service - DDP Tech
-Aviation Domestic,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2015,0.0655559,DDP Service - Ref Tech
-Aviation Domestic,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2020,0.0597374,DDP Service - Ref Tech
-Aviation Domestic,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2030,0.0541456,DDP Service - Ref Tech
-Aviation Domestic,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2040,0.0487807,DDP Service - Ref Tech
-Aviation Domestic,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2050,0.0436426,DDP Service - Ref Tech
-Aviation Domestic,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2015,0.0655559,Ref Service - DDP Tech
-Aviation Domestic,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2020,0.068286,Ref Service - DDP Tech
-Aviation Domestic,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2030,0.0775888,Ref Service - DDP Tech
-Aviation Domestic,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2040,0.0900408,Ref Service - DDP Tech
-Aviation Domestic,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2050,0.106383,Ref Service - DDP Tech
-Aviation International,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2015,0.0996372,
-Aviation International,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2020,0.0996408,
-Aviation International,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2030,0.109969,
-Aviation International,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2040,0.123532,
-Aviation International,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2050,0.1407,
-Aviation International,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2015,0.0996372,DDP Service - DDP Tech
-Aviation International,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2020,0.0981013,DDP Service - DDP Tech
-Aviation International,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2030,0.0963939,DDP Service - DDP Tech
-Aviation International,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2040,0.0945151,DDP Service - DDP Tech
-Aviation International,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2050,0.0924648,DDP Service - DDP Tech
-Aviation International,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2015,0.0996372,DDP Service - Ref Tech
-Aviation International,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2020,0.0955668,DDP Service - Ref Tech
-Aviation International,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2030,0.0912111,DDP Service - Ref Tech
-Aviation International,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2040,0.0865703,DDP Service - Ref Tech
-Aviation International,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2050,0.0816443,DDP Service - Ref Tech
-Aviation International,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2015,0.0996372,Ref Service - DDP Tech
-Aviation International,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2020,0.102283,Ref Service - DDP Tech
-Aviation International,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2030,0.116218,Ref Service - DDP Tech
-Aviation International,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2040,0.134869,Ref Service - DDP Tech
-Aviation International,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2050,0.159347,Ref Service - DDP Tech
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2015,0.0615815,
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2020,0.0733549,
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2030,0.097708,
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2040,0.122783,
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2050,0.148157,
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2015,0.0706516,
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2020,0.0769145,
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2030,0.0827803,
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2040,0.0826114,
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2050,0.0792011,
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2015,0.0115224,
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2020,0.0138738,
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2030,0.0214378,
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2040,0.0303887,
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2050,0.038424,
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2015,0.00417271,
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2020,0.00495531,
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2030,0.00648944,
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2040,0.00791766,
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2050,0.00917275,
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2015,0.0638155,ddp
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2020,0.0779961,ddp
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2030,0.113224,ddp
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2040,0.148071,ddp
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2050,0.157117,ddp
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2015,0.0650839,ddp
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2020,0.0612866,ddp
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2030,0.0407367,ddp
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2040,0.0196231,ddp
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2050,0.0157117,ddp
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2015,0.0117386,ddp
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2020,0.0178683,ddp
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2030,0.0301722,ddp
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2040,0.0341759,ddp
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2050,0.0366607,ddp
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2015,0.00351659,ddp
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2020,0.00314039,ddp
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2030,0.00162825,ddp
-Commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2040,0.000291401,ddp
-Freight Transportation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2015,0.849186,
-Freight Transportation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2020,0.98142,
-Freight Transportation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2030,1.21548,
-Freight Transportation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2040,1.4026,
-Freight Transportation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2050,1.53805,
-Freight Transportation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2015,0.816354,ddp
-Freight Transportation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2020,0.899044,ddp
-Freight Transportation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2030,0.950932,ddp
-Freight Transportation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2040,0.913144,ddp
-Freight Transportation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2050,0.830772,ddp
-Freight Transportation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2015,0.0312865,ddp
-Freight Transportation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2020,0.0715447,ddp
-Freight Transportation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2030,0.16171,ddp
-Freight Transportation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2040,0.251787,ddp
-Freight Transportation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2050,0.339671,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2010,0.0376601,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2015,0.0415347,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2020,0.0457436,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2025,0.0501288,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2030,0.0548456,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2035,0.0599261,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2040,0.0653133,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2045,0.0717863,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2050,0.0789304,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2010,0.283748,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2015,0.302878,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2020,0.32243,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2025,0.341098,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2030,0.359736,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2035,0.378295,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2040,0.396182,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2045,0.417597,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2050,0.439484,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2010,0.153016,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2015,0.172869,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2020,0.191231,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2025,0.209493,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2030,0.227286,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2035,0.244567,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2040,0.261712,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2045,0.278717,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2050,0.298245,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2010,0.197914,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2015,0.228241,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2020,0.267413,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2025,0.318879,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2030,0.378782,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2035,0.442209,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2040,0.507843,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2045,0.580558,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2050,0.658102,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2010,0.607558,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2015,0.686904,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2020,0.786742,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2025,0.916579,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2030,1.06959,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2035,1.23775,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2040,1.41836,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2045,1.58931,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2050,1.75537,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2010,0.000853209,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2015,0.000940989,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2020,0.00103634,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2025,0.00113569,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2030,0.00124255,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2035,0.00135766,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2040,0.00147971,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2045,0.00162635,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2050,0.00178821,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2010,1.26089,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2015,1.40368,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2020,1.59339,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2025,1.8544,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2030,2.15441,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2035,2.45084,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2040,2.72838,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2045,3.02918,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2050,3.3289,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2010,0.12476,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2015,0.133484,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2020,0.142609,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2025,0.152003,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2030,0.161613,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2035,0.17095,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2040,0.179633,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2045,0.189573,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2050,0.199565,
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2010,0.0376601,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2015,0.0413329,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2020,0.0451411,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2025,0.0493451,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2030,0.0570925,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2035,0.0675192,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2040,0.0766924,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2045,0.0884152,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2050,0.0998351,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2010,0.283748,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2015,0.406585,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2020,0.394773,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2025,0.322891,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2030,0.208691,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2035,0.0986665,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2040,0.0252074,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2050,-0.00364445,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2010,0.153016,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2015,0.161207,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2020,0.160572,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2025,0.149215,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2030,0.132065,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2035,0.11169,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2040,0.0903197,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2045,0.0704751,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2050,0.0528546,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2010,0.197914,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2015,0.21112,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2020,0.21906,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2025,0.220906,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2030,0.219945,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2035,0.212488,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2040,0.195565,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2045,0.187341,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2050,0.184774,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2010,0.607558,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2015,0.736453,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2020,0.879063,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2025,1.07487,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2030,1.29941,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2035,1.54512,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2040,1.81352,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2045,1.97496,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2050,2.10948,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2010,0.000853209,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2015,0.00076524,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2020,0.000667781,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2025,0.000548655,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2030,0.000427418,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2035,0.000308581,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2040,0.000193467,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2045,9.85E-05,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2010,1.26089,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2015,1.32692,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2020,1.40544,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2025,1.48729,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2030,1.57741,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2035,1.6523,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2040,1.68922,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2045,1.79152,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2050,1.89456,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2010,0.12476,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2015,0.0140782,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2020,0.0238781,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2025,0.0449728,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2030,0.0677986,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2035,0.0831096,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2040,0.0882626,ddp
-Industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2045,0.0989759,ddp
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2015,0.000862056,
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2020,0.00135634,
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2030,0.00205962,
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2040,0.00290366,
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2050,0.00356196,
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2015,0.00470667,
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2020,0.00491274,
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2030,0.00550078,
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2040,0.00606353,
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2050,0.0067187,
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2015,0.000862056,DDP Service - DDP Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2020,0.00415098,DDP Service - DDP Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2030,0.00455792,DDP Service - DDP Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2040,0.00219048,DDP Service - DDP Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2015,0.00470667,DDP Service - DDP Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2020,0.0328838,DDP Service - DDP Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2030,0.0623468,DDP Service - DDP Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2040,0.0930956,DDP Service - DDP Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2050,0.123789,DDP Service - DDP Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2015,0.000862056,DDP Service - Ref Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2020,0.00853026,DDP Service - Ref Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2030,0.0205866,DDP Service - Ref Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2040,0.0368548,DDP Service - Ref Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2050,0.0525021,DDP Service - Ref Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2015,0.00470667,DDP Service - Ref Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2020,0.0308972,DDP Service - Ref Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2030,0.0549821,DDP Service - Ref Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2040,0.0769616,DDP Service - Ref Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2050,0.0990314,DDP Service - Ref Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2015,0.000862056,Ref Service - DDP Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2020,0.000660018,Ref Service - DDP Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2030,0.000456004,Ref Service - DDP Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2040,0.00017258,Ref Service - DDP Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2015,0.00470667,Ref Service - DDP Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2020,0.00522862,Ref Service - DDP Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2030,0.00623759,Ref Service - DDP Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2040,0.00733467,Ref Service - DDP Tech
-Rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2050,0.00839838,Ref Service - DDP Tech
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2015,0.284109,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2020,0.300221,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2030,0.301208,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2040,0.280288,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2050,0.251823,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2015,0.230675,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2020,0.283758,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2030,0.392608,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2040,0.501993,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2050,0.610892,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2015,0.000865252,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2020,0.00079647,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2030,0.000567218,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2040,0.000285357,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2015,0.322573,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2020,0.347571,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2030,0.375889,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2040,0.383573,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2050,0.376789,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2015,0.0350611,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2020,0.0415233,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2030,0.0595469,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2040,0.0776075,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2050,0.0908827,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,solar ,,2015,0.00335965,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,solar ,,2020,0.00518052,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,solar ,,2030,0.0140788,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,solar ,,2040,0.0219631,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,solar ,,2050,0.0271508,
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2015,0.271998,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2020,0.261326,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2030,0.173192,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2040,0.0857912,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2050,0.0667456,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2015,0.251685,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2020,0.321878,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2030,0.4962,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2040,0.64494,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2050,0.723077,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2015,0.000907838,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2020,0.000853267,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2030,0.000564334,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2040,0.000284126,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2050,0.000222485,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2015,0.302546,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2020,0.264469,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2030,0.124793,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2040,0.0282873,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2050,0.0133491,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2015,0.0415077,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2020,0.0810404,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2030,0.146014,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2040,0.136034,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2050,0.142168,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,solar ,,2015,0.00485214,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,solar ,,2020,0.0176076,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,solar ,,2030,0.0832249,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,solar ,,2040,0.129481,ddp
-Residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,solar ,,2050,0.166864,ddp
+aviation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2015,0.11010744,REFERENCE
+aviation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2020,0.123272098,REFERENCE
+aviation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2030,0.147561752,REFERENCE
+aviation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2040,0.169131854,REFERENCE
+aviation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2050,0.187982406,REFERENCE
+aviation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2015,0.109990385,MITIGATION
+aviation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2020,0.127435627,MITIGATION
+aviation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2030,0.155715072,MITIGATION
+aviation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2040,0.175673075,MITIGATION
+aviation,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,jet fuel,,2050,0.187901568,MITIGATION
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2015,0.008850615,REFERENCE
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2020,0.009323448,REFERENCE
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2030,0.010162,REFERENCE
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2040,0.010862029,REFERENCE
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2050,0.011428692,REFERENCE
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2015,0.008850615,MITIGATION
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2020,0.025100146,MITIGATION
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2030,0.057951261,MITIGATION
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2040,0.091213629,MITIGATION
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2050,0.124817468,MITIGATION
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2015,0,REFERENCE
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2020,0,REFERENCE
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2030,0,REFERENCE
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2040,0,REFERENCE
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2050,0,REFERENCE
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2015,0,MITIGATION
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2020,0,MITIGATION
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2030,0,MITIGATION
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2040,0,MITIGATION
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2050,0,MITIGATION
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2015,0.000822146,REFERENCE
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2020,0.00109017,REFERENCE
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2030,0.001707389,REFERENCE
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2040,0.002428311,REFERENCE
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2050,0.003247507,REFERENCE
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2015,0.000822146,MITIGATION
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2020,0.001976419,MITIGATION
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2030,0.002976508,MITIGATION
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2040,0.002293211,MITIGATION
+rail,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2050,0,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2015,0.05641045,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2018,0.064532468,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2020,0.070107014,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2025,0.084244793,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2030,0.098559975,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2035,0.112788748,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2040,0.1266673,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2045,0.139931819,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2050,0.152318493,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2015,0.003695789,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2018,0.003507911,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2020,0.003337722,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2025,0.002847738,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2030,0.002282619,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2035,0.001692121,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2040,0.001118979,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2045,0.000598906,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2050,0.000160589,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2015,0.058490873,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2018,0.057373976,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2020,0.055983275,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2025,0.051456074,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2030,0.045540439,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2035,0.038799266,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2040,0.031727167,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2045,0.024750482,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2050,0.01822727,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2015,0.013013267,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2018,0.016683635,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2020,0.019124179,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2025,0.02492962,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2030,0.030005452,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2035,0.034002839,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2040,0.036648246,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2045,0.037743437,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2050,0.037165479,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2015,0.678747768,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2018,0.699044086,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2020,0.707499559,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2025,0.718506088,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2030,0.713823299,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2035,0.695357298,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2040,0.664864349,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2045,0.623950882,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2050,0.574073483,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2015,0.002563225,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2018,0.005309371,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2020,0.007384192,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2025,0.013035261,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2030,0.019382052,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2035,0.026302651,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2040,0.033687606,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2045,0.041439929,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2050,0.049475095,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2015,0.005383219,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2018,0.011049616,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2020,0.015204787,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2025,0.026154903,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2030,0.037777126,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2035,0.049652478,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2040,0.061399439,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2045,0.072673949,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2050,0.083169408,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2015,0.016149656,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2018,0.033148849,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2020,0.045614362,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2025,0.078464708,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2030,0.113331378,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2035,0.148957433,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2040,0.184198316,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2045,0.218021846,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2050,0.249508224,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2015,0.003570894,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2018,0.003581452,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2020,0.003545374,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2025,0.003362748,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2030,0.003030645,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2035,0.002556693,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2040,0.001948521,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2045,0.001213759,MITIGATION
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2050,0.000360035,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2015,0.185021188,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2018,0.177772685,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2020,0.171588179,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2025,0.153037404,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2030,0.130545717,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2035,0.105415536,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2040,0.0783626,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2045,0.050262718,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2050,0.021844739,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2015,0.119257534,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2018,0.129058325,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2020,0.115058776,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2025,0.081748014,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2030,0.050751715,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2035,0.022052379,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2040,-0.003625938,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2045,-0.025604535,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2050,-0.013263633,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2015,0.043575273,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2018,0.047770939,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2020,0.050683744,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2025,0.058148556,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2030,0.065845415,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2035,0.073659292,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2040,0.081486475,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2045,0.089236969,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2050,0.096837276,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2015,0.715770692,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2018,0.810133934,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2020,0.877156834,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2025,1.053719619,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2030,1.24467912,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2035,1.448550435,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2040,1.662953413,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2045,1.884388235,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2050,2.107973182,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2015,0.000185674,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2018,0.000169782,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2020,0.000158846,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2025,0.000131121,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2030,0.000103205,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2035,7.59158E-05,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2040,5.01695E-05,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2045,2.69471E-05,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2050,7.25041E-06,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2015,0.073029837,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2018,0.072450179,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2020,0.071873508,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2025,0.070056856,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2030,0.067669438,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2035,0.064802511,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2040,0.061548477,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2045,0.057999908,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2050,0.054248024,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2015,1.016848787,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2018,1.031117183,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2020,1.038761413,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2025,1.053017914,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2030,1.058586023,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2035,1.054556639,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2040,1.040211897,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2045,1.015110333,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2050,0.979191799,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2015,0.043507498,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2018,0.017424995,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2020,0.020924917,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2025,0.029250504,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2030,0.036665128,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2035,0.042811887,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2040,0.047315032,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2045,0.049800188,MITIGATION
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2050,0.020179073,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2015,0.044280052,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2018,0.035417606,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2020,0.039282668,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2025,0.041021184,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2030,0.029316985,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2035,0.020952238,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2040,0.014974127,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2045,0.010701696,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2050,0.007648279,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2015,0,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2018,0.000844226,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2020,0.001686393,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2025,0.004492653,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2030,0.008546389,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2035,0.013987446,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2040,0.02096857,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2045,0.029655973,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2050,0.040229743,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2015,0.054583167,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2018,0.043658599,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2020,0.048422987,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2025,0.050566023,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2030,0.036138482,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2035,0.025827419,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2040,0.018458318,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2045,0.013191775,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2050,0.009427886,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2015,0.003299662,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2018,0.00263925,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2020,0.002927267,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2025,0.003056818,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2030,0.002184644,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2035,0.001561319,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2040,0.001115842,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2045,0.000797469,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2050,0.000569935,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2015,0.06927,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2018,0.073677362,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2020,0.076615604,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2025,0.083961208,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2030,0.091306812,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2035,0.098652417,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2040,0.105998021,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2045,0.113343625,MITIGATION
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2050,0.120689229,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2015,0.229281017,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2018,0.20736898,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2020,0.194175284,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2025,0.161604279,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2030,0.130354836,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2035,0.101349692,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2040,0.075321839,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2045,0.052809792,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2050,0.042397643,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2015,0.205742245,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2018,0.224834404,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2020,0.237732887,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2025,0.266921469,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2030,0.290242454,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2035,0.306446337,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2040,0.314429009,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2045,0.313242993,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2050,0.391418232,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2015,0.001129336,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2018,0.001074598,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2020,0.001039423,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2025,0.000940243,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2030,0.000825035,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2035,0.000698569,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2040,0.000566172,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2045,0.000433585,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2050,0.000384462,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2015,0.235426675,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2018,0.203142674,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2020,0.184111314,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2025,0.139400136,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2030,0.100191812,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2035,0.067392304,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2040,0.04143863,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2045,0.022315308,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2050,0.011226271,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2015,0.050726641,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2018,0.068395519,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2020,0.078096538,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2025,0.096818795,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2030,0.106292819,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2035,0.106818275,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2040,0.09928365,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2045,0.085116186,MITIGATION
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2050,0.08372801,MITIGATION
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2015,0.055812421,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2018,0.063366517,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2020,0.068602591,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2025,0.082108952,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2030,0.096275095,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2035,0.11104461,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2040,0.126361088,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2045,0.142168119,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2050,0.158409292,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2015,0.004273467,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2018,0.004688648,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2020,0.004954342,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2025,0.005589187,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2030,0.006170945,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2035,0.0066931,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2040,0.007149674,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2045,0.007535226,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2050,0.007844856,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2015,0.062639819,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2018,0.065832225,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2020,0.067528203,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2025,0.070886107,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2030,0.072861295,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2035,0.073596089,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2040,0.073227366,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2045,0.071886562,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2050,0.069699666,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2015,0.011148884,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2018,0.012990995,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2020,0.014260867,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2025,0.017477248,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2030,0.02071373,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2035,0.023890917,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2040,0.026934321,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2045,0.029774357,REFERENCE
+commercial,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2050,0.032346345,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2015,0.711939948,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2018,0.767576811,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2020,0.802457134,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2025,0.884584699,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2030,0.958158184,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2035,1.023013134,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2040,1.07898509,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2045,1.125909595,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2050,1.163622192,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2015,1.22666E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2018,1.23261E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2020,1.22178E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2025,1.16265E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2030,1.05137E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2035,8.90012E-08,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2040,6.80684E-08,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2045,4.25473E-08,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2050,1.26473E-08,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2015,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2018,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2020,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2025,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2030,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2035,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2040,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2045,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2050,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2015,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2018,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2020,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2025,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2030,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2035,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2040,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2045,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2050,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2015,0.003879422,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2018,0.004226775,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2020,0.004452919,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2025,0.005006072,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2030,0.005538881,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2035,0.006051347,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2040,0.006543469,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2045,0.007015247,REFERENCE
+freight transport,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2050,0.007466681,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2015,0.204326745,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2018,0.217809415,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2020,0.227346514,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2025,0.252506833,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2030,0.279963031,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2035,0.309881944,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2040,0.342429156,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2045,0.377765669,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2050,0.416019931,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2015,0.106091394,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2018,0.118595861,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2020,0.127558516,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2025,0.1514313,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2030,0.177781836,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2035,0.20663652,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2040,0.237961406,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2045,0.271644809,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coal,,2050,0.307476869,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2015,0.040912464,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2018,0.042360862,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2020,0.043329542,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2025,0.04574301,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2030,0.048124935,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2035,0.050442744,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2040,0.052658898,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2045,0.054730603,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2050,0.056609584,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2015,0.667019396,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2018,0.709373967,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2020,0.737381254,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2025,0.810053342,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2030,0.887116559,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2035,0.968459422,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2040,1.053859734,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2045,1.142959539,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2050,1.240208452,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2015,0.000255009,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2018,0.000311269,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2020,0.00035219,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2025,0.0004626,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2030,0.000586839,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2035,0.000725291,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2040,0.000878045,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2045,0.001044797,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2050,0.001224748,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2015,0.075566118,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2018,0.078011268,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2020,0.080102505,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2025,0.085229093,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2030,0.090180503,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2035,0.094946932,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2040,0.099519158,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2045,0.10388897,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,coking coal,,2050,0.106264146,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2015,1.043934559,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2018,1.087683715,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2020,1.118175104,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2025,1.195188694,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2030,1.273172175,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2035,1.351479469,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2040,1.429317285,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2045,1.505725938,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2050,1.576518405,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2015,0.088835931,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2018,0.092466005,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2020,0.094953172,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2025,0.101220191,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2030,0.10753745,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2035,0.113845312,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2040,0.120071642,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2045,0.126130356,REFERENCE
+industry,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2050,0.13179937,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2015,0.044280052,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2018,0.035417606,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2020,0.039282668,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2025,0.041021184,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2030,0.039067795,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2035,0.039067795,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2040,0.039067795,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2045,0.039067795,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,diesel fuel,,2050,0.039067795,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2015,0,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2018,0,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2020,0,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2025,0,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2030,0,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2035,0,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2040,0,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2045,0,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2050,0,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2015,0.054583167,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2018,0.043658599,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2020,0.048422987,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2025,0.050566023,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2030,0.048158117,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2035,0.048158117,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2040,0.048158117,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2045,0.048158117,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,residual fuel oil,,2050,0.048158117,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2015,0.003299662,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2018,0.00263925,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2020,0.002927267,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2025,0.003056818,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2030,0.002911255,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2035,0.002911255,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2040,0.002911255,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2045,0.002911255,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,gasoline fuel,,2050,0.002911255,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2015,0.06927,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2018,0.074521589,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2020,0.078301997,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2025,0.088453862,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2030,0.099853202,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2035,0.112639862,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2040,0.126966591,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2045,0.142999598,REFERENCE
+oil & gas,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2050,0.160918972,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2015,0.24410365,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2018,0.236591339,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2020,0.232433588,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2025,0.220707864,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2030,0.207030564,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2035,0.191814395,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2040,0.17546638,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2045,0.158378123,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,biomass_blend,,2050,0.181310515,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2015,0.19153947,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2018,0.19677072,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2020,0.20088442,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2025,0.209820597,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2030,0.21637741,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2035,0.220327438,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2040,0.221488801,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2045,0.219722708,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,electricity,,2050,0.279051035,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2015,0.001194656,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2018,0.001206791,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2020,0.001218268,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2025,0.001237787,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2030,0.001241916,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2035,0.001230488,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2040,0.001203659,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2045,0.001161863,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,kerosene fuel,,2050,0.001431951,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2015,0.263276974,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2018,0.257633499,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2020,0.254749458,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2025,0.245969833,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2030,0.234791706,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2035,0.221550317,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2040,0.206592246,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2045,0.190265408,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,lpg fuel,,2050,0.222936592,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2015,0.037369523,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2018,0.043253969,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2020,0.047195615,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2025,0.056463693,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2030,0.064592957,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2035,0.071332231,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2040,0.076479442,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2045,0.079881565,REFERENCE
+residential,FALSE,total,exajoule,,,,,mexico,,,,,cubic,decay_towards_linear_regression,,2016 GWh,,,mx,,,pipeline gas,,2050,0.106100276,REFERENCE
