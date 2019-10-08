@@ -1,1 +1,6 @@
-geography,other_index_1,other_index_2,interpolation_method,extrapolation_method,extrapolation_growth,parent,source,notes,gau,oth_1,oth_2,year,value
+parent,geography,other_index_1,other_index_2,interpolation_method,extrapolation_method,extrapolation_growth,source,notes,gau,oth_1,oth_2,year,value
+DDP-LAC: 80% electrification of diesel by 2070,global,,,linear_interpolation,nearest,,,,all,,,2020,0.5
+DDP-LAC: 80% electrification of diesel by 2050,global,,,linear_interpolation,nearest,,,,all,,,2020,0.5
+DDP-LAC: 95% electrification of gasoline by 2070,global,,,linear_interpolation,nearest,,,,all,,,2020,0.4
+DDP-LAC: 95% electrification of gasoline by 2050,global,,,linear_interpolation,nearest,,,,all,,,2020,0.4
+DDP-LAC: 90% gas to hydrogen,global,,,linear_interpolation,nearest,,,,all,,,2020,0.6

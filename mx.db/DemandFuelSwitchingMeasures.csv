@@ -1,1 +1,7 @@
 name,subsector,final_energy_from,final_energy_to,stock_decay_function,max_lifetime,min_lifetime,mean_lifetime,lifetime_variance
+DDP-LAC: 80% electrification of diesel by 2070,freight transport,diesel fuel,electricity,weibull,,,15,5
+DDP-LAC: 80% electrification of diesel by 2050,freight transport,diesel fuel,electricity,weibull,,,15,5
+DDP-LAC: 95% electrification of gasoline by 2070,freight transport,gasoline fuel,electricity,weibull,,,15,5
+DDP-LAC: 95% electrification of gasoline by 2050,freight transport,gasoline fuel,electricity,weibull,,,15,5
+DDP-LAC: 90% gas to hydrogen,freight transport,compressed pipeline gas,liquid hydrogen,weibull,,,15,5
+

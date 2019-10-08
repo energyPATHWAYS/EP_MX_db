@@ -1,1 +1,6 @@
 parent,currency,currency_year,cost_denominator_unit,cost_of_capital,is_levelized,geography,other_index_1,other_index_2,interpolation_method,extrapolation_method,extrapolation_growth,source,notes,gau,oth_1,oth_2,vintage,value
+DDP-LAC: 80% electrification of diesel by 2070,USD,2016,mmbtu,0.06,TRUE,global,,,linear_interpolation,nearest,,,,all,,,2020,10
+DDP-LAC: 80% electrification of diesel by 2050,USD,2016,mmbtu,0.06,TRUE,global,,,linear_interpolation,nearest,,,,all,,,2020,10
+DDP-LAC: 95% electrification of gasoline by 2070,USD,2016,mmbtu,0.06,TRUE,global,,,linear_interpolation,nearest,,,,all,,,2020,10
+DDP-LAC: 95% electrification of gasoline by 2050,USD,2016,mmbtu,0.06,TRUE,global,,,linear_interpolation,nearest,,,,all,,,2020,10
+DDP-LAC: 90% gas to hydrogen,USD,2016,mmbtu,0.06,TRUE,global,,,linear_interpolation,nearest,,,,all,,,2020,10
