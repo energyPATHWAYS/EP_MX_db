@@ -39,86 +39,6 @@ rail,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,
 rail,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2030,0.002976508,MITIGATION
 rail,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2040,0.002293211,MITIGATION
 rail,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2050,0,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2015,0.711939948,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2018,0.767576811,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2020,0.802457134,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2030,0.713823299,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2035,0.695357298,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2040,0.664864349,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2045,0.623950882,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2050,0.574073483,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2015,1.23E-07,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2018,1.23E-07,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2020,1.22E-07,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2030,0.019382052,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2035,0.026302651,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2040,0.033687606,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2045,0.041439929,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2050,0.049475095,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2015,0,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2018,0,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2020,0,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2030,0.037777126,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2035,0.049652478,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2040,0.061399439,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2045,0.072673949,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2050,0.083169408,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed pipeline gas,,2015,0,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed pipeline gas,,2018,0,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed pipeline gas,,2020,0,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed pipeline gas,,2030,0.113331378,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed pipeline gas,,2035,0.148957433,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed pipeline gas,,2040,0.184198316,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed pipeline gas,,2045,0.218021846,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed pipeline gas,,2050,0.249508224,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2015,0.003879422,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2018,0.004226775,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2020,0.004452919,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2030,0.003030645,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2035,0.002556693,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2040,0.001948521,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2045,0.001213759,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2050,0.000360035,MITIGATION
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2015,0.711939948,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2018,0.767576811,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2020,0.802457134,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2030,0.958158184,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2035,1.023013134,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2040,1.07898509,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2045,1.125909595,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2050,1.163622192,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2015,1.23E-07,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2018,1.23E-07,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2020,1.22E-07,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2030,1.05E-07,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2035,8.90E-08,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2040,6.81E-08,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2045,4.25E-08,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2050,1.26E-08,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2015,0,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2018,0,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2020,0,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2030,0,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2035,0,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2040,0,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2045,0,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2050,0,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed pipeline gas,,2015,0,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed pipeline gas,,2018,0,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed pipeline gas,,2020,0,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed pipeline gas,,2030,0,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed pipeline gas,,2035,0,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed pipeline gas,,2040,0,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed pipeline gas,,2045,0,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed pipeline gas,,2050,0,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2015,0.003879422,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2018,0.004226775,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2020,0.004452919,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2030,0.005538881,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2035,0.006051347,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2040,0.006543469,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2045,0.007015247,REFERENCE
-freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2050,0.007466681,REFERENCE
 residential,FALSE,total,exajoule,,,households,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2015,0.193085564,REFERENCE
 residential,FALSE,total,exajoule,,,households,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2016,0.199785604,REFERENCE
 residential,FALSE,total,exajoule,,,households,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2017,0.206485645,REFERENCE
@@ -5695,3 +5615,659 @@ residential,FALSE,total,exajoule,,,households,,mexico,,,,,linear_interpolation,n
 residential,FALSE,total,exajoule,,,households,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2053,0.305530622,MITIGATION
 residential,FALSE,total,exajoule,,,households,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2054,0.314664386,MITIGATION
 residential,FALSE,total,exajoule,,,households,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2055,0.32379815,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2015,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2016,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2017,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2018,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2019,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2020,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2021,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2022,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2023,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2024,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2025,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2026,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2027,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2028,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2029,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2030,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2031,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2032,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2033,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2034,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2035,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2036,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2037,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2038,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2039,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2040,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2041,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2042,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2043,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2044,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2045,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2046,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2047,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2048,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2049,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2050,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2051,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2052,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2053,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2054,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2055,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2015,0,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2016,0,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2017,0,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2018,0,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2019,0,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2020,0,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2021,0,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2022,0.010109591,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2023,0.020219182,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2024,0.030328773,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2025,0.040438364,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2026,0.050547955,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2027,0.055805535,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2028,0.061063114,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2029,0.066320694,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2030,0.071578274,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2031,0.076835854,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2032,0.08209717,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2033,0.087358487,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2034,0.092619803,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2035,0.09788112,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2036,0.103142436,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2037,0.108315398,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2038,0.113488361,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2039,0.118661323,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2040,0.123834285,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2041,0.129007247,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2042,0.134004963,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2043,0.139002678,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2044,0.144000394,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2045,0.14899811,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2046,0.153995826,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2047,0.158736602,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2048,0.163477378,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2049,0.168218155,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2050,0.172958931,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2051,0.177699707,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2052,0.18210705,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2053,0.186514393,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2054,0.190921736,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2055,0.195329079,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2015,0.435833524,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2016,0.649087709,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2017,0.653384344,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2018,0.657680979,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2019,0.661977614,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2020,0.666274249,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2021,0.670570884,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2022,0.674002496,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2023,0.677434108,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2024,0.68086572,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2025,0.684297332,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2026,0.687728943,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2027,0.690330192,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2028,0.69293144,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2029,0.695532689,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2030,0.698133937,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2031,0.700735186,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2032,0.70254073,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2033,0.704346275,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2034,0.70615182,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2035,0.707957365,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2036,0.70976291,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2037,0.710807411,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2038,0.711851912,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2039,0.712896414,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2040,0.713940915,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2041,0.714985416,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2042,0.715303533,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2043,0.71562165,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2044,0.715939768,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2045,0.716257885,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2046,0.716576002,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2047,0.716202396,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2048,0.715828789,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2049,0.715455182,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2050,0.715081576,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2051,0.714707969,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2052,0.713677298,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2053,0.712646627,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2054,0.711615956,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2055,0.710585285,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2015,0.709554614,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2016,0.649087709,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2017,0.652332687,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2018,0.655577666,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2019,0.658822644,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2020,0.662067623,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2021,0.665312601,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2022,0.657372911,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2023,0.649433222,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2024,0.641493532,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2025,0.633553843,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2026,0.625614153,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2027,0.621472689,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2028,0.617331225,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2029,0.613189761,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2030,0.609048297,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2031,0.604906833,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2032,0.59972827,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2033,0.594549708,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2034,0.589371146,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2035,0.584192584,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2036,0.579014022,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2037,0.572910011,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2038,0.566806001,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2039,0.56070199,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2040,0.554597979,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2041,0.548493968,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2042,0.541570092,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2043,0.534646216,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2044,0.52772234,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2045,0.520798464,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2046,0.513874588,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2047,0.506230365,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2048,0.498586142,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2049,0.490941919,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2050,0.483297696,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2051,0.475653473,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2052,0.467689483,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2053,0.459725493,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2054,0.451761503,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2055,0.443797513,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2015,0.006769345,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2016,1.19933E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2017,1.30451E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2018,1.40968E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2019,1.51486E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2020,1.62004E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2021,1.72521E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2022,1.84117E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2023,1.95712E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2024,2.07307E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2025,2.18902E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2026,2.30497E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2027,2.43118E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2028,2.55738E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2029,2.68359E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2030,2.8098E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2031,2.936E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2032,3.07195E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2033,3.20789E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2034,3.34383E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2035,3.47977E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2036,3.61571E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2037,3.76087E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2038,3.90603E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2039,4.05119E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2040,4.19634E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2041,4.3415E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2042,4.49535E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2043,4.64921E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2044,4.80306E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2045,4.95691E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2046,5.11077E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2047,5.2728E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2048,5.43483E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2049,5.59686E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2050,5.75889E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2051,5.92092E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2052,6.0906E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2053,6.26029E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2054,6.42997E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2055,6.59966E-07,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2015,6.76935E-07,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2016,1.19933E-07,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2017,4.32565E-05,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2018,8.6393E-05,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2019,0.00012953,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2020,0.000172666,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2021,0.000215803,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2022,0.000287925,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2023,0.000360048,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2024,0.00043217,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2025,0.000504293,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2026,0.000576416,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2027,0.000681369,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2028,0.000786323,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2029,0.000891277,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2030,0.000996231,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2031,0.001101185,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2032,0.001242555,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2033,0.001383926,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2034,0.001525296,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2035,0.001666667,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2036,0.001808037,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2037,0.00198915,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2038,0.002170262,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2039,0.002351375,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2040,0.002532488,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2041,0.0027136,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2042,0.002937521,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2043,0.003161442,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2044,0.003385362,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2045,0.003609283,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2046,0.003833203,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2047,0.004102738,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2048,0.004372272,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2049,0.004641806,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2050,0.004911341,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2051,0.005180875,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2052,0.005498569,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2053,0.005816263,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2054,0.006133957,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2055,0.006451651,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2015,0.033289404,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2016,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2017,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2018,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2019,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2020,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2021,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2022,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2023,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2024,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2025,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2026,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2027,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2028,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2029,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2030,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2031,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2032,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2033,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2034,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2035,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2036,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2037,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2038,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2039,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2040,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2041,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2042,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2043,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2044,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2045,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2046,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2047,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2048,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2049,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2050,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2051,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2052,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2053,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2054,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2055,0,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2015,0,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2016,0,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2017,0.000825506,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2018,0.001651013,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2019,0.002476519,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2020,0.003302025,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2021,0.004127531,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2022,0.004986957,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2023,0.005846383,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2024,0.006705808,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2025,0.007565234,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2026,0.008424659,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2027,0.009300922,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2028,0.010177186,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2029,0.011053449,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2030,0.011929712,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2031,0.012805976,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2032,0.013682862,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2033,0.014559748,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2034,0.015436634,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2035,0.01631352,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2036,0.017190406,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2037,0.018052566,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2038,0.018914727,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2039,0.019776887,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2040,0.020639047,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2041,0.021501208,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2042,0.02233416,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2043,0.023167113,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2044,0.024000066,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2045,0.024833018,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2046,0.025665971,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2047,0.0264561,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2048,0.02724623,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2049,0.028036359,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2050,0.028826488,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2051,0.029616618,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2052,0.030351175,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2053,0.031085732,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2054,0.031820289,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2055,0.032554846,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2015,0.002047518,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2016,0.003498051,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2017,0.003545001,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2018,0.003591951,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2019,0.003638901,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2020,0.003685851,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2021,0.003732801,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2022,0.003777913,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2023,0.003823025,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2024,0.003868138,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2025,0.00391325,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2026,0.003958362,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2027,0.004001637,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2028,0.004044912,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2029,0.004088187,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2030,0.004131462,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2031,0.004174736,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2032,0.004216174,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2033,0.004257611,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2034,0.004299048,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2035,0.004340486,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2036,0.004381923,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2037,0.004421523,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2038,0.004461123,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2039,0.004500723,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2040,0.004540322,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2041,0.004579922,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2042,0.004617685,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2043,0.004655447,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2044,0.004693209,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2045,0.004730972,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2046,0.004768734,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2047,0.004804659,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2048,0.004840584,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2049,0.004876509,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2050,0.004912433,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2051,0.004948358,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2052,0.004982446,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2053,0.005016533,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2054,0.00505062,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2055,0.005084708,REFERENCE
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2015,0.005118795,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2016,0.003498051,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2017,0.003517005,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2018,0.003535959,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2019,0.003554913,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2020,0.003573867,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2021,0.00359282,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2022,0.003606553,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2023,0.003620286,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2024,0.003634019,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2025,0.003647752,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2026,0.003661485,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2027,0.003670204,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2028,0.003678922,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2029,0.003687641,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2030,0.00369636,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2031,0.003705079,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2032,0.00370899,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2033,0.003712901,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2034,0.003716812,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2035,0.003720723,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2036,0.003724635,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2037,0.003723945,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2038,0.003723256,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2039,0.003722566,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2040,0.003721876,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2041,0.003721187,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2042,0.003716103,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2043,0.00371102,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2044,0.003705936,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2045,0.003700852,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2046,0.003695769,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2047,0.003686498,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2048,0.003677227,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2049,0.003667956,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2050,0.003658685,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2051,0.003649414,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2052,0.003329035,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2053,0.003008656,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2054,0.002688276,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2055,0.002367897,MITIGATION
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2015,0.642108962,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2016,0.645768175,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2017,0.649427388,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2018,0.653086601,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2019,0.656745815,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2020,0.660405028,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2021,0.663118568,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2022,0.665832109,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2023,0.668545649,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2024,0.67125919,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2025,0.67397273,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2026,0.675775258,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2027,0.677577786,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2028,0.679380313,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2029,0.681182841,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2030,0.682985369,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2031,0.683911544,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2032,0.684837718,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2033,0.685763893,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2034,0.686690068,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2035,0.687616242,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2036,0.687700724,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2037,0.687785206,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2038,0.687869687,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2039,0.687954169,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2040,0.68803865,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2041,0.687316099,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2042,0.686593547,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2043,0.685870995,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2044,0.685148443,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2045,0.684425892,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2046,0.682930967,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2047,0.681436041,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2048,0.679941116,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2049,0.678446191,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2050,0.676951266,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2051,0.674718627,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2052,0.672485988,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2053,0.670253349,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2054,0.668020711,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2055,0.665788072,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2015,0.642108962,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2016,0.644942669,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2017,0.647776376,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2018,0.650610083,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2019,0.653443789,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2020,0.656277496,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2021,0.64802202,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2022,0.639766544,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2023,0.631511068,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2024,0.623255592,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2025,0.615000116,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2026,0.610668801,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2027,0.606337486,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2028,0.60200617,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2029,0.597674855,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2030,0.593343539,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2031,0.588131511,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2032,0.582919484,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2033,0.577707456,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2034,0.572495428,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2035,0.5672834,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2036,0.561332759,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2037,0.555382118,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2038,0.549431477,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2039,0.543480836,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2040,0.537530196,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2041,0.530976975,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2042,0.524423755,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2043,0.517870535,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2044,0.511317315,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2045,0.504764095,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2046,0.497738264,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2047,0.490712433,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2048,0.483686602,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2049,0.476660772,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2050,0.469634941,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2051,0.462260402,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2052,0.454885863,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2053,0.447511324,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2054,0.440136786,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2055,0.432762247,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2015,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2016,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2017,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2018,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2019,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2020,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2021,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2022,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2023,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2024,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2025,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2026,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2027,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2028,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2029,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2030,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2031,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2032,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2033,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2034,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2035,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2036,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2037,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2038,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2039,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2040,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2041,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2042,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2043,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2044,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2045,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2046,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2047,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2048,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2049,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2050,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2051,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2052,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2053,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2054,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2055,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2015,0,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2016,0.000825506,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2017,0.001651013,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2018,0.002476519,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2019,0.003302025,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2020,0.004127531,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2021,0.004986957,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2022,0.005846383,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2023,0.006705808,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2024,0.007565234,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2025,0.008424659,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2026,0.009300922,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2027,0.010177186,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2028,0.011053449,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2029,0.011929712,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2030,0.012805976,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2031,0.013682862,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2032,0.014559748,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2033,0.015436634,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2034,0.01631352,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2035,0.017190406,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2036,0.018052566,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2037,0.018914727,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2038,0.019776887,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2039,0.020639047,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2040,0.021501208,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2041,0.02233416,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2042,0.023167113,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2043,0.024000066,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2044,0.024833018,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2045,0.025665971,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2046,0.0264561,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2047,0.02724623,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2048,0.028036359,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2049,0.028826488,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2050,0.029616618,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2051,0.030351175,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2052,0.031085732,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2053,0.031820289,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2054,0.032554846,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2055,0.033289404,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2015,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2016,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2017,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2018,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2019,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2020,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2021,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2022,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2023,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2024,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2025,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2026,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2027,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2028,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2029,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2030,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2031,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2032,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2033,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2034,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2035,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2036,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2037,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2038,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2039,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2040,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2041,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2042,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2043,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2044,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2045,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2046,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2047,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2048,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2049,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2050,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2051,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2052,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2053,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2054,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2055,0,REFERENCE - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2015,0,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2016,0,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2017,0,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2018,0,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2019,0,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2020,0,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2021,0.010109591,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2022,0.020219182,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2023,0.030328773,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2024,0.040438364,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2025,0.050547955,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2026,0.055805535,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2027,0.061063114,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2028,0.066320694,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2029,0.071578274,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2030,0.076835854,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2031,0.08209717,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2032,0.087358487,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2033,0.092619803,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2034,0.09788112,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2035,0.103142436,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2036,0.108315398,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2037,0.113488361,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2038,0.118661323,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2039,0.123834285,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2040,0.129007247,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2041,0.134004963,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2042,0.139002678,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2043,0.144000394,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2044,0.14899811,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2045,0.153995826,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2046,0.158736602,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2047,0.163477378,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2048,0.168218155,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2049,0.172958931,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2050,0.177699707,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2051,0.18210705,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2052,0.186514393,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2053,0.190921736,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2054,0.195329079,MITIGATION - Rail only
+freight transport,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2055,0.199736422,MITIGATION - Rail only
