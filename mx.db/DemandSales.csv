@@ -10,15 +10,9 @@ Busses,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric Transit 
 Busses,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric Transit bus,2040,0.01
 Busses,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric Transit bus,2050,0.01
 Light-duty vehicle,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric Light-Duty Auto - 200 mile range,2015,0
-Light-duty vehicle,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric Light-Duty Auto - 200 mile range,2020,0.0217199
-Light-duty vehicle,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric Light-Duty Auto - 200 mile range,2030,0.05346
-Light-duty vehicle,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric Light-Duty Auto - 200 mile range,2040,0.127715
-Light-duty vehicle,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric Light-Duty Auto - 200 mile range,2050,0.248824
+Light-duty vehicle,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric Light-Duty Auto - 200 mile range,2060,0.1
 Light-duty vehicle,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Reference Gasoline Light-Duty Auto,2015,1
-Light-duty vehicle,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Reference Gasoline Light-Duty Auto,2020,0.97828
-Light-duty vehicle,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Reference Gasoline Light-Duty Auto,2030,0.94654
-Light-duty vehicle,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Reference Gasoline Light-Duty Auto,2040,0.872285
-Light-duty vehicle,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Reference Gasoline Light-Duty Auto,2050,0.751176
+Light-duty vehicle,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Reference Gasoline Light-Duty Auto,2060,0.9
 Two & three wheelers,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric 2 or 3 Wheeler,2015,0.01
 Two & three wheelers,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric 2 or 3 Wheeler,2020,0.109088
 Two & three wheelers,mexico,,,intensity,linear_interpolation,nearest,,,,mx,,,Electric 2 or 3 Wheeler,2030,0.130435
