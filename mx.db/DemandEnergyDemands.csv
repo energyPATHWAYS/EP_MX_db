@@ -1023,383 +1023,375 @@ o&g upstream ,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponenti
 o&g upstream ,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2053,0.012114782,MITIGATION
 o&g upstream ,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2054,0.010149117,MITIGATION
 o&g upstream ,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2055,0.008183453,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2015,0.0357885,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2016,0.036575702,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2017,0.037362903,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2018,0.038150105,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2019,0.038937307,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2020,0.039724508,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2021,0.040492783,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2022,0.041261057,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2023,0.042029331,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2024,0.042797606,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2025,0.04356588,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2026,0.044284889,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2027,0.045003898,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2028,0.045722907,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2029,0.046441915,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2030,0.047160924,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2031,0.047791765,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2032,0.048422605,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2033,0.049053445,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2034,0.049684286,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2035,0.050315126,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2036,0.050808642,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2037,0.051302158,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2038,0.051795674,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2039,0.05228919,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2040,0.052782706,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2041,0.053077543,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2042,0.053372381,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2043,0.053667218,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2044,0.053962056,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2045,0.054256893,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2046,0.054277274,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2047,0.054297654,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2048,0.054318035,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2049,0.054338415,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2050,0.054358796,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2051,0.054011981,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2052,0.053665167,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2053,0.053318352,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2054,0.052971538,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2055,0.052624723,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2015,0.0357885,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2016,0.03606329,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2017,0.03633808,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2018,0.03661287,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2019,0.03688766,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2020,0.03716245,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2021,0.037387308,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2022,0.037612166,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2023,0.037837025,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2024,0.038061883,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2025,0.038286741,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2026,0.038445086,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2027,0.038603431,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2028,0.038761776,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2029,0.038920121,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2030,0.039078466,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2031,0.039150587,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2032,0.039222708,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2033,0.039294829,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2034,0.03936695,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2035,0.039439071,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2036,0.039401675,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2037,0.039364279,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2038,0.039326883,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2039,0.039289487,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2040,0.039252091,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2041,0.0390778,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2042,0.038903509,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2043,0.038729218,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2044,0.038554927,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2045,0.038380636,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2046,0.038037435,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2047,0.037694234,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2048,0.037351033,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2049,0.037007832,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2050,0.036664631,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2051,0.036115265,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2052,0.035565898,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2053,0.035016532,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2054,0.034467166,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2055,0.0339178,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2015,0.000396085,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2016,0.000412713,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2017,0.00042934,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2018,0.000445968,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2019,0.000462596,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2020,0.000479223,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2021,0.000497293,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2022,0.000515363,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2023,0.000533433,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2024,0.000551502,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2025,0.000569572,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2026,0.000588633,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2027,0.000607694,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2028,0.000626756,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2029,0.000645817,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2030,0.000664878,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2031,0.000684224,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2032,0.00070357,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2033,0.000722916,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2034,0.000742262,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2035,0.000761608,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2036,0.000780198,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2037,0.000798789,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2038,0.000817379,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2039,0.000835969,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2040,0.00085456,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2041,0.000870927,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2042,0.000887294,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2043,0.000903661,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2044,0.000920028,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2045,0.000936395,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2046,0.000948529,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2047,0.000960662,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2048,0.000972796,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2049,0.00098493,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2050,0.000997063,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2051,0.001002272,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2052,0.001007482,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2053,0.001012691,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2054,0.0010179,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2055,0.001023109,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2015,0.000396085,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2016,0.000406531,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2017,0.000416977,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2018,0.000427423,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2019,0.00043787,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2020,0.000448316,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2021,0.000458763,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2022,0.000469211,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2023,0.000479658,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2024,0.000490106,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2025,0.000500553,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2026,0.000510629,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2027,0.000520705,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2028,0.00053078,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2029,0.000540856,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2030,0.000550931,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2031,0.000560141,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2032,0.000569351,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2033,0.00057856,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2034,0.00058777,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2035,0.00059698,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2036,0.000604683,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2037,0.000612387,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2038,0.00062009,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2039,0.000627794,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2040,0.000635497,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2041,0.000640877,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2042,0.000646256,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2043,0.000651635,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2044,0.000657015,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2045,0.000662394,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2046,0.000664418,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2047,0.000666441,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2048,0.000668465,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2049,0.000670489,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2050,0.000672512,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2051,0.000669893,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2052,0.000667274,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2053,0.000664655,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2054,0.000662036,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,gasoline fuel,,2055,0.000659417,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2015,0.050379589,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2016,0.051046284,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2017,0.051633751,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2018,0.052144071,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2019,0.05257925,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2020,0.052941229,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2021,0.052341099,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2022,0.051706908,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2023,0.051039393,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2024,0.050339267,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2025,0.049607227,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2026,0.048673669,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2027,0.047706061,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2028,0.046704951,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2029,0.045670874,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2030,0.044604354,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2031,0.043338616,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2032,0.042039271,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2033,0.040706632,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2034,0.03934101,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2035,0.037942708,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2036,0.036369501,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2037,0.03476364,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2038,0.033125158,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2039,0.031454088,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2040,0.029750463,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2041,0.027926405,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2042,0.026071248,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2043,0.024184694,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2044,0.022266439,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2045,0.020316179,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2046,0.018340154,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2047,0.016335285,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2048,0.014300889,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2049,0.012236266,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2050,0.01014069,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2051,0.008302714,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2052,0.006373694,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2053,0.004349708,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2054,0.002226608,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2055,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2015,0.050379589,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2016,0.051046284,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2017,0.051633751,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2018,0.052144071,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2019,0.05257925,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2020,0.052941229,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2050,0,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,residual fuel oil,,2055,0,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2015,0.012180589,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2016,0.01257354,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2017,0.012966492,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2018,0.013359443,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2019,0.013752395,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2020,0.014145346,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2021,0.014557935,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2022,0.014970525,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2023,0.015383115,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2024,0.015795704,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2025,0.016208294,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2026,0.016628381,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2027,0.017048469,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2028,0.017468556,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2029,0.017888644,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2030,0.018308731,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2031,0.01871871,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2032,0.019128688,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2033,0.019538667,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2034,0.019948645,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2035,0.020358624,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2036,0.020733925,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2037,0.021109226,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2038,0.021484527,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2039,0.021859829,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2040,0.02223513,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2041,0.022542413,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2042,0.022849697,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2043,0.023156981,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2044,0.023464264,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2045,0.023771548,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2046,0.023966522,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2047,0.024161497,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2048,0.024356471,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2049,0.024551446,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2050,0.02474642,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2051,0.024771235,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2052,0.024796049,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2053,0.024820864,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2054,0.024845679,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2055,0.024870493,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2015,0.012180589,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2016,0.011973263,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2017,0.011765938,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2018,0.011558612,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2019,0.011351286,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2020,0.011143961,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2021,0.010897097,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2022,0.010650233,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2023,0.01040337,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2024,0.010156506,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2025,0.009909642,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2026,0.009625316,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2027,0.00934099,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2028,0.009056664,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2029,0.008772337,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2030,0.008488011,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2031,0.008170712,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2032,0.007853413,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2033,0.007536114,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2034,0.007218814,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2035,0.006901515,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2036,0.006558862,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2037,0.006216208,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2038,0.005873554,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2039,0.005530901,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2040,0.005188247,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2041,0.004831849,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2042,0.004475451,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2043,0.004119053,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2044,0.003762655,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2045,0.003406257,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2046,0.003052747,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2047,0.002699237,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2048,0.002345726,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2049,0.001992216,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2050,0.001638706,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2051,0.001310965,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2052,0.000983224,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2053,0.000655483,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2054,0.000327741,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,diesel fuel,,2055,0,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2015,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2016,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2017,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2018,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2019,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2020,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2021,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2022,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2023,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2024,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2025,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2026,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2027,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2028,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2029,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2030,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2031,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2032,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2033,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2034,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2035,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2036,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2037,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2038,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2039,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2040,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2041,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2042,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2043,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2044,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2045,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2046,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2047,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2048,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2049,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2050,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2051,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2052,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2053,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2054,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2055,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2015,0,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2016,0.001365819,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2017,0.002731639,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2018,0.004097458,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2019,0.005463277,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2020,0.006829096,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2021,0.008297202,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2022,0.009765309,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2023,0.011233415,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2024,0.012701521,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2025,0.014169627,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2026,0.015704972,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2027,0.017240316,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2028,0.018775661,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2029,0.020311006,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2030,0.02184635,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2031,0.023398095,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2032,0.02494984,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2033,0.026501584,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2034,0.028053329,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2035,0.029605074,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2036,0.031102645,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2037,0.032600215,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2038,0.034097786,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2039,0.035595357,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2040,0.037092928,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2041,0.038441328,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2042,0.039789729,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2043,0.041138129,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2044,0.04248653,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2045,0.04383493,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2046,0.044909208,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2047,0.045983486,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2048,0.047057764,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2049,0.048132042,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2050,0.04920632,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2051,0.049845076,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2052,0.050483832,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2053,0.051122588,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2054,0.051761344,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,solar,,2055,0.0524001,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2015,0.0357885,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2016,0.036575702,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2017,0.037362903,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2018,0.038150105,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2019,0.038937307,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2020,0.039724508,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2021,0.040492783,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2022,0.041261057,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2023,0.042029331,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2024,0.042797606,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2025,0.04356588,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2026,0.044284889,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2027,0.045003898,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2028,0.045722907,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2029,0.046441915,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2030,0.047160924,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2031,0.047791765,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2032,0.048422605,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2033,0.049053445,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2034,0.049684286,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2035,0.050315126,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2036,0.050808642,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2037,0.051302158,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2038,0.051795674,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2039,0.05228919,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2040,0.052782706,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2041,0.053077543,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2042,0.053372381,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2043,0.053667218,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2044,0.053962056,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2045,0.054256893,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2046,0.054277274,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2047,0.054297654,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2048,0.054318035,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2049,0.054338415,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2050,0.054358796,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2051,0.054011981,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2052,0.053665167,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2053,0.053318352,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2054,0.052971538,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2055,0.052624723,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2015,0.0357885,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2016,0.03606329,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2017,0.03633808,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2018,0.03661287,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2019,0.03688766,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2020,0.03716245,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2021,0.037387308,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2022,0.037612166,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2023,0.037837025,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2024,0.038061883,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2025,0.038286741,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2026,0.038445086,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2027,0.038603431,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2028,0.038761776,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2029,0.038920121,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2030,0.039078466,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2031,0.039150587,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2032,0.039222708,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2033,0.039294829,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2034,0.03936695,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2035,0.039439071,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2036,0.039401675,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2037,0.039364279,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2038,0.039326883,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2039,0.039289487,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2040,0.039252091,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2041,0.0390778,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2042,0.038903509,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2043,0.038729218,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2044,0.038554927,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2045,0.038380636,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2046,0.038037435,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2047,0.037694234,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2048,0.037351033,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2049,0.037007832,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2050,0.036664631,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2051,0.036115265,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2052,0.035565898,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2053,0.035016532,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2054,0.034467166,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2055,0.0339178,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2015,0.000396085,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2016,0.000412713,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2017,0.00042934,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2018,0.000445968,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2019,0.000462596,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2020,0.000479223,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2021,0.000497293,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2022,0.000515363,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2023,0.000533433,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2024,0.000551502,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2025,0.000569572,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2026,0.000588633,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2027,0.000607694,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2028,0.000626756,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2029,0.000645817,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2030,0.000664878,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2031,0.000684224,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2032,0.00070357,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2033,0.000722916,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2034,0.000742262,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2035,0.000761608,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2036,0.000780198,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2037,0.000798789,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2038,0.000817379,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2039,0.000835969,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2040,0.00085456,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2041,0.000870927,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2042,0.000887294,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2043,0.000903661,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2044,0.000920028,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2045,0.000936395,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2046,0.000948529,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2047,0.000960662,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2048,0.000972796,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2049,0.00098493,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2050,0.000997063,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2051,0.001002272,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2052,0.001007482,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2053,0.001012691,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2054,0.0010179,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2055,0.001023109,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2015,0.000396085,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2016,0.000406531,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2017,0.000416977,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2018,0.000427423,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2019,0.00043787,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2020,0.000448316,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2021,0.000458763,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2022,0.000469211,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2023,0.000479658,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2024,0.000490106,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2025,0.000500553,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2026,0.000510629,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2027,0.000520705,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2028,0.00053078,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2029,0.000540856,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2030,0.000550931,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2031,0.000560141,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2032,0.000569351,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2033,0.00057856,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2034,0.00058777,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2035,0.00059698,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2036,0.000604683,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2037,0.000612387,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2038,0.00062009,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2039,0.000627794,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2040,0.000635497,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2041,0.000640877,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2042,0.000646256,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2043,0.000651635,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2044,0.000657015,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2045,0.000662394,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2046,0.000664418,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2047,0.000666441,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2048,0.000668465,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2049,0.000670489,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2050,0.000672512,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2051,0.000669893,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2052,0.000667274,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2053,0.000664655,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2054,0.000662036,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,gasoline fuel,,2055,0.000659417,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2015,0.050379589,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2016,0.051046284,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2017,0.051633751,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2018,0.052144071,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2019,0.05257925,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2020,0.052941229,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2021,0.052341099,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2022,0.051706908,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2023,0.051039393,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2024,0.050339267,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2025,0.049607227,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2026,0.048673669,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2027,0.047706061,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2028,0.046704951,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2029,0.045670874,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2030,0.044604354,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2031,0.043338616,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2032,0.042039271,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2033,0.040706632,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2034,0.03934101,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2035,0.037942708,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2036,0.036369501,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2037,0.03476364,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2038,0.033125158,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2039,0.031454088,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2040,0.029750463,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2041,0.027926405,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2042,0.026071248,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2043,0.024184694,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2044,0.022266439,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2045,0.020316179,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2046,0.018340154,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2047,0.016335285,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2048,0.014300889,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2049,0.012236266,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2050,0.01014069,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2051,0.008302714,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2052,0.006373694,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2053,0.004349708,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2054,0.002226608,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2055,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2015,0.012180589,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2016,0.01257354,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2017,0.012966492,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2018,0.013359443,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2019,0.013752395,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2020,0.014145346,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2021,0.014557935,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2022,0.014970525,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2023,0.015383115,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2024,0.015795704,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2025,0.016208294,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2026,0.016628381,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2027,0.017048469,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2028,0.017468556,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2029,0.017888644,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2030,0.018308731,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2031,0.01871871,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2032,0.019128688,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2033,0.019538667,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2034,0.019948645,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2035,0.020358624,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2036,0.020733925,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2037,0.021109226,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2038,0.021484527,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2039,0.021859829,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2040,0.02223513,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2041,0.022542413,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2042,0.022849697,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2043,0.023156981,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2044,0.023464264,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2045,0.023771548,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2046,0.023966522,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2047,0.024161497,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2048,0.024356471,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2049,0.024551446,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2050,0.02474642,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2051,0.024771235,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2052,0.024796049,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2053,0.024820864,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2054,0.024845679,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2055,0.024870493,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2015,0.012180589,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2016,0.011973263,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2017,0.011765938,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2018,0.011558612,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2019,0.011351286,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2020,0.011143961,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2021,0.010897097,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2022,0.010650233,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2023,0.01040337,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2024,0.010156506,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2025,0.009909642,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2026,0.009625316,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2027,0.00934099,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2028,0.009056664,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2029,0.008772337,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2030,0.008488011,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2031,0.008170712,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2032,0.007853413,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2033,0.007536114,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2034,0.007218814,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2035,0.006901515,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2036,0.006558862,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2037,0.006216208,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2038,0.005873554,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2039,0.005530901,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2040,0.005188247,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2041,0.004831849,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2042,0.004475451,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2043,0.004119053,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2044,0.003762655,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2045,0.003406257,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2046,0.003052747,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2047,0.002699237,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2048,0.002345726,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2049,0.001992216,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2050,0.001638706,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2051,0.001310965,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2052,0.000983224,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2053,0.000655483,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2054,0.000327741,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2055,0,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2015,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2016,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2017,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2018,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2019,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2020,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2021,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2022,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2023,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2024,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2025,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2026,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2027,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2028,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2029,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2030,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2031,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2032,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2033,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2034,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2035,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2036,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2037,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2038,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2039,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2040,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2041,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2042,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2043,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2044,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2045,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2046,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2047,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2048,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2049,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2050,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2051,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2052,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2053,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2054,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2055,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2015,0,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2016,0.001365819,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2017,0.002731639,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2018,0.004097458,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2019,0.005463277,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2020,0.006829096,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2021,0.008297202,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2022,0.009765309,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2023,0.011233415,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2024,0.012701521,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2025,0.014169627,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2026,0.015704972,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2027,0.017240316,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2028,0.018775661,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2029,0.020311006,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2030,0.02184635,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2031,0.023398095,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2032,0.02494984,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2033,0.026501584,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2034,0.028053329,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2035,0.029605074,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2036,0.031102645,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2037,0.032600215,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2038,0.034097786,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2039,0.035595357,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2040,0.037092928,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2041,0.038441328,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2042,0.039789729,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2043,0.041138129,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2044,0.04248653,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2045,0.04383493,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2046,0.044909208,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2047,0.045983486,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2048,0.047057764,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2049,0.048132042,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2050,0.04920632,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2051,0.049845076,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2052,0.050483832,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2053,0.051122588,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2054,0.051761344,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2055,0.0524001,MITIGATION
 iron & steel,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2015,0.019222,REFERENCE
 iron & steel,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2016,0.018894385,REFERENCE
 iron & steel,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2017,0.01856677,REFERENCE
@@ -4270,88 +4262,88 @@ o&g upstream ,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponenti
 o&g upstream ,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2053,0.109503424,MITIGATION
 o&g upstream ,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2054,0.090963058,MITIGATION
 o&g upstream ,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2055,0.072422692,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2015,0.59017429,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2016,0.613804987,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2017,0.637435683,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2018,0.66106638,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2019,0.684697077,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2020,0.708327774,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2021,0.721431386,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2022,0.734534999,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2023,0.747638611,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2024,0.760742223,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2025,0.773845835,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2026,0.785962812,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2027,0.798079789,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2028,0.810196766,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2029,0.822313743,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2030,0.83443072,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2031,0.844883262,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2032,0.855335804,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2033,0.865788346,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2034,0.876240888,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2035,0.88669343,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2036,0.894635168,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2037,0.902576906,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2038,0.910518644,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2039,0.918460382,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2040,0.92640212,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2041,0.930788295,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2042,0.935174469,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2043,0.939560643,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2044,0.943946818,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2045,0.948332992,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2046,0.947886772,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2047,0.947440552,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2048,0.946994332,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2049,0.946548112,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2050,0.946101892,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2051,0.954954537,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2052,0.963807182,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2053,0.972659827,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2054,0.981512473,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2055,0.990365118,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2015,0.59017429,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2016,0.595477221,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2017,0.600780151,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2018,0.606083082,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2019,0.611386013,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2020,0.616688944,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2021,0.621225615,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2022,0.625762287,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2023,0.630298958,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2024,0.634835629,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2025,0.6393723,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2026,0.642849423,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2027,0.646326546,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2028,0.64980367,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2029,0.653280793,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2030,0.656757916,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2031,0.658821724,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2032,0.660885533,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2033,0.662949341,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2034,0.66501315,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2035,0.667076959,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2036,0.667303522,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2037,0.667530085,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2038,0.667756649,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2039,0.667983212,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2040,0.668209775,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2041,0.666094099,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2042,0.663978423,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2043,0.661862747,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2044,0.659747071,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2045,0.657631394,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2046,0.652575222,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2047,0.647519049,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2048,0.642462876,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2049,0.637406703,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2050,0.63235053,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2051,0.623648767,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2052,0.614947003,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2053,0.606245239,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2054,0.597543475,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,pipeline gas,,2055,0.588841712,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2015,0.59017429,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2016,0.613804987,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2017,0.637435683,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2018,0.66106638,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2019,0.684697077,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2020,0.708327774,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2021,0.721431386,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2022,0.734534999,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2023,0.747638611,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2024,0.760742223,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2025,0.773845835,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2026,0.785962812,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2027,0.798079789,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2028,0.810196766,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2029,0.822313743,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2030,0.83443072,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2031,0.844883262,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2032,0.855335804,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2033,0.865788346,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2034,0.876240888,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2035,0.88669343,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2036,0.894635168,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2037,0.902576906,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2038,0.910518644,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2039,0.918460382,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2040,0.92640212,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2041,0.930788295,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2042,0.935174469,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2043,0.939560643,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2044,0.943946818,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2045,0.948332992,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2046,0.947886772,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2047,0.947440552,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2048,0.946994332,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2049,0.946548112,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2050,0.946101892,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2051,0.954954537,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2052,0.963807182,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2053,0.972659827,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2054,0.981512473,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2055,0.990365118,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2015,0.59017429,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2016,0.595477221,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2017,0.600780151,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2018,0.606083082,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2019,0.611386013,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2020,0.616688944,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2021,0.621225615,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2022,0.625762287,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2023,0.630298958,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2024,0.634835629,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2025,0.6393723,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2026,0.642849423,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2027,0.646326546,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2028,0.64980367,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2029,0.653280793,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2030,0.656757916,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2031,0.658821724,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2032,0.660885533,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2033,0.662949341,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2034,0.66501315,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2035,0.667076959,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2036,0.667303522,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2037,0.667530085,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2038,0.667756649,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2039,0.667983212,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2040,0.668209775,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2041,0.666094099,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2042,0.663978423,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2043,0.661862747,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2044,0.659747071,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2045,0.657631394,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2046,0.652575222,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2047,0.647519049,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2048,0.642462876,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2049,0.637406703,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2050,0.63235053,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2051,0.623648767,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2052,0.614947003,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2053,0.606245239,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2054,0.597543475,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2055,0.588841712,MITIGATION
 iron & steel,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2015,0.139923,REFERENCE
 iron & steel,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2016,0.143205543,REFERENCE
 iron & steel,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2017,0.146488086,REFERENCE
@@ -4926,88 +4918,88 @@ agriculture & livestock,FALSE,total,exajoule,,,population,,mexico,,,,,linear_int
 agriculture & livestock,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2053,0,MITIGATION
 agriculture & livestock,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2054,0,MITIGATION
 agriculture & livestock,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2055,0,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2015,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2016,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2017,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2018,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2019,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2020,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2021,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2022,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2023,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2024,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2025,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2026,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2027,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2028,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2029,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2030,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2031,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2032,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2033,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2034,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2035,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2036,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2037,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2038,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2039,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2040,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2041,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2042,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2043,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2044,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2045,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2046,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2047,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2048,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2049,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2050,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2051,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2052,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2053,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2054,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2055,0,REFERENCE
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2015,0,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2016,0.00068291,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2017,0.001365819,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2018,0.002048729,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2019,0.002731639,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2020,0.003414548,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2021,0.004148601,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2022,0.004882654,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2023,0.005616707,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2024,0.00635076,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2025,0.007084814,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2026,0.007852486,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2027,0.008620158,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2028,0.009387831,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2029,0.010155503,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2030,0.010923175,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2031,0.011699048,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2032,0.01247492,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2033,0.013250792,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2034,0.014026665,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2035,0.014802537,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2036,0.015551322,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2037,0.016300108,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2038,0.017048893,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2039,0.017797679,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2040,0.018546464,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2041,0.019220664,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2042,0.019894864,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2043,0.020569065,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2044,0.021243265,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2045,0.021917465,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2046,0.022454604,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2047,0.022991743,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2048,0.023528882,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2049,0.024066021,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2050,0.02460316,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2051,0.024922538,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2052,0.025241916,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2053,0.025561294,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2054,0.025880672,MITIGATION
-o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,compressed hydrogen,,2055,0.02620005,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2015,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2016,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2017,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2018,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2019,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2020,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2021,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2022,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2023,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2024,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2025,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2026,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2027,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2028,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2029,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2030,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2031,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2032,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2033,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2034,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2035,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2036,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2037,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2038,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2039,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2040,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2041,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2042,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2043,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2044,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2045,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2046,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2047,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2048,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2049,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2050,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2051,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2052,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2053,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2054,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2055,0,REFERENCE
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2015,0,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2016,0.00068291,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2017,0.001365819,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2018,0.002048729,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2019,0.002731639,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2020,0.003414548,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2021,0.004148601,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2022,0.004882654,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2023,0.005616707,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2024,0.00635076,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2025,0.007084814,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2026,0.007852486,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2027,0.008620158,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2028,0.009387831,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2029,0.010155503,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2030,0.010923175,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2031,0.011699048,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2032,0.01247492,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2033,0.013250792,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2034,0.014026665,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2035,0.014802537,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2036,0.015551322,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2037,0.016300108,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2038,0.017048893,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2039,0.017797679,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2040,0.018546464,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2041,0.019220664,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2042,0.019894864,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2043,0.020569065,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2044,0.021243265,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2045,0.021917465,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2046,0.022454604,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2047,0.022991743,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2048,0.023528882,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2049,0.024066021,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2050,0.02460316,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2051,0.024922538,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2052,0.025241916,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2053,0.025561294,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2054,0.025880672,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2055,0.02620005,MITIGATION
 chemicals,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2015,0,REFERENCE
 chemicals,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2016,0,REFERENCE
 chemicals,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2017,0,REFERENCE
@@ -5992,3 +5984,44 @@ other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpo
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2053,0,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2054,0,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2055,0,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2015,0.050379589,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2016,0.051046284,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2017,0.051633751,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2018,0.052144071,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2019,0.05257925,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2020,0.052941229,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2021,0.052341099,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2022,0.051706908,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2023,0.051039393,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2024,0.050339267,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2025,0.049607227,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2026,0.048673669,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2027,0.047706061,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2028,0.046704951,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2029,0.045670874,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2030,0.044604354,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2031,0.043338616,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2032,0.042039271,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2033,0.040706632,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2034,0.03934101,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2035,0.037942708,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2036,0.036369501,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2037,0.03476364,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2038,0.033125158,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2039,0.031454088,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2040,0.029750463,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2041,0.027926405,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2042,0.026071248,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2043,0.024184694,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2044,0.022266439,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2045,0.020316179,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2046,0.018340154,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2047,0.016335285,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2048,0.014300889,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2049,0.012236266,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2050,0.01014069,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2051,0.008302714,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2052,0.006373694,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2053,0.004349708,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2054,0.002226608,MITIGATION
+o&g downstream,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2055,0,MITIGATION
