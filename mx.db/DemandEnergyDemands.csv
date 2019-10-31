@@ -3027,11 +3027,6 @@ other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpo
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2048,1.573297233,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2049,1.632436254,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2050,1.691575274,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2051,1.762252541,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2052,1.832929807,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2053,1.903607074,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2054,1.97428434,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2055,2.044961606,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2015,0.416526,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2016,0.435885086,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2017,0.455244173,MITIGATION
@@ -3068,11 +3063,6 @@ other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpo
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2048,1.583934089,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2049,1.642307379,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2050,1.70068067,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2051,1.769673758,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2052,1.838666846,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2053,1.907659934,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2054,1.976653023,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2055,2.045646111,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coal,,2015,0.078168472,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coal,,2016,0.0809766,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coal,,2017,0.083784728,REFERENCE
@@ -3109,11 +3099,6 @@ other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpo
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coal,,2048,0.220653994,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coal,,2049,0.227080173,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coal,,2050,0.233506352,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coal,,2051,0.240820082,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coal,,2052,0.248133812,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coal,,2053,0.255447542,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coal,,2054,0.262761272,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coal,,2055,0.270075002,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coal,,2015,0.078168472,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coal,,2016,0.0809766,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coal,,2017,0.083784728,MITIGATION
@@ -3150,11 +3135,6 @@ other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpo
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coal,,2048,0.026348079,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coal,,2049,0.023038074,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coal,,2050,0.01972807,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coal,,2051,0.015782456,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coal,,2052,0.011836842,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coal,,2053,0.007891228,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coal,,2054,0.003945614,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coal,,2055,0,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coking coal,,2015,0.005165416,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coking coal,,2016,0.005371645,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coking coal,,2017,0.005577874,REFERENCE
@@ -3191,11 +3171,6 @@ other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpo
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coking coal,,2048,0.016316812,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coking coal,,2049,0.016845809,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coking coal,,2050,0.017374806,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coking coal,,2051,0.017988601,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coking coal,,2052,0.018602396,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coking coal,,2053,0.019216191,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coking coal,,2054,0.019829986,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coking coal,,2055,0.020443781,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coking coal,,2015,0.005165416,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coking coal,,2016,0.005371645,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coking coal,,2017,0.005577874,MITIGATION
@@ -3232,11 +3207,6 @@ other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpo
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coking coal,,2048,0.001741096,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coking coal,,2049,0.001522369,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coking coal,,2050,0.001303642,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coking coal,,2051,0.001042913,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coking coal,,2052,0.000782185,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coking coal,,2053,0.000521457,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coking coal,,2054,0.000260728,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,coking coal,,2055,1.91E-18,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2015,0.035719577,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2016,0.037386726,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2017,0.039053874,REFERENCE
@@ -3273,11 +3243,6 @@ other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpo
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2048,0.133079231,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2049,0.137954408,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2050,0.142829585,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2051,0.148596134,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2052,0.154362683,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2053,0.160129232,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2054,0.165895781,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2055,0.171662331,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2015,0.035719577,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2016,0.037386726,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2017,0.039053874,MITIGATION
@@ -3314,11 +3279,6 @@ other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpo
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2048,0.045491872,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2049,0.045325856,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2050,0.04515984,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2051,0.044939886,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2052,0.044719932,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2053,0.044499978,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2054,0.044280024,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,diesel fuel,,2055,0.04406007,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,lpg fuel,,2015,0.046869486,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,lpg fuel,,2016,0.048219163,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,lpg fuel,,2017,0.049568839,REFERENCE
@@ -3355,11 +3315,6 @@ other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpo
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,lpg fuel,,2048,0.104243823,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,lpg fuel,,2049,0.106410156,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,lpg fuel,,2050,0.108576489,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,lpg fuel,,2051,0.110852319,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,lpg fuel,,2052,0.113128149,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,lpg fuel,,2053,0.115403979,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,lpg fuel,,2054,0.117679809,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,lpg fuel,,2055,0.119955639,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,lpg fuel,,2015,0.046869486,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,lpg fuel,,2016,0.048219163,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,lpg fuel,,2017,0.049568839,MITIGATION
@@ -3396,11 +3351,6 @@ other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpo
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,lpg fuel,,2048,0,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,lpg fuel,,2049,0,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,lpg fuel,,2050,0,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,lpg fuel,,2051,0,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,lpg fuel,,2052,0,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,lpg fuel,,2053,0,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,lpg fuel,,2054,0,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,lpg fuel,,2055,0,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,biomass_blend,,2015,0.062380479,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,biomass_blend,,2016,0.063654667,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,biomass_blend,,2017,0.064928856,REFERENCE
@@ -3437,11 +3387,6 @@ other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpo
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,biomass_blend,,2048,0.094884858,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,biomass_blend,,2049,0.095131648,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,biomass_blend,,2050,0.095378438,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,biomass_blend,,2051,0.095110312,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,biomass_blend,,2052,0.094842187,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,biomass_blend,,2053,0.094574061,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,biomass_blend,,2054,0.094305935,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,biomass_blend,,2055,0.094037809,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,biomass_blend,,2015,0.062380479,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,biomass_blend,,2016,0.063654667,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,biomass_blend,,2017,0.064928856,MITIGATION
@@ -3478,11 +3423,6 @@ other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpo
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,biomass_blend,,2048,0.10265398,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,biomass_blend,,2049,0.103792193,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,biomass_blend,,2050,0.104930407,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,biomass_blend,,2051,0.105974361,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,biomass_blend,,2052,0.107018314,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,biomass_blend,,2053,0.108062268,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,biomass_blend,,2054,0.109106222,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,biomass_blend,,2055,0.110150175,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2015,0.000106123,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2016,0.000121876,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2017,0.000137629,REFERENCE
@@ -3519,11 +3459,6 @@ other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpo
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2048,0.001302478,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2049,0.001371492,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2050,0.001440506,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2051,0.001525832,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2052,0.001611158,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2053,0.001696485,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2054,0.001781811,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2055,0.001867138,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2015,0.000106123,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2016,0.000121876,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2017,0.000137629,MITIGATION
@@ -3560,11 +3495,6 @@ other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpo
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2048,0.040849533,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2049,0.042734882,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2050,0.04462023,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2051,0.046711201,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2052,0.048802173,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2053,0.050893144,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2054,0.052984116,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,solar,,2055,0.055075088,MITIGATION
 agriculture & livestock,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2015,0.036243,REFERENCE
 agriculture & livestock,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2016,0.036630531,REFERENCE
 agriculture & livestock,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,electricity,,2017,0.037018063,REFERENCE
@@ -4421,11 +4351,6 @@ other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpo
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2048,0.882199186,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2049,0.918760902,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2050,0.955322618,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2051,0.999305198,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2052,1.043287778,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2053,1.087270358,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2054,1.131252938,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2055,1.175235518,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2015,0.188281992,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2016,0.199221349,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2017,0.210160707,MITIGATION
@@ -4462,11 +4387,6 @@ other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpo
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2048,0.488593732,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2049,0.495400568,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2050,0.502207404,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2051,0.547164155,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2052,0.592120905,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2053,0.637077656,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2054,0.682034406,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2055,0.726991156,MITIGATION
 agriculture & livestock,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2015,0,REFERENCE
 agriculture & livestock,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2016,0,REFERENCE
 agriculture & livestock,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,pipeline gas,,2017,0,REFERENCE
@@ -4872,11 +4792,6 @@ other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpo
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2048,0,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2049,0,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2050,0,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2051,0,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2052,0,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2053,0,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2054,0,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2055,0,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2015,0,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2016,0,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2017,0,MITIGATION
@@ -4913,11 +4828,6 @@ other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpo
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2048,0.081627525,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2049,0.085407209,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2050,0.089186893,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2051,0.093379549,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2052,0.097572206,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2053,0.101764862,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2054,0.105957519,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2055,0.110150175,MITIGATION
 agriculture & livestock,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2015,0,REFERENCE
 agriculture & livestock,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2016,0,REFERENCE
 agriculture & livestock,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,compressed hydrogen,,2017,0,REFERENCE
@@ -5528,11 +5438,6 @@ other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpo
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2048,0.069118252,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2049,0.065562239,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2050,0.062006227,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2051,0.056744182,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2052,0.051482138,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2053,0.046220093,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2054,0.040958049,REFERENCE
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2055,0.035696005,REFERENCE
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2015,0.088144115,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2016,0.094651358,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2017,0.100707765,MITIGATION
@@ -5569,11 +5474,6 @@ other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpo
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2048,0.012674217,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2049,0.006337108,MITIGATION
 other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2050,0,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2051,0,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2052,0,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2053,0,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2054,0,MITIGATION
-other manufacturing,FALSE,total,exajoule,,,population,,mexico,,,,,linear_interpolation,nearest,,2016 GWh,,,mx,,,residual fuel oil,,2055,0,MITIGATION
 o&g upstream ,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2015,0.021682044,DDP
 o&g upstream ,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2016,0.021724724,DDP
 o&g upstream ,FALSE,total,exajoule,,,,,mexico,,,,,linear_interpolation,exponential_interpolation,,2016 GWh,,,mx,,,electricity,,2017,0.02186352,DDP
