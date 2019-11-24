@@ -1,12 +1,12 @@
-subsector,is_service_demand_dependent,driver_denominator_1,driver_denominator_2,driver_1,driver_2,geography,other_index_1,other_index_2,geography_map_key,input_type,demand_stock_unit_type,unit,time_unit,interpolation_method,extrapolation_method,extrapolation_growth,specify_stocks_past_current_year,source,notes,gau,oth_1,oth_2,demand_technology,year,value
-Busses,TRUE,,,,,mexico,,,,intensity,equipment,bus,,linear_interpolation,nearest,,TRUE,,,mx,,,,2015,1.66E-05
-Light-duty vehicle,TRUE,,,,,mexico,,,,intensity,equipment,car,,linear_interpolation,nearest,,TRUE,,,mx,,,,2015,5.27E-05
-Light-duty vehicle,TRUE,,,,,mexico,,,,intensity,equipment,car,,linear_interpolation,nearest,,TRUE,,,mx,,,,2020,5.28E-05
-Light-duty vehicle,TRUE,,,,,mexico,,,,intensity,equipment,car,,linear_interpolation,nearest,,TRUE,,,mx,,,,2030,5.67E-05
-Light-duty vehicle,TRUE,,,,,mexico,,,,intensity,equipment,car,,linear_interpolation,nearest,,TRUE,,,mx,,,,2040,6.70E-05
-Light-duty vehicle,TRUE,,,,,mexico,,,,intensity,equipment,car,,linear_interpolation,nearest,,TRUE,,,mx,,,,2050,8.53E-05
-Two & three wheelers,TRUE,,,,,mexico,,,,intensity,equipment,vehicle,,linear_interpolation,nearest,,TRUE,,,mx,,,,2015,6.68E-05
-Two & three wheelers,TRUE,,,,,mexico,,,,intensity,equipment,vehicle,,linear_interpolation,nearest,,TRUE,,,mx,,,,2020,7.44E-05
-Two & three wheelers,TRUE,,,,,mexico,,,,intensity,equipment,vehicle,,linear_interpolation,nearest,,TRUE,,,mx,,,,2030,8.79E-05
-Two & three wheelers,TRUE,,,,,mexico,,,,intensity,equipment,vehicle,,linear_interpolation,nearest,,TRUE,,,mx,,,,2040,9.94E-05
-Two & three wheelers,TRUE,,,,,mexico,,,,intensity,equipment,vehicle,,linear_interpolation,nearest,,TRUE,,,mx,,,,2050,1.09E-04
+subsector,is_service_demand_dependent,driver_denominator_1,driver_denominator_2,driver_1,driver_2,driver_3,geography,other_index_1,other_index_2,geography_map_key,input_type,demand_stock_unit_type,unit,time_unit,interpolation_method,extrapolation_method,extrapolation_growth,specify_stocks_past_current_year,source,notes,gau,oth_1,oth_2,demand_technology,year,value
+Busses,TRUE,,,,,,mexico,,,,intensity,equipment,bus,,linear_interpolation,nearest,,TRUE,,,mx,,,,2015,1.66E-05
+Light-duty vehicle,TRUE,,,,,,mexico,,,,intensity,equipment,car,,linear_interpolation,nearest,,TRUE,,,mx,,,,2015,5.27E-05
+Light-duty vehicle,TRUE,,,,,,mexico,,,,intensity,equipment,car,,linear_interpolation,nearest,,TRUE,,,mx,,,,2020,5.28E-05
+Light-duty vehicle,TRUE,,,,,,mexico,,,,intensity,equipment,car,,linear_interpolation,nearest,,TRUE,,,mx,,,,2030,5.67E-05
+Light-duty vehicle,TRUE,,,,,,mexico,,,,intensity,equipment,car,,linear_interpolation,nearest,,TRUE,,,mx,,,,2040,6.70E-05
+Light-duty vehicle,TRUE,,,,,,mexico,,,,intensity,equipment,car,,linear_interpolation,nearest,,TRUE,,,mx,,,,2050,8.53E-05
+Two & three wheelers,TRUE,,,,,,mexico,,,,intensity,equipment,vehicle,,linear_interpolation,nearest,,TRUE,,,mx,,,,2015,6.68E-05
+Two & three wheelers,TRUE,,,,,,mexico,,,,intensity,equipment,vehicle,,linear_interpolation,nearest,,TRUE,,,mx,,,,2020,7.44E-05
+Two & three wheelers,TRUE,,,,,,mexico,,,,intensity,equipment,vehicle,,linear_interpolation,nearest,,TRUE,,,mx,,,,2030,8.79E-05
+Two & three wheelers,TRUE,,,,,,mexico,,,,intensity,equipment,vehicle,,linear_interpolation,nearest,,TRUE,,,mx,,,,2040,9.94E-05
+Two & three wheelers,TRUE,,,,,,mexico,,,,intensity,equipment,vehicle,,linear_interpolation,nearest,,TRUE,,,mx,,,,2050,1.09E-04

@@ -1,183 +1,121 @@
-subsector,is_stock_dependent,input_type,unit,driver_denominator_1,driver_denominator_2,driver_1,driver_2,geography,final_energy_index,demand_technology_index,other_index_1,other_index_2,interpolation_method,extrapolation_method,extrapolation_growth,geography_map_key,source,notes,gau,final_energy,demand_technology,oth_1,oth_2,year,value,sensitivity
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2015,80635895590,Reference
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2020,87523076110,Reference
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2030,1.00524E+11,Reference
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2040,1.12494E+11,Reference
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2050,1.23433E+11,Reference
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2015,79026096102,Reference
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2020,87299012469,Reference
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2030,1.03937E+11,Reference
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2040,1.20699E+11,Reference
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2050,1.37584E+11,Reference
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2015,1.022E+11,Reference
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2020,1.13998E+11,Reference
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2030,1.38328E+11,Reference
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2040,1.63635E+11,Reference
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2050,1.8992E+11,Reference
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2015,1.23729E+11,Reference
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2020,1.36328E+11,Reference
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2030,1.61474E+11,Reference
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2040,1.8655E+11,Reference
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2050,2.11557E+11,Reference
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2015,9768457639,Reference
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2020,10677421401,Reference
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2030,12439488596,Reference
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2040,14127075352,Reference
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2050,15740181669,Reference
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2015,0,Reference
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2020,0,Reference
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2030,0,Reference
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2040,0,Reference
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2050,0,Reference
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2015,7511714221,Reference
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2020,8386685592,Reference
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2030,10192488663,Reference
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2040,12072772173,Reference
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2050,14027536122,Reference
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2015,0,Reference
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2020,0,Reference
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2030,0,Reference
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2040,0,Reference
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2050,0,Reference
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2015,5487861717,Reference
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2020,5330102315,Reference
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2030,5071383728,Reference
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2040,4860859265,Reference
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2050,4680169260,Reference
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2015,3259031677,Reference
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2020,3573628345,Reference
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2030,4207764894,Reference
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2040,4848492394,Reference
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2050,5495810843,Reference
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2015,3284737719,Reference
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2020,3221833979,Reference
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2030,3127356827,Reference
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2040,3059462983,Reference
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2050,3008025473,Reference
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2015,5102574306,Reference
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2020,5606097793,Reference
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2030,6626515519,Reference
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2040,7664760914,Reference
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2050,8720833980,Reference
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2015,80635895590,Mode switching
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2020,79304585790,Mode switching
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2030,75530647625,Mode switching
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2040,70274951373,Mode switching
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2050,63537497032,Mode switching
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2015,79026096102,Mode switching
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2020,86563806515,Mode switching
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2030,1.02657E+11,Mode switching
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2040,1.20106E+11,Mode switching
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2050,1.38911E+11,Mode switching
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2015,1.022E+11,Mode switching
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2020,1.00275E+11,Mode switching
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2030,94960143494,Mode switching
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2040,87691555428,Mode switching
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2050,78469465381,Mode switching
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2015,1.23729E+11,Mode switching
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2020,1.3539E+11,Mode switching
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2030,1.6027E+11,Mode switching
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2040,1.87229E+11,Mode switching
-Light-duty vehicle,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2050,2.16267E+11,Mode switching
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2015,9768457639,Mode switching
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2020,10078607827,Mode switching
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2030,10671839826,Mode switching
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2040,11228980657,Mode switching
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2050,11750030318,Mode switching
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2015,0,Mode switching
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2020,0,Mode switching
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2030,0,Mode switching
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2040,0,Mode switching
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2050,0,Mode switching
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2015,7511714221,Mode switching
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2020,7943952082,Mode switching
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2030,8835496179,Mode switching
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2040,9763131445,Mode switching
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2050,10726857881,Mode switching
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2015,0,Mode switching
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2020,0,Mode switching
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2030,0,Mode switching
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2040,0,Mode switching
-Two & three wheelers,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2050,0,Mode switching
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2015,4573218097,Mode switching
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2020,4514929257,Mode switching
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2030,4345787515,Mode switching
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2040,4125003890,Mode switching
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2050,3867333205,Mode switching
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2015,3259031677,Mode switching
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2020,3595089674,Mode switching
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2030,4280884316,Mode switching
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2040,4984917153,Mode switching
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2050,5707188183,Mode switching
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2015,3284737719,Mode switching
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2020,3310454514,Mode switching
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2030,3384367436,Mode switching
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2040,3477353731,Mode switching
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2050,3582147353,Mode switching
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2015,5102574306,Mode switching
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2020,5624014839,Mode switching
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2030,6685855902,Mode switching
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2040,7772976961,Mode switching
-Busses,FALSE,total,kilometer,,,population,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2050,8885378017,Mode switching
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,
+subsector,is_stock_dependent,input_type,unit,driver_denominator_1,driver_denominator_2,driver_1,driver_2,driver_3,geography,final_energy_index,demand_technology_index,other_index_1,other_index_2,interpolation_method,extrapolation_method,extrapolation_growth,geography_map_key,source,notes,gau,final_energy,demand_technology,oth_1,oth_2,year,value,sensitivity
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2015,80635895590,Reference
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2020,87523076110,Reference
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2030,1.01E+11,Reference
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2040,1.12E+11,Reference
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2050,1.23E+11,Reference
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2015,79026096102,Reference
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2020,87299012469,Reference
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2030,1.04E+11,Reference
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2040,1.21E+11,Reference
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2050,1.38E+11,Reference
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2015,1.02E+11,Reference
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2020,1.14E+11,Reference
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2030,1.38E+11,Reference
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2040,1.64E+11,Reference
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2050,1.90E+11,Reference
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2015,1.24E+11,Reference
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2020,1.36E+11,Reference
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2030,1.61E+11,Reference
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2040,1.87E+11,Reference
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2050,2.12E+11,Reference
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2015,9768457639,Reference
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2020,10677421401,Reference
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2030,12439488596,Reference
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2040,14127075352,Reference
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2050,15740181669,Reference
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2015,0,Reference
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2020,0,Reference
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2030,0,Reference
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2040,0,Reference
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2050,0,Reference
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2015,7511714221,Reference
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2020,8386685592,Reference
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2030,10192488663,Reference
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2040,12072772173,Reference
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2050,14027536122,Reference
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2015,0,Reference
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2020,0,Reference
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2030,0,Reference
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2040,0,Reference
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2050,0,Reference
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2015,5487861717,Reference
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2020,5330102315,Reference
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2030,5071383728,Reference
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2040,4860859265,Reference
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2050,4680169260,Reference
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2015,3259031677,Reference
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2020,3573628345,Reference
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2030,4207764894,Reference
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2040,4848492394,Reference
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2050,5495810843,Reference
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2015,3284737719,Reference
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2020,3221833979,Reference
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2030,3127356827,Reference
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2040,3059462983,Reference
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2050,3008025473,Reference
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2015,5102574306,Reference
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2020,5606097793,Reference
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2030,6626515519,Reference
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2040,7664760914,Reference
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2050,8720833980,Reference
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2015,80635895590,Mode switching
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2020,79304585790,Mode switching
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2030,75530647625,Mode switching
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2040,70274951373,Mode switching
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2050,63537497032,Mode switching
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2015,79026096102,Mode switching
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2020,86563806515,Mode switching
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2030,1.03E+11,Mode switching
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2040,1.20E+11,Mode switching
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2050,1.39E+11,Mode switching
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2015,1.02E+11,Mode switching
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2020,1.00E+11,Mode switching
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2030,94960143494,Mode switching
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2040,87691555428,Mode switching
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2050,78469465381,Mode switching
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2015,1.24E+11,Mode switching
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2020,1.35E+11,Mode switching
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2030,1.60E+11,Mode switching
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2040,1.87E+11,Mode switching
+Light-duty vehicle,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2050,2.16E+11,Mode switching
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2015,9768457639,Mode switching
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2020,10078607827,Mode switching
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2030,10671839826,Mode switching
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2040,11228980657,Mode switching
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2050,11750030318,Mode switching
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2015,0,Mode switching
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2020,0,Mode switching
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2030,0,Mode switching
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2040,0,Mode switching
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2050,0,Mode switching
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2015,7511714221,Mode switching
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2020,7943952082,Mode switching
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2030,8835496179,Mode switching
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2040,9763131445,Mode switching
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2050,10726857881,Mode switching
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2015,0,Mode switching
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2020,0,Mode switching
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2030,0,Mode switching
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2040,0,Mode switching
+Two & three wheelers,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2050,0,Mode switching
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2015,4573218097,Mode switching
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2020,4514929257,Mode switching
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2030,4345787515,Mode switching
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2040,4125003890,Mode switching
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Constrained,2050,3867333205,Mode switching
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2015,3259031677,Mode switching
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2020,3595089674,Mode switching
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2030,4280884316,Mode switching
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2040,4984917153,Mode switching
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Metropolitan,Non-constrained,2050,5707188183,Mode switching
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2015,3284737719,Mode switching
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2020,3310454514,Mode switching
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2030,3384367436,Mode switching
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2040,3477353731,Mode switching
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Constrained,2050,3582147353,Mode switching
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2015,5102574306,Mode switching
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2020,5624014839,Mode switching
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2030,6685855902,Mode switching
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2040,7772976961,Mode switching
+Busses,FALSE,total,kilometer,,,population,,,mexico,,,metropolitan type,passenger trip type,linear_interpolation,nearest,,,,,mx,,,Non-metropolitan,Non-constrained,2050,8885378017,Mode switching
